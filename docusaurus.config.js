@@ -1,14 +1,14 @@
 module.exports = {
-  title: 'My Site',
+  title: 'JKT48 Information Center',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://jkt48.vercel.app',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'JKT48 Discord', // Usually your GitHub org/user name.
+  projectName: 'jkt48-wiki', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'JKT48 Information Center',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -20,9 +20,9 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {href: 'https://invite.gg/jkt48', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/crse/jkt48-wiki',
           label: 'GitHub',
           position: 'right',
         },
@@ -32,7 +32,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Social',
           items: [
             {
               label: 'Style Guide',
@@ -45,19 +45,15 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Community and SNS',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://invite.gg/jkt48',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/JKT48Discord',
             },
           ],
         },
@@ -75,7 +71,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyleft © ${new Date().getFullYear()} JKT48Discord. Built with ♥ by Christian Elbrianno.`,
     },
   },
   presets: [
