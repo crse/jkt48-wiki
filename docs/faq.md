@@ -1,6 +1,17 @@
 ---
-id: doc2
+id: faq
 title: Document Number 2
 ---
 
-This is a link to [another document.](doc3.md) This is a link to an [external page.](http://www.example.com)
+# FAQ untuk Fans Baru
+
+## Bagaimana cara untuk bergabung di komunitas fans JKT48?
+
+Komunitas JKT48 terbagi dalam banyak tipe, salah satu yang terbesar adalah fanbase member dan fanbase regional.
+
+## Apa itu HS dan VC?
+
+## Bagaimana cara membeli tiket?
+
+## Apa itu Official Fan Club?
+
