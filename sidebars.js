@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    Pertama: ['faq'],
+    JKT48: ['faq', 'fanbase'],
     'SNS Archive': ['archive'],
   },
 };
