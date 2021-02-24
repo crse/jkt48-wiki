@@ -1,7 +1,7 @@
 ---
 id: fanbase
-title: Official Fanbase
-sidebar_label: Arsip Sosmed
+title: Fanbase
+sidebar_label: Fanbase
 ---
 
 :::tip
