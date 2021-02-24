@@ -4,8 +4,6 @@ title: Arsip Sosial Media
 sidebar_label: Arsip Sosmed
 ---
 
-# JKT48 SNS Archive
-
 Proyek oleh [JKT48Discord](https://twitter.com/JKT48Discord) - Discord invite: https://invite.gg/jkt48.
 
 Uploader: Boim ([@hirolasaa](https://twitter.com/hirolasaa)), Mael ([@maeruuuuu](https://twitter.com/maeruuuuu)), dan Chris ([@penguinwota](https://twitter.com/penguinwota))
@@ -16,15 +14,13 @@ Sponsor OneDrive oleh: [@KucingMasjidRY](https://twitter.com/KucingMasjidRY)
 
 > Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac)
 
-> 🔐Password archive: `JKT48Discord`
-
 - 🟢 Complete 
 - 🟢🔴 Post complete, IG story belum terbackup semua 
 - 🔵 Ongoing (bakal terus diupdate, link sama) 
 - 🟡 Kemungkinan tidak lengkap 
 - 🔴 Tidak lengkap
 
-------------
+> 🔐Password archive: `JKT48Discord`
 
 ## Current member (All ongoing)
 
@@ -61,31 +57,33 @@ Sponsor OneDrive oleh: [@KucingMasjidRY](https://twitter.com/KucingMasjidRY)
 
 1st Gen
 - Frieska Anastasia Laksani
-  - 🟢🔴Instagram: [@jkt48frieska](https://1drv.ms/u/s!At0yKdjMPQCyhNhg7iLjK-qiUuXGvg?e=YfbUPW)
+  - 🟢🔴Instagram: [@jkt48frieska](https://1drv.ms/u/s!At0yKdjMPQCyhNhg7iLjK-qiUuXGvg?e=YfbUPW) (235MB) [2021.02.23, 19:00]
   - 🟢Twitter: [@frieskaJKT48](https://1drv.ms/u/s!At0yKdjMPQCyg-oYa8aqBGRioUyC3g?e=PWJZO1) [2021.01.31, 13:00]
 
 2nd Gen
 - Nadila Cindi Wantari
   - 🟢🔴Instagram: [@jkt48nadila](https://1drv.ms/u/s!At0yKdjMPQCyhK18uQQnhDJqsBhgiA?e=O0FTfn) (208MB) [2021.02.07, 22:00]
   - 🟢Twitter: [@Nadila_JKT48](https://1drv.ms/u/s!At0yKdjMPQCyhIAyMqVVmw_HD_xQug?e=kw7aCL) [2021.02.07, 22:00]
-
+- Rona Anggraeni
+  - 🟢🔴Instagram: [@jkt48rona](https://1drv.ms/u/s!At0yKdjMPQCyhLV0bdfjw9r5oSjbjg?e=cobVM9) (932MB) [2021.02.13, 18:00] 
+  - 🟢Twitter: [@Ayen_JKT48](https://1drv.ms/u/s!At0yKdjMPQCyhMUnTvsogg7cGO-YpQ?e=PcxpkB) (553MB) [2021.02.13, 22:14]
 
 3rd Gen
 
 - Maria Genoveva Natalia Desy Purnamasari Gunawan
-  - 🟢🔴Instagram: [@jkt48desy](https://1drv.ms/f/s!At0yKdjMPQCyg5cqHzg3tX4K8In6lg)
+  - 🟢🔴Instagram: [@jkt48desy](https://1drv.ms/f/s!At0yKdjMPQCyg5cqHzg3tX4K8In6lg) (1,63GB)
   - 🟢Twitter [@M_DesyJKT48](https://1drv.ms/u/s!At0yKdjMPQCyguQaTkKBiginj1sjBQ?e=7GWDIk)
 - Michelle Christo
-  - 🟢🔴Instagram: [@jkt48michelle](https://1drv.ms/u/s!At0yKdjMPQCyyweEXpD6ur9SyUrg?e=E4Anm2)
+  - 🟢🔴Instagram: [@jkt48michelle](https://1drv.ms/u/s!At0yKdjMPQCyyweEXpD6ur9SyUrg?e=E4Anm2) (527MB)
 - Ni Made Ayu Vania Aurellia
-  - 🟢🔴Instagram: [@jkt48aurel](https://1drv.ms/u/s!At0yKdjMPQCywjCfdwQrXKzXAjzY?e=rEZT8o)
+  - 🟢🔴Instagram: [@jkt48aurel](https://1drv.ms/u/s!At0yKdjMPQCywjCfdwQrXKzXAjzY?e=rEZT8o) (419MB)
   - 🟡TikTok: [@aureljkt48](https://1drv.ms/u/s!At0yKdjMPQCygswNghWt8fcwAYDD8A?e=gOKWUP)
   - 🟢Twitter: [@N_AurelJKT48](https://1drv.ms/u/s!At0yKdjMPQCyg819HGHN-53mLFaSqA?e=b5egkR)
 
 4th Gen
 
 - Melati Putri
-  - 🟢🔴Instagram: [@jkt48melati](https://1drv.ms/u/s!At0yKdjMPQCyxH_z1kHvWaGJQjsn?e=VLEhqt) 
+  - 🟢🔴Instagram: [@jkt48melati](https://1drv.ms/u/s!At0yKdjMPQCyxH_z1kHvWaGJQjsn?e=VLEhqt) (682MB)
   - 🟢Twitter: [@Melati_JKT48](https://1drv.ms/u/s!At0yKdjMPQCya5nf-LsQ2kBgEvQ?e=gdHU8c)
 
 5th Gen

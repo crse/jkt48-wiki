@@ -26,7 +26,7 @@ module.exports = {
           label: 'Archive',
           position: 'left',
         },
-        {href: 'https://invite.gg/jkt48', label: 'Blog', position: 'left'},
+        {href: 'https://invite.gg/jkt48', label: 'Discord', position: 'left'},
         {
           href: 'https://github.com/crse/jkt48-wiki',
           label: 'GitHub',
@@ -77,7 +77,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyleft © ${new Date().getFullYear()} JKT48Discord. Built with ♥ by Christian Elbrianno.`,
+      copyright: `Copyleft © ${new Date().getFullYear()} JKT48 Discord. Built with ♥ by Christian Elbrianno.`,
     },
   },
   presets: [

@@ -1,17 +1,15 @@
 ---
 id: faq
-title: Document Number 2
+title: Pertanyaan yang Sering Ditanyakan (FAQ)
 ---
 
-# FAQ untuk Fans Baru
-
-## Bagaimana cara untuk bergabung di komunitas fans JKT48?
+### Bagaimana cara untuk bergabung di komunitas fans JKT48?
 
 Komunitas JKT48 terbagi dalam banyak tipe, salah satu yang terbesar adalah fanbase member dan fanbase regional.
 
-## Apa itu HS dan VC?
+### Apa itu HS dan VC?
 
-## Bagaimana cara membeli tiket?
+### Bagaimana cara membeli tiket?
 
-## Apa itu Official Fan Club?
+### Apa itu Official Fan Club?
 
