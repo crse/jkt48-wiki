@@ -10,9 +10,12 @@ Uploader: Boim ([@hirolasaa](https://twitter.com/hirolasaa)), Mael ([@maeruuuuu]
 
 Sponsor OneDrive oleh: [@KucingMasjidRY](https://twitter.com/KucingMasjidRY)
 
-:::tip
+:::info
 
 🔐Password archive: `JKT48Discord`
+
+:::
+:::tip
 
 Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac)
 

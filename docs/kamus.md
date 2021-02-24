@@ -4,7 +4,7 @@ title: Kamus Peridolan
 sidebar_label: Kamus Peridolan
 ---
 
-:::tip
+:::caution
 
 Bagian ini masih dalam proses pengerjaan.
 

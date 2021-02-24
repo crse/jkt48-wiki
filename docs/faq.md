@@ -4,7 +4,7 @@ title: Pertanyaan yang Sering Ditanyakan (FAQ)
 sidebar_label: FAQ
 ---
 
-:::tip
+:::caution
 
 Bagian ini masih dalam proses pengerjaan.
 
