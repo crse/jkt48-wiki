@@ -3,7 +3,4 @@ module.exports = {
     Pertama: ['faq'],
     'SNS Archive': ['archive'],
   },
-  themeConfig: {
-    hideableSidebar: true,
-  },
 };
