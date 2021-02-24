@@ -15,9 +15,15 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/doc1',
+          to: 'docs/faq',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'FAQ',
+          position: 'left',
+        },
+        {
+          to: 'docs/archive',
+          activeBasePath: 'docs',
+          label: 'Archive',
           position: 'left',
         },
         {href: 'https://invite.gg/jkt48', label: 'Blog', position: 'left'},
