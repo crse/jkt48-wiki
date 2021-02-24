@@ -33,7 +33,6 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac)
 
 1st Gen
 
-- Frieska Anastasia Laksani<br>Twitter: [@frieskaJKT48](https://1drv.ms/u/s!At0yKdjMPQCyg-oYa8aqBGRioUyC3g?e=PWJZO1) [2021.01.31, 13:00]
 - Gabriela Warouw<br>Twitter: [@gabyJKT48](https://1drv.ms/u/s!At0yKdjMPQCygs5wQ6sDWv_8wAVu3A?e=vlYGRS) [2020.12.19]
 
 
@@ -53,6 +52,10 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac)
 - Marsha Lenathea<br>Twitter: [@L_MarshaJKT48](https://1drv.ms/u/s!At0yKdjMPQCygsxpGjqoAg4xRRl4Tw?e=bW1DZC)
 
 ## Ex-member
+
+
+1st Gen
+- Frieska Anastasia Laksani<br>🟢🔴Instagram: [@jkt48frieska](https://1drv.ms/u/s!At0yKdjMPQCyhNhg7iLjK-qiUuXGvg?e=YfbUPW)<br>🟢Twitter: [@frieskaJKT48](https://1drv.ms/u/s!At0yKdjMPQCyg-oYa8aqBGRioUyC3g?e=PWJZO1) [2021.01.31, 13:00]
 
 2nd Gen
 - Nadila Cindi Wantari<br>🟢🔴Instagram: [@jkt48nadila](https://1drv.ms/u/s!At0yKdjMPQCyhK18uQQnhDJqsBhgiA?e=O0FTfn) (208MB) [2021.02.07, 22:00]
