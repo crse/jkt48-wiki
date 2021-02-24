@@ -15,20 +15,17 @@ Uploader: Boim ([@hirolasaa](https://twitter.com/hirolasaa)), Mael ([@maeruuuuu]
 
 Sponsor OneDrive oleh: [@KucingMasjidRY](https://twitter.com/KucingMasjidRY)
 
-__Ingin mendukung kami? Cukup bergabung ke JKT48 Discord community, dan jadi member aktif hehe__
-
 -----------
-
 
 Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac)
 
 🔐Password archive: `JKT48Discord`
 
-> 🟢 Complete <br>
-> 🟢🔴 Post complete, IG story belum terbackup semua <br>
-> 🔵 Ongoing (bakal terus diupdate, link sama) <br>
-> 🟡 Kemungkinan tidak lengkap <br>
-> 🔴 Tidak lengkap
+🟢 Complete <br>
+🟢🔴 Post complete, IG story belum terbackup semua <br>
+🔵 Ongoing (bakal terus diupdate, link sama) <br>
+🟡 Kemungkinan tidak lengkap <br>
+🔴 Tidak lengkap
 
 ------------
 
