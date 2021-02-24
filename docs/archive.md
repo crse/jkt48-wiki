@@ -25,7 +25,7 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac)
 🟢🔴 Post complete, IG story belum terbackup semua <br>
 🔵 Ongoing (bakal terus diupdate, link sama) <br>
 🟡 Kemungkinan tidak lengkap <br>
-🔴 Tidak lengkap
+🔴 Tidak lengkap<br>
 
 ------------
 
