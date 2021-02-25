@@ -24,7 +24,7 @@ Bagian ini masih dalam proses pengerjaan.
 
 :::tip
 
-Walau persyaratan bergabung fanbase adalah membayar uang kas rutin, kalian bisa tetap bergabung tanpa membayar uang kas selama kalian masih berminat untuk berpartisipasi dengan cara lain, seperti membuat desain poster, maupun menjadi koordinator project.
+Walau persyaratan bergabung fanbase member adalah membayar uang kas rutin, kalian bisa tetap bergabung tanpa membayar uang kas selama kalian masih berminat untuk berpartisipasi dengan cara lain, seperti membuat desain poster hingga menjadi koordinator project.
 
 :::
 

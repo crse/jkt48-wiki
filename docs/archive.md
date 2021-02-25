@@ -18,12 +18,6 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac). T
 
 :::
 
-- 🟢 Complete 
-- 🟢🔴 Post complete, IG story belum terbackup semua 
-- 🔵 Ongoing (bakal terus diupdate, link sama) 
-- 🟡 Kemungkinan tidak lengkap 
-- 🔴 Tidak lengkap
-
 ## Team
 
 - Team J: [@_JKT48TeamJ](https://1drv.ms/u/s!At0yKdjMPQCyg_NZ0ln1Bv-TaDR8ag?e=VMzWqp)
@@ -104,6 +98,16 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac). T
 
 ## Ex-member
 
+
+:::info
+
+- 🟢 Complete 
+- 🟢🔴 Post complete, IG story belum terbackup semua 
+- 🔵 Ongoing (bakal terus diupdate, link sama) 
+- 🟡 Kemungkinan tidak lengkap 
+- 🔴 Tidak lengkap
+
+:::
 
 ### 1st Gen
 - Ayana Shahab
