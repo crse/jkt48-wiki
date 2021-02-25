@@ -12,7 +12,7 @@ Bagian ini masih dalam proses pengerjaan.
 
 Kamus jargon sederhana ini menyertakan variasi penggunaan kosakata peridolan, mulai dari pengguanan di negara asalnya (Jepang) hingga di Indonesia. Kamus ini juga mencakup istilah peridolan internasional.
 
-:::info:::
+:::info Informasi
 
 
 Konsep idol Jepang
