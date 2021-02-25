@@ -63,20 +63,20 @@ module.exports = {
           ],
         },
         {
-          title: 'More',
+          title: 'Official Link',
           items: [
             {
-              label: 'Blog',
+              label: 'JKT48 Official Site',
               to: 'blog',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'test',
+              href: 'sdas',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} JKT48 Discord. Built with ♥ by 🐧 [Christian Elbrianno](https://twitter.com/penguinwota).`,
+      copyright: `Copyright © ${new Date().getFullYear()} JKT48 Discord. Built with ♥ by 🐧 Christian Elbrianno.`,
     },
   },
   presets: [
