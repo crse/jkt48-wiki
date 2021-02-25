@@ -20,13 +20,13 @@ Bagian ini masih dalam proses pengerjaan.
 |Academy|Alliance of JKT48 Academy|[@JKT48_Academy](https://twitter.com/JKT48_Academy)|
 
 
+## Fanbase Member
+
 :::tip
 
 Walau persyaratan bergabung fanbase adalah membayar uang kas rutin, kalian bisa tetap bergabung tanpa membayar uang kas selama kalian masih berminat untuk berpartisipasi dengan cara lain, seperti membuat desain poster, maupun menjadi koordinator project.
 
 :::
-
-## Fanbase Member
 
 | Member       | Nama Fanbase     | Twitter   |
 | :------------- | :----------: | -----------: |
