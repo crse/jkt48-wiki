@@ -14,9 +14,11 @@ Sponsor OneDrive oleh: [@KucingMasjidRY](https://twitter.com/KucingMasjidRY)
 
 🔐Password archive: `JKT48Discord`
 
+Arsip ini hanya menyediakan foto dan video saja. Tweet maupun kiriman teks lainnya tidak kami back-up.
+
 :::tip
 
-Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac). Tidak tahu nama lengkap atau generasi member? Cek [laman Wikipedia berikut ini](https://id.wikipedia.org/wiki/Daftar_anggota_JKT48).
+Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
 
 :::
 
@@ -36,7 +38,7 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac). T
 ### 1st Gen
 
 - Gabriela Warouw
-  - Twitter: [@gabyJKT48](https://1drv.ms/u/s!At0yKdjMPQCygs5wQ6sDWv_8wAVu3A?e=vlYGRS) [2020.12.19]
+  - Twitter: [@gabyJKT48](https://1drv.ms/u/s!At0yKdjMPQCygs5wQ6sDWv_8wAVu3A?e=vlYGRS)
 
 ### 3rd Gen
 - Anindhita Cahyadi
@@ -46,12 +48,14 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac). T
 
 ### 4th Gen
 - Adriani Elisabeth
+  - Tiktok: [@lisajkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOdmf1vPKXz64blngQ?e=3U1csL)
   - Twitter: [@Elisabeth_JKT48](https://1drv.ms/u/s!At0yKdjMPQCyhOwHL8xYNQgjl0XITQ?e=4j8zlr)
 - Tan Zhi Hui Celine
   - Instagram: [@jkt48celine](https://1drv.ms/u/s!At0yKdjMPQCyqhRTI6gZ297K6Ted?e=qzwq8f)
 
 ### 5th Gen
 - Diani Amalia Ramadhani
+  - Tiktok: [@dianijkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOsA7xftQsYuirUeeg?e=6Euf3V)
   - Twitter: [@DianiJKT48](https://1drv.ms/u/s!At0yKdjMPQCyg7pSl0u5BJpPzBMz6A?e=5m944Z)
 
 ### 7th Gen
@@ -60,6 +64,8 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac). T
   - Twitter: [@A_YoriJKT48](https://1drv.ms/u/s!At0yKdjMPQCy-DexPrehgkQvZ787?e=9Hleqr)
 - Dhea Angelia
   - Twitter: [@A_DeyJKT48](https://1drv.ms/u/s!At0yKdjMPQCygbER6wIIs4_8qQY2Tg?e=6jTLK7)
+- Febrina Diponegoro
+  - Tiktok: [@brijkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOcEj13KO4glxb2E6g?e=cNmNwL)
 - Febriola Sinambela
   - Twitter: [@F_OllaJKT48](https://1drv.ms/u/s!At0yKdjMPQCygbwmp5DnxrzgSQxxAA?e=rmW2cB)
 - Freyanashifa Jayawardana
@@ -71,7 +77,7 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac). T
 - Jesslyn Callista
   - Twitter: [@C_JesslynJKT48](https://1drv.ms/u/s!At0yKdjMPQCyuGYp1gfI_ttT_VJ-?e=d1u3r6)
 - Nabila Fitriana
-  - Twitter: [@N_LalaJKT48](https://1drv.ms/u/s!At0yKdjMPQCyg_cfju64R_n5S96RVg?e=0pCXIz) [2021.01.31, 13:00]
+  - Twitter: [@N_LalaJKT48](https://1drv.ms/u/s!At0yKdjMPQCyg_cfju64R_n5S96RVg?e=0pCXIz)
 - Viona Fadrin
   - Twitter: [@F_ViviJKT48](https://1drv.ms/u/s!At0yKdjMPQCygp9rjvaavRbLlf-TVQ?e=1LJWSL)
 
@@ -99,7 +105,12 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac). T
 - Marsha Lenathea
   - Twitter: [@L_MarshaJKT48](https://1drv.ms/u/s!At0yKdjMPQCygsxpGjqoAg4xRRl4Tw?e=bW1DZC)
 - Nabila Gusmarlia
+  - Instagram: [@jkt48nabila_](https://1drv.ms/u/s!At0yKdjMPQCyhZ1nZgyK2cY-hhwJHA?e=ZqE2fI)
+  - Tiktok: [@nabila.jkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOc3GO50kBElDZW7Cw?e=LznL1K)
   - Twitter: [@GNabilaJKT48](https://1drv.ms/f/s!At0yKdjMPQCyhOAui2RPRFJ9oxNV4Q)
+- Shinta Devi
+  - Instagram: [@jk48.shinta](https://1drv.ms/u/s!At0yKdjMPQCyhZc7woWtEHVvnaXpLg?e=0URflL)
+  - Tiktok: [@shintajkt48](https://1drv.ms/u/s!At0yKdjMPQCypjCEjdRrPdd-1oib?e=ybEOf9)
   
 
 ## Ex-member
@@ -107,15 +118,11 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac). T
 
 :::info
 
-🟢 Complete 
-
-🟢🔴 Post complete, IG story belum terbackup semua 
-
-🔵 Ongoing (bakal terus diupdate, link sama) 
-
-🟡 Kemungkinan tidak lengkap 
-
-🔴 Tidak lengkap
+- 🟢 Complete 
+- 🟢🔴 Post complete, IG story belum terbackup semua 
+- 🔵 Ongoing (bakal terus diupdate, link sama) 
+- 🟡 Kemungkinan tidak lengkap 
+- 🔴 Tidak lengkap
 
 :::
 
