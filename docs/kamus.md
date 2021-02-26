@@ -1,7 +1,7 @@
 ---
 id: kamus
 title: Kamus Peridolan
-sidebar_label: Kamus Peridolan
+sidebar_label: Kamus
 ---
 
 :::caution

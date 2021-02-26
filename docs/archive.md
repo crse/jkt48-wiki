@@ -6,6 +6,10 @@ sidebar_label: Arsip Sosmed
 
 Proyek oleh [JKT48Discord](https://twitter.com/JKT48Discord) - Discord invite: https://invite.gg/jkt48.
 
+[![alt text](https://i.imgur.com/jn7MupL.png "JKT48 Discord")](https://invite.gg/jkt48)
+
+<iframe src="https://discord.com/widget?id=600387836201664523&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 Uploader: Boim ([@hirolasaa](https://twitter.com/hirolasaa)), Mael ([@maeruuuuu](https://twitter.com/maeruuuuu)), dan Chris ([@penguinwota](https://twitter.com/penguinwota))
 
 Sponsor OneDrive oleh: [@KucingMasjidRY](https://twitter.com/KucingMasjidRY)
