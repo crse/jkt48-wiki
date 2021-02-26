@@ -18,10 +18,14 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac). T
 
 :::
 
-## Team
+## Official Account
 
+- JKT48
+  - Facebook: (official.jkt48)
+  - Instagram: (@jkt48)
+  - Twitter: (@officialJKT48)
 - Team J: [@_JKT48TeamJ](https://1drv.ms/u/s!At0yKdjMPQCyg_NZ0ln1Bv-TaDR8ag?e=VMzWqp)
-- Team KII: @_JKT48TeamKIII
+- Team KII: [@_JKT48TeamKIII](https://1drv.ms/u/s!At0yKdjMPQCyhZEef4ufb0FgTVqXsA?e=a6CuNU)
 - Team T: [@_JKT48TeamT](https://1drv.ms/f/s!At0yKdjMPQCygqQm8mxOiKPFNL3Mxw)
 
 
@@ -42,7 +46,7 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac). T
 - Adriani Elisabeth
   - Twitter: [@Elisabeth_JKT48](https://1drv.ms/u/s!At0yKdjMPQCyhOwHL8xYNQgjl0XITQ?e=4j8zlr)
 - Tan Zhi Hui Celine
-  - Instagram: [@jkt48celine](https://1drv.ms/u/s!At0yKdjMPQCyqhRTI6gZ297K6Ted?e=qzwq8f) (1,82GB) [2021.02.10, 18:00]
+  - Instagram: [@jkt48celine](https://1drv.ms/u/s!At0yKdjMPQCyqhRTI6gZ297K6Ted?e=qzwq8f)
 
 ### 5th Gen
 - Diani Amalia Ramadhani
@@ -101,11 +105,15 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac). T
 
 :::info
 
-- 🟢 Complete 
-- 🟢🔴 Post complete, IG story belum terbackup semua 
-- 🔵 Ongoing (bakal terus diupdate, link sama) 
-- 🟡 Kemungkinan tidak lengkap 
-- 🔴 Tidak lengkap
+🟢 Complete 
+
+🟢🔴 Post complete, IG story belum terbackup semua 
+
+🔵 Ongoing (bakal terus diupdate, link sama) 
+
+🟡 Kemungkinan tidak lengkap 
+
+🔴 Tidak lengkap
 
 :::
 
