@@ -163,16 +163,24 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
 
 ### 7th Gen
 - Febrina Diponegoro
-  - 📦Tiktok: [@brijkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOcEj13KO4glxb2E6g?e=cNmNwL)
+  - 🟢Tiktok: [@brijkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOcEj13KO4glxb2E6g?e=cNmNwL) (79,7MB)
+
+### 8th Gen
+- Gabriella Stevany
+  - 🟢Tiktok: [@vanyjkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOtC3WRaQETJhqNZLg?e=rsf629) (125MB)
+- Keisya Ramadhani
+  - 🟢Tiktok: [@keisyajkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOdhUrvz_bFhSfxYYw?e=AgeuX8) (13,1MB)
 
 ### 9th Gen
+- Chalista Ellysia
+  - 🟢Tiktok: [@chalistajkt48](https://1drv.ms/u/s!At0yKdjMPQCyphBVg2Z9hsckT2qf?e=vw19zI) (96,4MB)
 - Nabila Gusmarlia
-  - 🟢Instagram: [@jkt48nabila_](https://1drv.ms/u/s!At0yKdjMPQCyhZ1nZgyK2cY-hhwJHA?e=ZqE2fI)
-  - 🟢Tiktok: [@nabila.jkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOc3GO50kBElDZW7Cw?e=LznL1K)
-  - 🟢Twitter: [@GNabilaJKT48](https://1drv.ms/f/s!At0yKdjMPQCyhOAui2RPRFJ9oxNV4Q)
+  - 🟢Instagram: [@jkt48nabila_](https://1drv.ms/u/s!At0yKdjMPQCyhZ1nZgyK2cY-hhwJHA?e=ZqE2fI) (162MB)
+  - 🟢Tiktok: [@nabila.jkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOc3GO50kBElDZW7Cw?e=LznL1K) (28,2MB)
+  - 🟢Twitter: [@GNabilaJKT48](https://1drv.ms/f/s!At0yKdjMPQCyhOAui2RPRFJ9oxNV4Q) (395MB)
 - Shinta Devi
   - 📦Instagram: [@jk48.shinta](https://1drv.ms/u/s!At0yKdjMPQCyhZc7woWtEHVvnaXpLg?e=0URflL)
-  - 📦Tiktok: [@shintajkt48](https://1drv.ms/u/s!At0yKdjMPQCypjCEjdRrPdd-1oib?e=ybEOf9)
+  - 🟢Tiktok: [@shintajkt48](https://1drv.ms/u/s!At0yKdjMPQCypjCEjdRrPdd-1oib?e=ybEOf9) (78,2MB)
 
 ### 10th Gen
 - Danessa Valerie
