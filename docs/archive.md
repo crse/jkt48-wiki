@@ -20,10 +20,6 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
 
 ## Official Account
 
-- JKT48
-  - Facebook: (official.jkt48)
-  - Instagram: (@jkt48)
-  - Twitter: (@officialJKT48)
 - Team J: [@_JKT48TeamJ](https://1drv.ms/u/s!At0yKdjMPQCyg_NZ0ln1Bv-TaDR8ag?e=VMzWqp)
 - Team KII: [@_JKT48TeamKIII](https://1drv.ms/u/s!At0yKdjMPQCyhZEef4ufb0FgTVqXsA?e=a6CuNU)
 - Team T: [@_JKT48TeamT](https://1drv.ms/f/s!At0yKdjMPQCygqQm8mxOiKPFNL3Mxw)
@@ -60,8 +56,6 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
   - Twitter: [@A_YoriJKT48](https://1drv.ms/u/s!At0yKdjMPQCy-DexPrehgkQvZ787?e=9Hleqr)
 - Dhea Angelia
   - Twitter: [@A_DeyJKT48](https://1drv.ms/u/s!At0yKdjMPQCygbER6wIIs4_8qQY2Tg?e=6jTLK7)
-- Febrina Diponegoro
-  - Tiktok: [@brijkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOcEj13KO4glxb2E6g?e=cNmNwL)
 - Febriola Sinambela
   - Twitter: [@F_OllaJKT48](https://1drv.ms/u/s!At0yKdjMPQCygbwmp5DnxrzgSQxxAA?e=rmW2cB)
 - Freyanashifa Jayawardana
@@ -100,13 +94,6 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
   - Twitter: [@I_KathrinaJKT48](https://1drv.ms/u/s!At0yKdjMPQCysh0y0shZOwRR2IGJ?e=5iatvs)
 - Marsha Lenathea
   - Twitter: [@L_MarshaJKT48](https://1drv.ms/u/s!At0yKdjMPQCygsxpGjqoAg4xRRl4Tw?e=bW1DZC)
-- Nabila Gusmarlia
-  - Instagram: [@jkt48nabila_](https://1drv.ms/u/s!At0yKdjMPQCyhZ1nZgyK2cY-hhwJHA?e=ZqE2fI)
-  - Tiktok: [@nabila.jkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOc3GO50kBElDZW7Cw?e=LznL1K)
-  - Twitter: [@GNabilaJKT48](https://1drv.ms/f/s!At0yKdjMPQCyhOAui2RPRFJ9oxNV4Q)
-- Shinta Devi
-  - Instagram: [@jk48.shinta](https://1drv.ms/u/s!At0yKdjMPQCyhZc7woWtEHVvnaXpLg?e=0URflL)
-  - Tiktok: [@shintajkt48](https://1drv.ms/u/s!At0yKdjMPQCypjCEjdRrPdd-1oib?e=ybEOf9)
   
 
 ## Ex-member
@@ -114,11 +101,12 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
 
 :::info
 
-- 🟢 Complete 
+- 🟢 Complete, kecuali yang dihapus oleh member
 - 🟢🔴 Post complete, IG story belum terbackup semua 
 - 🔵 Ongoing (bakal terus diupdate, link sama) 
 - 🟡 Kemungkinan tidak lengkap 
 - 🔴 Tidak lengkap
+- 📦 Sebagian diunggah, masih dalam proses
 
 :::
 
@@ -168,12 +156,23 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
 - Puti Nadhira
   - 🟢Twitter: [@Pucchi_JKT48](https://1drv.ms/f/s!At0yKdjMPQCyhPpskX0G8WEUWdzqVA) (0,99GB)
 
-
 ### 6th Gen
 
 - Shalza Grasita
   - 🟡TikTok: [@shalzajkt48](https://1drv.ms/u/s!At0yKdjMPQCygzjZpSqcrSXvOKT2?e=8pkkQL) (48,9MB)
 
+### 7th Gen
+- Febrina Diponegoro
+  - 📦Tiktok: [@brijkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOcEj13KO4glxb2E6g?e=cNmNwL)
+
+### 9th Gen
+- Nabila Gusmarlia
+  - 🟢Instagram: [@jkt48nabila_](https://1drv.ms/u/s!At0yKdjMPQCyhZ1nZgyK2cY-hhwJHA?e=ZqE2fI)
+  - 🟢Tiktok: [@nabila.jkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOc3GO50kBElDZW7Cw?e=LznL1K)
+  - 🟢Twitter: [@GNabilaJKT48](https://1drv.ms/f/s!At0yKdjMPQCyhOAui2RPRFJ9oxNV4Q)
+- Shinta Devi
+  - 📦Instagram: [@jk48.shinta](https://1drv.ms/u/s!At0yKdjMPQCyhZc7woWtEHVvnaXpLg?e=0URflL)
+  - 📦Tiktok: [@shintajkt48](https://1drv.ms/u/s!At0yKdjMPQCypjCEjdRrPdd-1oib?e=ybEOf9)
 
 ### 10th Gen
 - Danessa Valerie
