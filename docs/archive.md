@@ -10,6 +10,8 @@ Proyek oleh [JKT48Discord](https://twitter.com/JKT48Discord) - Discord invite: h
 
 🔐Password archive: `JKT48Discord`
 
+Donasi: https://saweria.co/jkt48discord
+
 Arsip ini hanya menyediakan foto dan video saja. Tweet maupun kiriman teks lainnya tidak kami back-up.
 
 :::tip
@@ -129,8 +131,10 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
 ### 4th Gen
 
 - Adriani Elisabeth
-  - 📦Tiktok: [@lisajkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOdmf1vPKXz64blngQ?e=3U1csL)
+  - 🟢Tiktok: [@lisajkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOdmf1vPKXz64blngQ?e=3U1csL) (25,9MB)
   - 📦Twitter: [@Elisabeth_JKT48](https://1drv.ms/u/s!At0yKdjMPQCyhOwHL8xYNQgjl0XITQ?e=4j8zlr)
+- Fidly Immanda Azzahra
+  - 🟢Tiktok: [@fiajkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOduuPbRqh4ztVaAMA?e=ytOtW8) (65,3MB)
 - Melati Putri
   - 🟢🔴Instagram: [@jkt48melati](https://1drv.ms/u/s!At0yKdjMPQCyxH_z1kHvWaGJQjsn?e=VLEhqt) (682MB)
   - 🟢Twitter: [@Melati_JKT48](https://1drv.ms/u/s!At0yKdjMPQCya5nf-LsQ2kBgEvQ?e=gdHU8c) (4,71GB)
@@ -142,11 +146,17 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
   - 📦Twitter: [@DianiJKT48](https://1drv.ms/u/s!At0yKdjMPQCyg7pSl0u5BJpPzBMz6A?e=5m944Z)
 - Gabryela Marcelina
   - 🟢Twitter: [@Gabryela_JKT48](https://1drv.ms/u/s!At0yKdjMPQCyg0_iYdNqyBSraS9x?e=NKj9zr) (1,23GB)
+- Nurhayati
+  - 🟢Tiktok: [@ayajkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOhJqYyDfcpJxZqwMw?e=64Hjc4) (230MB)
 - Puti Nadhira
   - 🟢Twitter: [@Pucchi_JKT48](https://1drv.ms/f/s!At0yKdjMPQCyhPpskX0G8WEUWdzqVA) (0,99GB)
 
 ### 6th Gen
 
+- Anastasya Narwastu Tety Handuran
+  - 🟢Tiktok: [@tasyajkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOg91S1lqTny0EoqRw?e=lfrgkf) (54,7MB)
+- Rinanda Syahputri
+  - 🟢Tiktok: [@nandajkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOdXpLq--HVMQphmEQ?e=xxU0Ee) (27,4MB)
 - Shalza Grasita
   - 🟡TikTok: [@shalzajkt48](https://1drv.ms/u/s!At0yKdjMPQCygzjZpSqcrSXvOKT2?e=8pkkQL) (48,9MB)
 
@@ -157,21 +167,27 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
 - Febrina Diponegoro
   - 🟢Tiktok: [@brijkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOcEj13KO4glxb2E6g?e=cNmNwL) (79,7MB)
 - Nabila Fitriana
+  - 🟢Tiktok: [@lalajkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOsoiFk0RaCfSgtx0g?e=WUqlrY) (63,7MB)
   - 📦Twitter: [@N_LalaJKT48](https://1drv.ms/u/s!At0yKdjMPQCyg_cfju64R_n5S96RVg?e=0pCXIz)
 - Viona Fadrin
   - 📦Twitter: [@F_ViviJKT48](https://1drv.ms/u/s!At0yKdjMPQCygp9rjvaavRbLlf-TVQ?e=1LJWSL)
 
 ### 8th Gen
+- Amanina Afiqah
+  - 🟢Tiktok: [@afiqahjkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOgLrVpF566i736opA?e=MvqiVx) (165MB)
 - Gabriella Stevany
   - 🟢Tiktok: [@vanyjkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOtC3WRaQETJhqNZLg?e=rsf629) (125MB)
 - Keisya Ramadhani
   - 🟢Tiktok: [@keisyajkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOdhUrvz_bFhSfxYYw?e=AgeuX8) (13,1MB)
 - Umega Maulana Sinambela
+  - 🟢Tiktok: [@umejkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOczErX_Y_Ri6N8icQ?e=NmJPv1) (28,6MB)
   - 📦Twitter: [@M_UmeJKT48](https://1drv.ms/u/s!At0yKdjMPQCygpxEYcoPuEQVHsKz-A?e=jaLqSw)
 
 ### 9th Gen
 - Chalista Ellysia
   - 🟢Tiktok: [@chalistajkt48](https://1drv.ms/u/s!At0yKdjMPQCyphBVg2Z9hsckT2qf?e=vw19zI) (96,4MB)
+- Christabel Jocelyn
+  - 🟢Tiktok: [@abeljkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOo4yQAd-VQf4PcpsA?e=fpGwxA) (161MB)
 - Nabila Gusmarlia
   - 🟢Instagram: [@jkt48nabila_](https://1drv.ms/u/s!At0yKdjMPQCyhZ1nZgyK2cY-hhwJHA?e=ZqE2fI) (162MB)
   - 🟢Tiktok: [@nabila.jkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOc3GO50kBElDZW7Cw?e=LznL1K) (28,2MB)
