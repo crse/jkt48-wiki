@@ -14,7 +14,7 @@ Berikut daftar avatar original yang telah dibuat oleh beragam fanbase, kelompok,
 
 |Member|Link Showroom|Twitter|
 | :------------- | :---------- | -----------: |
-|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035785.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036683.png)![3](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038309.png)<br>[Azizi Asadel](https://twitter.com/A_ZeeJKT48)|Super ZeeOshi Room (https://www.showroom-live.com/6c3a35241316)|@SuperZeeOshi|
+|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035785.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036683.png)![3](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038309.png)<br>[Azizi Asadel](https://twitter.com/A_ZeeJKT48)</br>|Super ZeeOshi Room (https://www.showroom-live.com/6c3a35241316)|@SuperZeeOshi|
 |[Gabriela Warouw](https://twitter.com/gabyJKT48)|Coconut Family (https://www.showroom-live.com/7d4734006411)|@Gabycious48|
 |[Helisma M. P. K.](https://twitter.com/H_EliJKT48)|Helismiley Project (https://www.showroom-live.com/387eb5250998)|@Helismiley_OFC|
 |[Marsha Lenathea](https://twitter.com/L_MarshaJKT48)|Marsha Oshi (https://www.showroom-live.com/08c014749592)|[@MarshaOshi_](https://twitter.com/marshaoshi_)|
@@ -29,4 +29,4 @@ Berikut daftar avatar original yang telah dibuat oleh beragam fanbase, kelompok,
 |Avatar|Link Showroom|Twitter|
 | :------------- | :----------: | -----------: |
 |![text](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035617.png)<br>Beby Chaesara|BebyOshi Story (https://www.showroom-live.com/b9cdb4775676)|[@BebyOshi](https://twitter.com/BebyOshi)|
-|![text](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037310.png)<br>[Frieska Anastasia](https://twitter.com/thisfrieska)|Frieskavers Room (https://www.showroom-live.com/2e2a15245592)|[@FrieskaversINA](https://twitter.com/FrieskaversINA)|
+|![text](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037310.png)<br>[Frieska Anastasia](https://twitter.com/thisfrieska)</br>|Frieskavers Room (https://www.showroom-live.com/2e2a15245592)|[@FrieskaversINA](https://twitter.com/FrieskaversINA)|
