@@ -28,5 +28,5 @@ Berikut daftar avatar original yang telah dibuat oleh beragam fanbase, kelompok,
 
 |Avatar|Link Showroom|Twitter|
 | :------------- | :----------: | -----------: |
-|![text](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035617.png)<br>Beby Chaesara|BebyOshi Story (https://www.showroom-live.com/b9cdb4775676)|[@BebyOshi](https://twitter.com/BebyOshi)|
+|![text](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035617.png)<br>Beby Chaesara</br>|BebyOshi Story (https://www.showroom-live.com/b9cdb4775676)|[@BebyOshi](https://twitter.com/BebyOshi)|
 |![text](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037310.png)<br>[Frieska Anastasia](https://twitter.com/thisfrieska)</br>|Frieskavers Room (https://www.showroom-live.com/2e2a15245592)|[@FrieskaversINA](https://twitter.com/FrieskaversINA)|
