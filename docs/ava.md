@@ -13,7 +13,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 
 |Avatar|Informasi|
 | :---------- | :----------- |
-|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036809.png)|Hanya bisa didapatkan dari event Showroom AKB48G Special week tanggal 2 April 2021 ([info](https://twitter.com/SHOWROOM_jp/status/1377845042165862402))|
+|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036809.png)|Hanya bisa didapatkan dari event Showroom AKB48G Special Week tanggal 2 April 2021 ([info](https://twitter.com/SHOWROOM_jp/status/1377845042165862402))|
 
 ## Member aktif
 
@@ -57,6 +57,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 
 |Member|Avatar|Link Showroom|
 | :------------- | :----------: | :----------- |
+|[Aurel Mayori](https://twitter.com/aurelmayorii)|in progress|[Paguyuban Sayang Yori](https://www.showroom-live.com/579cc5431491) by: ?|
 |[Beby Chaesara](https://twitter.com/bchsr_)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035617.png)|[BebyOshi Story](https://www.showroom-live.com/b9cdb4775676) by: [@BebyOshi](https://twitter.com/BebyOshi)|
 |[Febi Komaril](https://twitter.com/giraffebiii)|in progress|[Febinetsui Media](https://www.showroom-live.com/186c65450978) by: [@FebinetsuiMedia](https://twitter.com/FebinetsuiMedia)|
 |[Frieska Anastasia](https://twitter.com/thisfrieska)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037310.png)|[Frieskavers Room](https://www.showroom-live.com/2e2a15245592) by: [@FrieskaversINA](https://twitter.com/FrieskaversINA)|
