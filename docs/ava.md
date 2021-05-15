@@ -1,6 +1,6 @@
 ---
 id: ava
-title: Showroom Avatar
+title: Showroom Avatar Catalogue
 sidebar_label: SR Avatar
 ---
 
@@ -9,10 +9,16 @@ Berikut daftar avatar original yang telah dibuat oleh beragam fanbase, kelompok,
 Ada yang kurang? Informasi salah?
 Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord (https://invite.gg/jkt48).
 
+## Official Avatar
+
+|Avatar|Informasi|
+| :---------- | :----------- |
+|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036809.png)|Hanya bisa didapatkan dari event Showroom AKB48G Special week tanggal 2 April 2021 ([info](https://twitter.com/SHOWROOM_jp/status/1377845042165862402))|
+
 ## Member aktif
 
 |Member|Avatar|Link Showroom|
-| :------------- | :---------- | -----------: |
+| :------------- | :---------- | :----------- |
 |[Adzana Shaliha](https://twitter.com/S_AshelJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036609.png)|[Charger Oshi](https://www.showroom-live.com/29d944836330) by: [@chargeroshii](https://twitter.com/chargeroshii)|
 |[Amirah Fatin](https://twitter.com/F_MiraJKT48)|in progress|[Miracle](https://www.showroom-live.com/ac9de5412177) by: [@MiracleID_](https://twitter.com/MiracleID_)|
 |[Angelina Christy](https://twitter.com/A_ChristyJKT48)|in progress, waiting for SR confirmation|[SKAPSKIP PROJECT X CHRISTYZER](https://www.showroom-live.com/991625324380) by: [@skapskipproject](https://twitter.com/skapskipproject) and [@Christyzer](https://twitter.com/Christyzer)|
@@ -50,19 +56,19 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 ## Eks-member
 
 |Member|Avatar|Link Showroom|
-| :------------- | :----------: | -----------: |
+| :------------- | :----------: | :----------- |
 |[Beby Chaesara](https://twitter.com/bchsr_)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035617.png)|[BebyOshi Story](https://www.showroom-live.com/b9cdb4775676) by: [@BebyOshi](https://twitter.com/BebyOshi)|
 |[Febi Komaril](https://twitter.com/giraffebiii)|in progress|[Febinetsui Media](https://www.showroom-live.com/186c65450978) by: [@FebinetsuiMedia](https://twitter.com/FebinetsuiMedia)|
 |[Frieska Anastasia](https://twitter.com/thisfrieska)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037310.png)|[Frieskavers Room](https://www.showroom-live.com/2e2a15245592) by: [@FrieskaversINA](https://twitter.com/FrieskaversINA)|
 
 ## Music Avatar
 
-|Description|Avatar|Link Showroom|
-| :------------- | :---------- | -----------: |
+|Tema|Avatar|Link Showroom|
+| :------------- | :---------- | :----------- |
 |Darashinai Aishikata|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036745.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |Rapsodi|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035477.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 
 ## JKT48 Team
-|Description|Avatar|Link Showroom|
-| :------------- | :---------- | -----------: |
-|[Team T]()|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036486.png)|[GURITA48](https://www.showroom-live.com/a0a485208439) by: [@gurita48](https://twitter.com/gurita48)|
+|Nama|Avatar|Link Showroom|
+| :------------- | :---------- | :----------- |
+|Team T|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036486.png)|[GURITA48](https://www.showroom-live.com/a0a485208439) by: [@gurita48](https://twitter.com/gurita48)|
