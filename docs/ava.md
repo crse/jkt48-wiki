@@ -4,7 +4,10 @@ title: Showroom Avatar
 sidebar_label: SR Avatar
 ---
 
-Berikut daftar avatar original yang telah dibuat oleh beragam fanbase, kelompok, maupun individual partnership.
+Berikut daftar avatar original yang telah dibuat oleh beragam fanbase, kelompok, maupun individual.
+
+Ada yang kurang? Informasi salah?
+Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord (https://invite.gg/jkt48).
 
 ## Member aktif
 
