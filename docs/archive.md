@@ -14,6 +14,8 @@ Donasi: https://saweria.co/jkt48discord
 
 Arsip ini hanya menyediakan foto dan video saja. Tweet maupun kiriman teks lainnya tidak kami back-up.
 
+Seluruh berkas diarsipkan ke Microsoft OneDrive.
+
 :::tip
 
 Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
