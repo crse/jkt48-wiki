@@ -24,11 +24,9 @@ Bagian ini masih dalam proses pengerjaan.
 
 :::tip
 
-Walau persyaratan bergabung fanbase member adalah membayar uang kas rutin, kalian bisa tetap bergabung tanpa membayar uang kas selama kalian masih berminat untuk berpartisipasi dengan cara lain, seperti membuat desain poster hingga menjadi koordinator project.
 
 :::
 
 | Member       | Nama Fanbase     | Twitter   |
 | :------------- | :----------: | -----------: |
 | Tan Zhi Hui Celine | Celinesse   | [@CelinesseWorld](https://twitter.com/celinesseworld) |
-|a   | a | a |
