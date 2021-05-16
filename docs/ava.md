@@ -47,12 +47,12 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Marsha Lenathea](https://twitter.com/L_MarshaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035702.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037380.png)|[Marsha Oshi](https://www.showroom-live.com/08c014749592) by: [@MarshaOshi_](https://twitter.com/marshaoshi_)|
 |[Mutiara Azzahra](https://twitter.com/A_MutheJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036569.png)|[MuTalk / ムトーク](https://www.showroom-live.com/8f0ac5255835) by: [@MuffinOfficial_](https://twitter.com/MuffinOfficial_)|
 |[Reva Fidela](https://twitter.com/R_AdelJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038108.png)|[Adel'AE Room](https://www.showroom-live.com/e7fda5007376) by: [@Adel_Ae48](https://twitter.com/Adel_Ae48)|
-|[Shani Indira](https://twitter.com/N_ShaniJKT48)|in progress|[ISHANITY](https://www.showroom-live.com/ecb9b4825330) by: [@InshanityID](https://twitter.com/InshanityID)|
+|[Shani Indira](https://twitter.com/N_ShaniJKT48)|in progress|[INSHANITY](https://www.showroom-live.com/ecb9b4825330) by: [@InshanityID](https://twitter.com/InshanityID)|
 |[Shani Indira](https://twitter.com/N_ShaniJKT48) dan [Shania Gracia](https://twitter.com/S_GraciaJKT48) |![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038174.png)|[I❤️GRESHAN](https://www.showroom-live.com/d15785325184) by: [@Queen48one](https://twitter.com/Queen48one)|
+|[Shani Indira](https://twitter.com/N_ShaniJKT48) dan [Shania Gracia](https://twitter.com/S_GraciaJKT48) |in progress|[I❤️GRESHAN](https://www.showroom-live.com/d15785325184) by: [@Queen48one](https://twitter.com/Queen48one)|
 |[Tan Zhi Hui Celine](https://twitter.com/Celine_JKT48)|waiting for SR confirmation|[Celinesse Diary](https://www.showroom-live.com/38ba95200040) by: [@CelinesseWorld](https://twitter.com/CelinesseWorld)|
-|[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|in progress|[Dulur Tamara's Room](https://www.showroom-live.com/6fe9a4789281) by: [@DulurTamara](https://twitter.com/DulurTamara)|
-
-
+|[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|in progress, seeding|[Dulur Tamara's Room](https://www.showroom-live.com/6fe9a4789281) by: [@DulurTamara](https://twitter.com/DulurTamara)|
+|[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|in progress, seeding|[Ngobrol Santuy Metiuw](https://www.showroom-live.com/a57114006053) by: [@matth24ew](https://twitter.com/matth24ew)|
 
 ## Eks-member
 
