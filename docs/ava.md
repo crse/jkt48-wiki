@@ -9,6 +9,8 @@ Berikut daftar avatar original yang telah dibuat oleh beragam fanbase, kelompok,
 Ada yang kurang? Informasi salah?
 Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord (https://invite.gg/jkt48).
 
+[![JKT48 Discord](https://discordapp.com/api/guilds/600387836201664523/widget.png?style=banner2)](https://discord.gg/BN635Eb)
+
 ## Official Avatar
 
 |Avatar|Informasi|
@@ -49,8 +51,8 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Reva Fidela](https://twitter.com/R_AdelJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038108.png)|[Adel'AE Room](https://www.showroom-live.com/e7fda5007376) by: [@Adel_Ae48](https://twitter.com/Adel_Ae48)|
 |[Shani Indira](https://twitter.com/N_ShaniJKT48)|in progress|[INSHANITY](https://www.showroom-live.com/ecb9b4825330) by: [@InshanityID](https://twitter.com/InshanityID)|
 |[Shani Indira](https://twitter.com/N_ShaniJKT48) dan [Shania Gracia](https://twitter.com/S_GraciaJKT48) |![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038174.png)|[I❤️GRESHAN](https://www.showroom-live.com/d15785325184) by: [@Queen48one](https://twitter.com/Queen48one)|
-|[Shani Indira](https://twitter.com/N_ShaniJKT48) dan [Shania Gracia](https://twitter.com/S_GraciaJKT48) |in progress|[I❤️GRESHAN](https://www.showroom-live.com/d15785325184) by: [@Queen48one](https://twitter.com/Queen48one)|
-|[Tan Zhi Hui Celine](https://twitter.com/Celine_JKT48)|waiting for SR confirmation|[Celinesse Diary](https://www.showroom-live.com/38ba95200040) by: [@CelinesseWorld](https://twitter.com/CelinesseWorld)|
+|[Shani Indira](https://twitter.com/N_ShaniJKT48) dan [Shania Gracia](https://twitter.com/S_GraciaJKT48) |waiting for SR approval|[I❤️GRESHAN](https://www.showroom-live.com/d15785325184) by: [@Queen48one](https://twitter.com/Queen48one)|
+|[Tan Zhi Hui Celine](https://twitter.com/Celine_JKT48)|waiting for SR approval|[Celinesse Diary](https://www.showroom-live.com/38ba95200040) by: [@CelinesseWorld](https://twitter.com/CelinesseWorld)|
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|in progress, seeding|[Dulur Tamara's Room](https://www.showroom-live.com/6fe9a4789281) by: [@DulurTamara](https://twitter.com/DulurTamara)|
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|in progress, seeding|[Ngobrol Santuy Metiuw](https://www.showroom-live.com/a57114006053) by: [@matth24ew](https://twitter.com/matth24ew)|
 
@@ -58,7 +60,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 
 |Member|Avatar|Link Showroom|
 | :------------- | :----------: | :----------- |
-|[Aurel Mayori](https://twitter.com/aurelmayorii)|in progress|[Paguyuban Sayang Yori](https://www.showroom-live.com/579cc5431491) by: ?|
+|[Aurel Mayori](https://twitter.com/aurelmayorii)|in progress (?)|[Paguyuban Sayang Yori](https://www.showroom-live.com/579cc5431491) by: [@YorigamiID](https://twitter.com/YorigamiID)|
 |[Beby Chaesara](https://twitter.com/bchsr_)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035617.png)|[BebyOshi Story](https://www.showroom-live.com/b9cdb4775676) by: [@BebyOshi](https://twitter.com/BebyOshi)|
 |[Febi Komaril](https://twitter.com/giraffebiii)|in progress|[Febinetsui Media](https://www.showroom-live.com/186c65450978) by: [@FebinetsuiMedia](https://twitter.com/FebinetsuiMedia)|
 |[Frieska Anastasia](https://twitter.com/thisfrieska)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037310.png)|[Frieskavers Room](https://www.showroom-live.com/2e2a15245592) by: [@FrieskaversINA](https://twitter.com/FrieskaversINA)|
