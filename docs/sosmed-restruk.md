@@ -1,5 +1,5 @@
 ---
-id: sosmedrestruk
+id: sosmed-restruk
 title: Daftar Sosmed (Edisi Restrukturisasi)
 sidebar_label: Daftar Sosmed (Restruk)
 ---
