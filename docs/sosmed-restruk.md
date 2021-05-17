@@ -89,13 +89,13 @@ Edisi Restrukturisasi
     - 🟦 https://twitter.com/ehjuliee
     - 🟩 https://youtube.com/channel/UCAy9p7qxgFBp_kapscaSjXQ
 - Lala
-    - 🟩 https://instagram.com/kalalaa__
-    - 🟦 https://tiktok.com/@kalalaa__
-    - 🟦 https://twitter.com/kalalaaa__
+    - 🟩 [https://instagram.com/kalalaa__](https://instagram.com/kalalaa__)
+    - 🟦 [https://tiktok.com/@kalalaa__](https://tiktok.com/@kalalaa__)
+    - 🟦 [https://twitter.com/kalalaaa__](https://twitter.com/kalalaaa__)
 - Lisa
     - 🟦 https://instagram.com/theadrni
     - 🟩 https://twitter.com/Lavienrosesss
-    - 🟦 https://twitter.com/massalisa_
+    - 🟦 [https://twitter.com/massalisa_](https://twitter.com/massalisa_)
 
 ### Team KIII
 - Aya
@@ -118,8 +118,8 @@ Edisi Restrukturisasi
 
 ### Team T
 - Ume
-    - 🟦 https://twitter.com/umegaa_
-    - 🟦 https://instagram.com/umegaa_
+    - 🟦 [https://twitter.com/umegaa_](https://twitter.com/umegaa_)
+    - 🟦 [https://instagram.com/umegaa_](https://instagram.com/umegaa_)
 - Yori
     - 🟩 https://instagram.com/aurelmayorii
     - 🟦 https://twitter.com/aurelmayorii
