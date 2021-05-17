@@ -24,7 +24,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Adzana Shaliha](https://twitter.com/S_AshelJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036609.png)|[Charger Oshi](https://www.showroom-live.com/29d944836330) by: [@chargeroshii](https://twitter.com/chargeroshii)|
 |[Adzana Shaliha](https://twitter.com/S_AshelJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035502.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |[Amirah Fatin](https://twitter.com/F_MiraJKT48)|in progress|[Miracle](https://www.showroom-live.com/ac9de5412177) by: [@MiracleID_](https://twitter.com/MiracleID_)|
-|[Angelina Christy](https://twitter.com/A_ChristyJKT48)|waiting for SR confirmation|[SKAPSKIP PROJECT X CHRISTYZER](https://www.showroom-live.com/991625324380) by: [@skapskipproject](https://twitter.com/skapskipproject) and [@Christyzer](https://twitter.com/Christyzer)|
+|[Angelina Christy](https://twitter.com/A_ChristyJKT48)|waiting for SR approval|[SKAPSKIP PROJECT X CHRISTYZER](https://www.showroom-live.com/991625324380) by: [@skapskipproject](https://twitter.com/skapskipproject) and [@Christyzer](https://twitter.com/Christyzer)|
 |[Aninditha Cahyadi](https://twitter.com/R_AninJKT48)|in progress|[Aninlicious Room](https://www.showroom-live.com/dfe404836158) by: [@Aninlicious](https://twitter.com/Aninlicious)|
 |[Ariella Calista](https://twitter.com/C_ArielJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036366.png)|[Ngobrol Santuy Metiuw](https://www.showroom-live.com/a57114006053) by: [@matth24ew](https://twitter.com/matth24ew)|
 |[Azizi Asadel](https://twitter.com/A_ZeeJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035785.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036659.png)![3](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036683.png)![4](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038309.png)|[Super ZeeOshi Room](https://www.showroom-live.com/6c3a35241316) by: [@SuperZeeOshi](https://twitter.com/SuperZeeOshi)|
@@ -77,3 +77,4 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |Nama|Avatar|Link Showroom|
 | :------------- | :----------: | :----------- |
 |Team T|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036486.png)|[GURITA48](https://www.showroom-live.com/a0a485208439) by: [@gurita48](https://twitter.com/gurita48)|
+

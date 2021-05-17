@@ -30,3 +30,6 @@ Bagian ini masih dalam proses pengerjaan.
 | Member       | Nama Fanbase     | Twitter   |
 | :------------- | :----------: | -----------: |
 | Tan Zhi Hui Celine | Celinesse   | [@CelinesseWorld](https://twitter.com/celinesseworld) |
+
+
+## Fanbase Regional
