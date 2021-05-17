@@ -10,114 +10,114 @@ Edisi Restrukturisasi
 
 :::info
 
-🟦 : Melanjutkan akun JKT48 </br>
-🟩 : Akun baru </br>
+🟦 : Melanjutkan akun JKT48 \
+🟩 : Akun baru \
 🟧 : Akun sebelum jadi member
 
 :::
 
 ### Academy
-- Abel </br>
-🟦 https://instagram.com/christa.abell </br>
-🟦 https://tiktok.com/@abellcjs </br>
-🟦 https://twitter.com/A_abel17 </br>
+- Abel 
+🟦 https://instagram.com/christa.abell \
+🟦 https://tiktok.com/@abellcjs \
+🟦 https://twitter.com/A_abel17 \
 🟩 https://youtube.com/channel/UCpfJVJ6f3TRUB7MJz8HoXzw
-- Bri </br>
-🟦 https://instagram.com/fbrn_bri </br>
-🟩 https://tiktok.com/@f_brina </br>
+- Bri \
+🟦 https://instagram.com/fbrn_bri \
+🟩 https://tiktok.com/@f_brina \
 🟦 https://twitter.com/Fbrn_bri
-- Caithlyn </br>
-🟦 https://instagram.com/caithlyn.g </br>
-🟦 https://tiktok.com/@lyn_caithlyn </br>
-🟦 https://twitter.com/Caithlylynn_gs </br>
+- Caithlyn \
+🟦 https://instagram.com/caithlyn.g \
+🟦 https://tiktok.com/@lyn_caithlyn \
+🟦 https://twitter.com/Caithlylynn_gs \
 🟩 https://youtube.com/channel/UCpfJVJ6f3TRUB7MJz8HoXzw
-- Chalista </br>
-🟧 https://instagram.com/chalistaellysia </br>
-🟩 https://tiktok.com/@ellysiachalista </br>
-🟩 https://twitter.com/EllysiaChalista </br>
+- Chalista \
+🟧 https://instagram.com/chalistaellysia \
+🟩 https://tiktok.com/@ellysiachalista \
+🟩 https://twitter.com/EllysiaChalista \
 🟧 https://youtube.com/c/ChalistaEllysiaSugiantoChalistachannel
-- Febi </br>
-🟦 https://instagram.com/giraffebiii </br>
-🟩 https://tiktok.com/@giraffebiii </br>
+- Febi \
+🟦 https://instagram.com/giraffebiii \
+🟩 https://tiktok.com/@giraffebiii \
 🟦 https://twitter.com/giraffebiii
-- Keisya </br>
-🟦 https://instagram.com/_rkeisya </br>
+- Keisya \
+🟦 https://instagram.com/_rkeisya \
 🟦 https://twitter.com/_rkeisya
-- Nabila </br>
-🟦 https://instagram.com/nyabirra </br>
+- Nabila \
+🟦 https://instagram.com/nyabirra \
 🟦 https://twitter.com/nyabirra
-- Nunu </br>
-🟩 https://instagram.com/c.nunu05 </br>
-🟩 https://tiktok.com/@c.nunu05 </br>
-🟦 https://twitter.com/C_Nunu05 </br>
+- Nunu \
+🟩 https://instagram.com/c.nunu05 \
+🟩 https://tiktok.com/@c.nunu05 \
+🟦 https://twitter.com/C_Nunu05 \
 🟩 https://youtube.com/channel/UCsm379pt46glyeb2l4m7TQQ
-- Shinta </br>
-🟦 https://instagram.com/shintaadvs </br>
+- Shinta \
+🟦 https://instagram.com/shintaadvs \
 🟦 https://twitter.com/shintadvs
-- Vany </br>
-🟦 https://instagram.com/gabstevany </br>
-🟩 https://tiktok.com/@gabstevany </br>
-🟦 https://twitter.com/gabstevany </br>
+- Vany \
+🟦 https://instagram.com/gabstevany \
+🟩 https://tiktok.com/@gabstevany \
+🟦 https://twitter.com/gabstevany \
 🟩 https://youtube.com/channel/UCWkM5EDiQDsmIwUk2vDy68g
-- Zahra </br>
-🟩 https://instagram.com/putriielzahra </br>
-🟩 https://twitter.com/PutriElzahra2 </br>
+- Zahra \
+🟩 https://instagram.com/putriielzahra \
+🟩 https://twitter.com/PutriElzahra2 \
 🟧 https://youtube.com/channel/UC3M26ckZbjrnRHJ8b3hXRiQ
 
 ### Team J
-- Afiqah </br>
-🟦 https://instagram.com/amaninaafiqah </br>
-🟦 https://twitter.com/Afiiqaaahh </br>
+- Afiqah \
+🟦 https://instagram.com/amaninaafiqah \
+🟦 https://twitter.com/Afiiqaaahh \
 🟧 https://twitter.com/Afiqah_Nina
-- Amel </br>
-🟩 https://instagram.com/___riskamelia </br>
-🟩 https://twitter.com/___riskamelia </br>
+- Amel \
+🟩 https://instagram.com/___riskamelia \
+🟩 https://twitter.com/___riskamelia \
 🟩 https://youtube.com/channel/UCijChi-9Rh7o2DT0FYpkPqg
-- Brielle </br>
-🟩 https://instagram.com/gbiyel </br>
-🟦 https://tiktok.com/@gbiyel </br>
+- Brielle \
+🟩 https://instagram.com/gbiyel \
+🟦 https://tiktok.com/@gbiyel \
 🟦 https://twitter.com/gbiyel
-- Diani </br>
-🟦 https://instagram.com/dianiamalia.r </br>
-🟩 https://tiktok.com/@itsdayeni </br>
-🟦 https://twitter.com/dayeniii </br>
+- Diani \
+🟦 https://instagram.com/dianiamalia.r \
+🟩 https://tiktok.com/@itsdayeni \
+🟦 https://twitter.com/dayeniii \
 🟩 https://youtube.com/channel/UC_CLrX_ldJoSnwI3JNEfG0w
-- Julie </br>
-🟩 https://tiktok.com/@ehjuliee </br>
-🟦 https://twitter.com/ehjuliee </br>
+- Julie \
+🟩 https://tiktok.com/@ehjuliee \
+🟦 https://twitter.com/ehjuliee \
 🟩 https://youtube.com/channel/UCAy9p7qxgFBp_kapscaSjXQ
-- Lala </br>
-🟩 https://instagram.com/kalalaa__ </br>
-🟦 https://tiktok.com/@kalalaa__ </br>
+- Lala \
+🟩 https://instagram.com/kalalaa__ \
+🟦 https://tiktok.com/@kalalaa__ \
 🟦 https://twitter.com/kalalaaa__
-- Lisa </br>
-🟦 https://instagram.com/theadrni </br>
-🟩 https://twitter.com/Lavienrosesss </br>
+- Lisa \
+🟦 https://instagram.com/theadrni \
+🟩 https://twitter.com/Lavienrosesss \
 🟦 https://twitter.com/massalisa_
 
 ### Team KIII
-- Aya </br>
-🟩 https://instagram.com/oh.ayaaa </br>
-🟦 https://tiktok.com/@ayastrophiile </br>
+- Aya \
+🟩 https://instagram.com/oh.ayaaa \
+🟦 https://tiktok.com/@ayastrophiile \
 🟦 https://twitter.com/oh_ayaaa
-- Fia </br>
-🟧 https://facebook.com/fidly.fidly </br>
-🟩 https://instagram.com/fiachuuu </br>
-🟩 https://twitch.tv/fiachuuu </br>
-🟦 https://twitter.com/fiachuuu </br>
+- Fia \
+🟧 https://facebook.com/fidly.fidly \
+🟩 https://instagram.com/fiachuuu \
+🟩 https://twitch.tv/fiachuuu \
+🟦 https://twitter.com/fiachuuu \
 🟩 https://youtube.com/channel/UCJiCXWgN_kjRz1ksqV8ARaA
-- Nanda </br>
+- Nanda \
 🟩 https://instagram.com/rinandasyah
-- Tasya </br>
-🟩 Clubhouse: @gudetasya </br>
-🟦 https://instagram.com/gudetasya </br>
-🟦 https://twitter.com/gudetasya </br>
+- Tasya \
+🟩 Clubhouse: @gudetasya \
+🟦 https://instagram.com/gudetasya \
+🟦 https://twitter.com/gudetasya \
 🟩 https://tiktok.com/@gudetasya
 
 ### Team T
-- Ume </br>
-🟦 https://twitter.com/umegaa_ </br>
+- Ume \
+🟦 https://twitter.com/umegaa_ \
 🟦 https://instagram.com/umegaa_
-- Yori </br>
-🟩 https://instagram.com/aurelmayorii </br>
+- Yori \
+🟩 https://instagram.com/aurelmayorii \
 🟦 https://twitter.com/aurelmayorii

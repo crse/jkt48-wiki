@@ -1,5 +1,5 @@
 module.exports = {
   someSidebar: {
-    JKT48: ['faq', 'fanbase', 'kamus', 'ava', 'archive', 'sosmed-restruk'],
+    JKT48: ['faq', 'fanbase', 'kamus', 'ava', 'archive'],
   },
 };
