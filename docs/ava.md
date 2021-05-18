@@ -24,7 +24,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Adzana Shaliha](https://twitter.com/S_AshelJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036609.png)|[Charger Oshi](https://www.showroom-live.com/29d944836330) by: [@chargeroshii](https://twitter.com/chargeroshii)|
 |[Adzana Shaliha](https://twitter.com/S_AshelJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035502.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |[Amirah Fatin](https://twitter.com/F_MiraJKT48)|in progress|[Miracle](https://www.showroom-live.com/ac9de5412177) by: [@MiracleID_](https://twitter.com/MiracleID_)|
-|[Angelina Christy](https://twitter.com/A_ChristyJKT48)|waiting for SR approval|[SKAPSKIP PROJECT X CHRISTYZER](https://www.showroom-live.com/991625324380) by: [@skapskipproject](https://twitter.com/skapskipproject) and [@Christyzer](https://twitter.com/Christyzer)|
+|[Angelina Christy](https://twitter.com/A_ChristyJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038369.png)|[SKAPSKIP PROJECT X CHRISTYZER](https://www.showroom-live.com/991625324380) by: [@skapskipproject](https://twitter.com/skapskipproject) and [@Christyzer](https://twitter.com/Christyzer)|
 |[Aninditha Cahyadi](https://twitter.com/R_AninJKT48)|in progress|[Aninlicious Room](https://www.showroom-live.com/dfe404836158) by: [@Aninlicious](https://twitter.com/Aninlicious)|
 |[Ariella Calista](https://twitter.com/C_ArielJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036366.png)|[Ngobrol Santuy Metiuw](https://www.showroom-live.com/a57114006053) by: [@matth24ew](https://twitter.com/matth24ew)|
 |[Azizi Asadel](https://twitter.com/A_ZeeJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035785.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036659.png)![3](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036683.png)![4](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038309.png)|[Super ZeeOshi Room](https://www.showroom-live.com/6c3a35241316) by: [@SuperZeeOshi](https://twitter.com/SuperZeeOshi)|
@@ -55,6 +55,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Tan Zhi Hui Celine](https://twitter.com/Celine_JKT48)|waiting for SR approval|[Celinesse Diary](https://www.showroom-live.com/38ba95200040) by: [@CelinesseWorld](https://twitter.com/CelinesseWorld)|
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|in progress, seeding|[Dulur Tamara's Room](https://www.showroom-live.com/6fe9a4789281) by: [@DulurTamara](https://twitter.com/DulurTamara)|
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|in progress, seeding|[Ngobrol Santuy Metiuw](https://www.showroom-live.com/a57114006053) by: [@matth24ew](https://twitter.com/matth24ew)|
+|[Zahra Nur](https://twitter.com/N_AraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038341.png)|[Charger Oshi](https://www.showroom-live.com/29d944836330) by: [@chargeroshii](https://twitter.com/chargeroshii)|
 
 ## Eks-member
 

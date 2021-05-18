@@ -35,7 +35,7 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} JKT48 Discord. Built with ♥ by 🐧 Christian Elbrianno.`,
+      copyright: `CC0 - Public Domain License. Built with ♥ by 🐧 Christian Elbrianno.`,
     },
   },
   presets: [
