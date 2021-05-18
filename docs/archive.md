@@ -8,6 +8,8 @@ Proyek oleh [JKT48Discord](https://twitter.com/JKT48Discord) - Discord invite: h
 
 [![JKT48 Discord](https://discordapp.com/api/guilds/600387836201664523/widget.png?style=banner2)](https://discord.gg/BN635Eb)
 
+Updated by: Boim, Maeru, and Chris
+
 🔐Password archive: `JKT48Discord`
 
 Donasi: https://saweria.co/jkt48discord
