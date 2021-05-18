@@ -10,7 +10,7 @@ Bagian ini masih dalam proses pengerjaan.
 
 :::
 
-Kamus jargon sederhana ini menyertakan variasi penggunaan kosakata peridolan, mulai dari pengguanan di negara asalnya (Jepang) hingga di Indonesia. Kamus ini juga mencakup istilah peridolan internasional, terutama 48 Group.
+Kamus jargon sederhana ini menyertakan variasi penggunaan kosakata peridolan, mulai dari penggunaan di negara asalnya (Jepang) hingga di Indonesia. Kamus ini juga mencakup istilah peridolan internasional, terutama 48 Group.
 
 Untuk kata yang berasal dari bahasa Jepang, akan disertakan transliterasi ke bahasa Indonesia, definisi kamus, hingga definisi sesuai konteks peridolan.
 
@@ -18,7 +18,7 @@ Untuk kata yang berasal dari bahasa Jepang, akan disertakan transliterasi ke bah
 
 Idol di Jepang tidak hanya terkait musik, namun idol sendiri merupakan konsep yang menampilkan sebuah image tertentu kepada publik.
 
-Sehingga tidak bisa disamakan dengan definisi idol dari Barat, Indonesia, maupun Korea.
+Sehingga tidak bisa disamakan dengan definisi idol dari Barat, Indonesia, maupun Korea Selatan.
 
 Idol di Jepang bisa termasuk model, pemain film, pengisi suara, model, cosplayer, hingga presenter cuaca.
 
@@ -30,23 +30,31 @@ Idol di Jepang bisa termasuk model, pemain film, pengisi suara, model, cosplayer
 
 Event foto berdua bersama member.
 Biasanya menggunakan kamera dari penyelenggara, hasil polaroid; atau menggunakan kamera fans sendiri.
-### Academy
-Member JKT48 dalam pelatihan; belum masuk tim.
 
+### Academy
+"Kelas" khusus member JKT48 dalam pelatihan; belum masuk tim.
 
 ### AkiP
 Akimoto Yasushi.
 秋元 康
 
 Produser dan penulis lirik 48 group. Dikenal juga sebagai produser Onyanko Club, Sakamichi Series, dan 22/7. [(wikipedia)](https://en.wikipedia.org/wiki/Yasushi_Akimoto)
+
 ### AKS
 AKS Co., Ltd. (株式会社AKS, Kabushiki-gaisha AKS), agensi pemegang lisensi utama 48 Group. Kini berubah nama menjadi Vernalossom Co., Ltd. (株式会社Vernalossom, Kabushiki-gaisha Vernalossom)
+
 ### Alt idol
+
 ### Anti idol
+
 ### Baito
+
 ### Bingo
+
 ### Center
+
 ### Chant
+
 ### Chika idol
 `地下アイドル`
 
@@ -71,6 +79,7 @@ Self-published magazine; bisa berbentuk esai, artbook, maupun komik. Kata ini bi
 Lokasi tempat theater JKT48.
 Alamat lengkap: 
 > Jl. Jend. Sudirman No.1, RT.1/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270
+
 ### General Manager (GM) / Soukantoku
 `総監督 | そうかんとく`
 ### Handshake Event (HS) / Akushukai
@@ -101,7 +110,8 @@ Local idol. Idol yang dibentuk berdasarkan area tertentu.
 ### Mix media
 Franchise media yang meliputi mencakup beberapa media secara bersamaan.
 
-Contoh: 22/7 idol mix media project oleh AkiP yang mencakup 2D anime karakter, seiyuu-idol mix, manga, mobile game, dan virtual youtuber.
+> Contoh: 22/7 adalah idol mix media project oleh AkiP yang mencakup 2D anime karakter, seiyuu-idol mix, manga, mobile game, dan virtual youtuber.
+
 ### Net idol
 ### NHK Kouhaku Utagassen 
 `NHK紅白歌合戦 | NHKこうはくうたがっせん`
@@ -116,24 +126,24 @@ Istilah general untuk idol yang lebih aktif di majalah gravure.
 ### Oshi
 `押し | おし`
 
-Literal: mendorong; menekan
+1. *(translit Bhs. Indonesia)* mendorong; menekan
 
-Sebuah aksi untuk mendukung grup atau member
+2. *(definisi peridolan)* sebuah aksi untuk mendukung grup atau member
 
-Contoh:
-- Celine-oshi -> fans dari Celine
-- Team J-oshi -> fans dari Team J
+    Contoh:
+    - Celine-oshi -> fans dari Celine
+    - Team J-oshi -> fans dari Team J
 
-Variasi:
-- Oshimen `推しメン | おしメン`: oshi member
-- Hako-oshi (箱推し はこおし): 
-mendukung satu grup atau tim secara menyeluruh
-- Kami-oshi (神押し かみおし):
-member favorit utama
-- Ni-oshi (二押し　におし):
-member favorit kedua
-- San-oshi (三押し　さんおし): 
-member favorit ketiga
+    Variasi:
+    - Oshimen `推しメン | おしメン`: oshi member
+    - Hako-oshi `箱推し | はこおし`: 
+    mendukung satu grup atau tim secara menyeluruh
+    - Kami-oshi `神押し | かみおし`:
+    member favorit utama
+    - Ni-oshi `二押し | におし`:
+    member favorit kedua
+    - San-oshi `三押し | さんおし`: 
+    member favorit ketiga
 ### Overture
 ### Photopack
 ### PV (Promotional Video)
@@ -142,11 +152,13 @@ Event di mana para fans bisa memilih lagu yang dibawakan oleh para member dari r
 ### Seitansai
 `生誕祭 | せいたんさい`
 
-1. *(translit Bhs. Indonesia)* Hari ulang tahun orang yang disucikan; Natal
+1. *(translit Bhs. Indonesia)* Hari ulang tahun orang yang disucikan; Hari Raya Natal
 2. *(definisi peridolan)* Event hari ulang tahun member yang dirayakan di theater
 
 https://dictionary.goo.ne.jp/word/%E8%81%96%E8%AA%95%E7%A5%AD/#jn-122234
+
 https://www.weblio.jp/content/%E8%81%96%E8%AA%95%E7%A5%AD
+
 http://dictionary.j-cat.org/JtoE/index.php?typedword=%E8%81%96%E8%AA%95%E7%A5%AD
 
 ### Senbatsu Sousenkyo (SSK)
@@ -162,18 +174,16 @@ Kumpulan lagu yang biasa diperdengarkan di theater JKT48
 2. *(definisi peridolan)* Event hari pertama salah satu member masuk ke tim inti
 ### Shuffle
 ### Sousenkyo (操船協 そうせんきょ)
----> Lihat [Senbatsu Sousenkyo](###Senbatsu-Sousenkyo-(SSK))
+---> Lihat [Senbatsu Sousenkyo](#senbatsu-sousenkyo-ssk)
 ### Seiyuu
 `声優 | せいゆう`
 
 Pengisi suara anime, video game, film, voice drama, dan sebagainya.
 
-Padanan Bahasa Indonesia sesuai ([KBBI](https://kbbi.kemdikbud.go.id/entri/seiyu)): seiyu `sei.yu /séiyu/`
+Padanan Bahasa Indonesia sesuai [KBBI](https://kbbi.kemdikbud.go.id/entri/seiyu): seiyu `sei.yu /séiyu/`
 ### Team Kaigai
 `チーム海外`
-### TIF
-Tokyo Idol Festival
-
+### Tokyo Idol Festival (TIF)
 Event pergelaran idol Jejepangan terbesar, di mana menghadirkan beragam idol dari beragam genre.
 
 Negara lain: Jakarta Idol Festival (JIF), Bangkok Idol Festival (BIF)
@@ -201,6 +211,7 @@ Sinonim: otaku / ota / wotaku
 2. Fans idol Jejepangan. *(makna ini digunakan di Asia Tenggara, Amerika Utara, Eropa, dan Amerika Latin)*.
 
 >Catatan: Dalam Bahasa Jepang, silabel `wo` tidak dibaca sebagai /wo/, namun /o/. Sehingga, cara baca kata `wota` yang benar adalah /o.ta/
+
 ### Wotagei
 `ヲタ芸 | をたげい`
 

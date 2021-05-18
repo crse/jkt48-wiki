@@ -4,7 +4,7 @@ title: Daftar Sosmed (Edisi Restrukturisasi)
 sidebar_label: SNS List (Restruk)
 ---
 
-> Updated by: Boim, Chris, Maeru, Tody
+Updated by: Boim, Chris, Maeru, Tody
 
 Edisi Restrukturisasi
 
