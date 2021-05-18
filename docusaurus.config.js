@@ -35,47 +35,6 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Social',
-          items: [
-            {
-              label: 'Style Guide',
-              to: 'docs/doc1',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2',
-            },
-          ],
-        },
-        {
-          title: 'Community and SNS',
-          items: [
-            {
-              label: 'Discord',
-              href: 'https://invite.gg/jkt48',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/JKT48Discord',
-            },
-          ],
-        },
-        {
-          title: 'Official Link',
-          items: [
-            {
-              label: 'JKT48 Official Site',
-              to: 'blog',
-            },
-            {
-              label: 'test',
-              href: 'sdas',
-            },
-          ],
-        },
-      ],
       copyright: `Copyright © ${new Date().getFullYear()} JKT48 Discord. Built with ♥ by 🐧 Christian Elbrianno.`,
     },
   },
