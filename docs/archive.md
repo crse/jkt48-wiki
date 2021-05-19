@@ -36,10 +36,12 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
 ### 1st Gen
 
 - Gabriela Warouw
+  - Tiktok: [@gaby.jkt48](https://1drv.ms/u/s!At0yKdjMPQCyhqkpRN6AmFg81X5s6w?e=iqSUG0)
   - Twitter: [@gabyJKT48](https://1drv.ms/u/s!At0yKdjMPQCygs5wQ6sDWv_8wAVu3A?e=vlYGRS)
 
 ### 3rd Gen
 - Anindhita Cahyadi
+  - Tiktok: [@AninJKT48](https://1drv.ms/u/s!At0yKdjMPQCyhqcrmxoBErFdMwxG1g?e=mo9ZYe)
   - Twitter: [@R_Aninjkt48](https://1drv.ms/u/s!At0yKdjMPQCygYMz8_sKu3dD6s1WAg?e=Z5B9cu)
 - Shania Gracia
   - TikTok: [@graciajkt48](https://1drv.ms/u/s!At0yKdjMPQCypjE-tI4s4rO0w5Pu?e=jjG8pr)
@@ -47,6 +49,7 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
 ### 4th Gen
 - Tan Zhi Hui Celine
   - Instagram: [@jkt48celine](https://1drv.ms/u/s!At0yKdjMPQCyqhRTI6gZ297K6Ted?e=qzwq8f)
+  - Tiktok: [@jkt48celine](https://1drv.ms/u/s!At0yKdjMPQCyhqkAIfkRBfuyXbt5EA?e=m02zNk)
 
 ### 7th Gen
 - Dhea Angelia
@@ -68,6 +71,7 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
 - Cornelia Vanisa
   - Twitter: [@C_OnielJKT48](https://1drv.ms/u/s!At0yKdjMPQCygatYbEosgrJxv9CHKw?e=f7adLu)
 - Fiony Alveria Tantri
+  - Tiktok: [@fionyjkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOcrj1fn_iitVHiygA?e=fg8JqP)
   - Twitter: [@A_FionyJKT48](https://1drv.ms/u/s!At0yKdjMPQCygeYvf6XJvfDDYBqRCw?e=DIu418)
 - Flora Shafiqa Riyadi 
   - Twitter: [@S_FloraJKT48](https://1drv.ms/u/s!At0yKdjMPQCyge0n3fDZdHcrzCNr5g?e=kwrCgO)
@@ -79,6 +83,8 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
 ### 9th Gen
 - Adzana Shaliha
   - Twitter: [@S_AshelJKT48](https://1drv.ms/u/s!At0yKdjMPQCyguIw907RGJEk-BYhKw?e=uO4WuV)
+- Indah Cahya Nabilah
+  - Tiktok: [@indahjkt48](https://1drv.ms/u/s!At0yKdjMPQCyhqlY6iE0F2kdAVpf0g?e=6rMk0M)
 - Kathrina Irene
   - Twitter: [@I_KathrinaJKT48](https://1drv.ms/u/s!At0yKdjMPQCysh0y0shZOwRR2IGJ?e=5iatvs)
 - Marsha Lenathea
@@ -124,6 +130,7 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
 
 - Maria Genoveva Natalia Desy Purnamasari Gunawan
   - 🟢🔴Instagram: [@jkt48desy](https://1drv.ms/f/s!At0yKdjMPQCyg5cqHzg3tX4K8In6lg) (1,63GB)
+  - 🔵Tiktok: [@desygenoveva_](https://1drv.ms/u/s!At0yKdjMPQCyhq1dn0jv4gpePvGsrg?e=r8hOEv)
   - 🟢Twitter [@M_DesyJKT48](https://1drv.ms/u/s!At0yKdjMPQCyguQaTkKBiginj1sjBQ?e=7GWDIk) (1,95GB)
 - Michelle Christo
   - 🟢🔴Instagram: [@jkt48michelle](https://1drv.ms/u/s!At0yKdjMPQCyyweEXpD6ur9SyUrg?e=E4Anm2) (527MB)
@@ -163,6 +170,8 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
   - 🟢Tiktok: [@tasyajkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOg91S1lqTny0EoqRw?e=lfrgkf) (54,7MB)
 - Rinanda Syahputri
   - 🟢Tiktok: [@nandajkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOdXpLq--HVMQphmEQ?e=xxU0Ee) (27,4MB)
+- Riska Amelia Putri
+  - 🟢Twitter: [@R_AmelJKT48](https://1drv.ms/u/s!At0yKdjMPQCyhfk3DsUAHirggtvZNQ?e=ODRYRl) (998MB)
 - Shalza Grasita
   - 🟡TikTok: [@shalzajkt48](https://1drv.ms/u/s!At0yKdjMPQCygzjZpSqcrSXvOKT2?e=8pkkQL) (48,9MB)
 
@@ -172,6 +181,8 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
   - 📦Twitter: [@A_YoriJKT48](https://1drv.ms/u/s!At0yKdjMPQCy-DexPrehgkQvZ787?e=9Hleqr)
 - Gabriel Angelina
   - 🟢Tiktok: [@briellejkt48](https://1drv.ms/u/s!At0yKdjMPQCyhfdl8MHAvy0Zy7Rutg?e=QE3yCp) (144MB)
+- Febi Komaril
+  - 🔵Tiktok: [@giraffebiii](https://1drv.ms/u/s!At0yKdjMPQCyhq0s62jvCZp1p0iWTA?e=KPFOtw) [2021.05.19]
 - Febrina Diponegoro
   - 🟢Tiktok: [@brijkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOcEj13KO4glxb2E6g?e=cNmNwL) (79,7MB)
 - Nabila Fitriana
@@ -183,6 +194,8 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
 ### 8th Gen
 - Amanina Afiqah
   - 🟢Tiktok: [@afiqahjkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOgLrVpF566i736opA?e=MvqiVx) (165MB)
+- Devytha Maharani
+  - 🔵Twitter: [@devythamp](https://1drv.ms/u/s!At0yKdjMPQCyhsoBnGF7hRFIptJjjA?e=DQL1Oy)
 - Gabriella Stevany
   - 🟢Tiktok: [@vanyjkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOtC3WRaQETJhqNZLg?e=rsf629) (125MB)
   - 🟢Twitter: [@G_VanyJKT48](https://1drv.ms/u/s!At0yKdjMPQCyhdwr9M3SdjJCotkA7w?e=d7GiqF) (968MB)
