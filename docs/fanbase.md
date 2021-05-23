@@ -4,17 +4,20 @@ title: Fanbase
 sidebar_label: Fanbase
 ---
 
+Information gathered by: Diaz, Tody, Fikri, Maeru, Chris
+
 :::caution Perhatian
 
 Bagian ini masih dalam proses pengerjaan.
 
 :::
 
+
 ## Fanbase Team
 
 |Logo|Team|Nama Fanbase|Sosmed|
 | :------------- | :---------- | :----------- |:---|
-|<img src="" alt="logo" width="100"/>|ONE Alliance 48|J Affiliation |[@OneAlliance48](https://twitter.com/OneAlliance48)| 
+|<img src="" alt="logo" width="100"/>|JKT48|J ONE Alliance 48|[@OneAlliance48](https://twitter.com/OneAlliance48)| 
 |<img src="https://i.imgur.com/5DPbnFX.png" alt="logo" width="100"/>|Team J|J Affiliation |[@J_Affiliation](https://twitter.com/J_Affiliation)| 
 |<img src="https://i.imgur.com/B0fx3MJ.png" alt="logo" width="100"/>|Team KIII|KIII Alliance|[@K3Alliance](https://twitter.com/K3Alliance)|
 |<img src="https://i.imgur.com/vw4xsVp.png" alt="logo" width="100"/>|Team T|Teenagers|[@TeenagersIDN](https://twitter.com/TeenagersIDN)|
@@ -34,7 +37,7 @@ Bagian ini masih dalam proses pengerjaan.
 | :---- | :------------- | :---------- | :----------- |
 |<img src="https://i.imgur.com/Wc66iEX.png" alt="logo" width="100"/>|Adzana Shaliha|Ashelytic|[@Ashelyticofc](https://twitter.com/Ashelyticofc)|
 |<img src="https://i.imgur.com/f5XS5SA.png" alt="logo" width="100"/>|Amirah Fatin|Miracle|[@MiracleID_](https://twitter.com/MiracleID_)|
-|<img src="https://i.imgur.com/BaxIhFj.png" alt="logo" width="100"/>|Angelina Christy|Christyzer|[@Christyzer](https://twitter.com/Siscanation_INA)|
+|<img src="https://i.imgur.com/BaxIhFj.png" alt="logo" width="100"/>|Angelina Christy|Christyzer|[@Christyzer](https://twitter.com/Christyzer)|
 |<img src="https://i.imgur.com/HQt5mMA.png" alt="logo" width="100"/>|Aninditha Rahma Cahyadi|Aninlicious|[@Aninlicious](https://twitter.com/Aninlicious)|
 |<img src="" alt="logo" width="100"/>|Ariella Calista Ichwan|Ariellice|[@ariellice_ofc](https://twitter.com/ariellice_ofc)|
 |<img src="https://i.imgur.com/p1Ii4yL.png" alt="logo" width="100"/>|Azizi Asadel|ZeeMotion|[@ZeeMotionID](https://twitter.com/ZeeMotionID)|
@@ -42,7 +45,7 @@ Bagian ini masih dalam proses pengerjaan.
 |<img src="https://i.imgur.com/1KX9NO2.png" alt="logo" width="100"/>|Cornelia Vanisa|Onielity|[@Onielity_INA](https://twitter.com/Onielity_INA)|
 |<img src="https://i.imgur.com/mXcAzWh.png" alt="logo" width="100"/>|Dhea Angelia|Dheyzious|[@Dheyzious_INA](https://twitter.com/Dheyzious_INA)|
 |<img src="https://i.imgur.com/xzgolBG.png" alt="logo" width="100"/>|Eve Antoinette Ichwan|Evelice|[@evelice_ofc](https://twitter.com/evelice_ofc)|
-|<img src="https://i.imgur.com/imNx47r.png" alt="logo" width="100"/>|Febriola Sinambela|Siscanation|[@Olla_TheMiracle](https://twitter.com/Olla_TheMiracle)|
+|<img src="https://i.imgur.com/imNx47r.png" alt="logo" width="100"/>|Febriola Sinambela|Oracle  |[@Olla_TheMiracle](https://twitter.com/Olla_TheMiracle)|
 |<img src="" alt="logo" width="100"/>|Feni Fitriyanti|Fenidelity|[@Fenidelity_INA](https://twitter.com/Fenidelity_INA)|
 |<img src="" alt="logo" width="100"/>|Fiony Alveria|Symfiony|[@Symfiony](https://twitter.com/Symfiony)|
 |<img src="https://i.imgur.com/lDNfKmZ.png" alt="logo" width="100"/>|Flora Shafiq|FloraBloom|[@FloraBloomID](https://twitter.com/FloraBloomID)|
@@ -77,7 +80,7 @@ Bagian ini masih dalam proses pengerjaan.
 ## Fanbase Eks-member
 
 
-|<img src="" alt="logo" width="100"/>|||[@](https://twitter.com/)|
+
 
 
 ### Gen 7
@@ -102,3 +105,10 @@ Bagian ini masih dalam proses pengerjaan.
 |Logo| Region | Nama Fanbase | Twitter |
 | :---- | :-------- | :------- | :------ |
 |<img src="https://i.imgur.com/tT3fYYV.png" alt="logo" width="100"/>|Indonesia|Alliance Regional48|[@AllRegion48](https://twitter.com/AllRegion48)|
+
+
+
+*template*
+
+
+|<img src="" alt="logo" width="100"/>|||[@](https://twitter.com/)|
