@@ -13,13 +13,13 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 
 :::info Cara Klaim Avatar
 
-1. Kunjungi Showroom tempat avatar tersebut tersedia ketika mereka sedang live.
+1. Kunjungi Showroom tempat avatar tersedia ketika mereka sedang live.
 
 2. Beri gift, bisa gratis maupun berbayar. Tombol hadiah terletak di pojok kanan bawah.
 
     Bila tidak memiliki stok gift gratis, bisa dapat kecambah 10x5 gratis tiap kali nonton live di kanal Free.
 
-3. Avatar yang tersedia otomatis masuk ke dalam koleksi, dan langsung bisa digunakan.
+3. Avatar otomatis masuk ke dalam koleksi, dan langsung bisa digunakan.
 
 :::
 

@@ -4,7 +4,7 @@ title: Fanbase
 sidebar_label: Fanbase
 ---
 
-:::caution
+:::caution Perhatian
 
 Bagian ini masih dalam proses pengerjaan.
 
@@ -14,7 +14,7 @@ Bagian ini masih dalam proses pengerjaan.
 
 |Team|Nama Fanbase|Twitter|
 | :------------- | :----------: | -----------: |
-|Team J|J Affiliation|[@J_Affiliation](https://twitter.com/J_Affiliation)|
+|<img src="https://i.imgur.com/5DPbnFX.png" alt="drawing" width="100"/>Team J|J Affiliation|[@J_Affiliation](https://twitter.com/J_Affiliation)|
 |Team KIII|KIII Alliance|[@K3Alliance](https://twitter.com/K3Alliance)|
 |Team T|Teenagers|[@TeenagersIDN](https://twitter.com/TeenagersIDN)|
 |Academy|Alliance of JKT48 Academy|[@JKT48_Academy](https://twitter.com/JKT48_Academy)|
