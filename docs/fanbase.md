@@ -254,10 +254,10 @@ selfnote: kemungkinanan tanpa fanbase
 |<img src="https://i.imgur.com/P4lovdK.png" alt="logo" width="100"/>| Aiko Harumi | Aikofoni | [@Aikofoni](https://twitter.com/Aikofoni)|
 |<img src="https://i.imgur.com/JPkms1q.png" alt="logo" width="100"/>| Aurel Mayori | Yorigami | [@YorigamiID](https://twitter.com/YorigamiID)|
 |<img src="https://i.imgur.com/qLUB4qM.png" alt="logo" width="100"/>| Febi Komaril | Febinetsui | [@Febinetsui_ID](https://twitter.com/Febinetsui_ID)|
-|<img src="" alt="logo" width="100"/>|Febrina Diponegoro|Brinisty|[@Brinisty_INA](https://twitter.com/Brinisty_INA)|
-|<img src="" alt="logo" width="100"/>|Gabriel Angelina|Brielliance|[@BriellianceID](https://twitter.com/BriellianceID)|
+|<img src="https://i.imgur.com/f2UEs1O.png" alt="logo" width="100"/>|Febrina Diponegoro|Brinisty|[@Brinisty_INA](https://twitter.com/Brinisty_INA)|
+|<img src="https://i.imgur.com/fHPYZfy.jpg" alt="logo" width="100"/>|Gabriel Angelina|Brielliance|[@BriellianceID](https://twitter.com/BriellianceID)|
 |<img src="https://i.imgur.com/2dqy5Ap.png" alt="logo" width="100"/>|Kanya Caya|Kanyaffection|[@Kanyaffection](https://twitter.com/Kanyaffection)|
-|<img src="" alt="logo" width="100"/>|Nabila Fitriana|Lastarlight|[@la_starlight](https://twitter.com/la_starlight)|
+|<img src="https://i.imgur.com/kLJpplk.png" alt="logo" width="100"/>|Nabila Fitriana|Lastarlight|[@la_starlight](https://twitter.com/la_starlight)|
 |<img src="https://i.imgur.com/Iovuzpt.png" alt="logo" width="100"/>|Rifa Fatmasari|Rifanions|[@Rifanions](https://twitter.com/Rifanions)|
 |<img src="https://i.imgur.com/FXV4ClX.png" alt="logo" width="100"/>|Viona Fadrin|Vionaexible|[@vionaexible_](https://twitter.com/vionaexible_)|
 
@@ -269,12 +269,12 @@ selfnote: kemungkinanan tanpa fanbase
 |<img src="https://i.imgur.com/MqFtvVX.png" alt="logo" width="100"/>|Cindy Nugroho|NU Story|[@NUstory_id](https://twitter.com/NUstory_id)|
 |<img src="https://i.imgur.com/8svZtzK.png" alt="logo" width="100"/>|Devytha Maharani|Devysion|[@Devysion](https://twitter.com/Devysion)|
 |<img src="https://i.imgur.com/4OywIQh.png" alt="logo" width="100"/>|Eriena Kartika|Erienastic|[@erienastic](https://twitter.com/erienastic)|
-|<img src="" alt="logo" width="100"/>|Gabriella Stevany|Voice of Vany|[@VoiceOfVany](https://twitter.com/VoiceOfVany)|
-|<img src="" alt="logo" width="100"/>|Keisya Ramadhani|Keisyavers|[@keisyavers](https://twitter.com/keisyavers)|
+|<img src="https://i.imgur.com/6ckYcSH.png" alt="logo" width="100"/>|Gabriella Stevany|Voice of Vany|[@VoiceOfVany](https://twitter.com/VoiceOfVany)|
+|<img src="https://i.imgur.com/U9BaHiF.png" alt="logo" width="100"/>|Keisya Ramadhani|Keisyavers|[@keisyavers](https://twitter.com/keisyavers)|
 |<img src="https://i.imgur.com/rSQ34xk.png" alt="logo" width="100"/>|Nyimas Ratu Rafa|Queenact|[@Queenactoffc](https://twitter.com/Queenactoffc)|
 |<img src="https://i.imgur.com/brVuUW5.jpeg" alt="logo" width="100"/>|Pamela Krysanthe|Pamelasky|[@Pamelasky_ID](https://twitter.com/Pamelasky_ID)|
-|<img src="" alt="logo" width="100"/>|Reva Adriana|Historeva|?|
-|<img src="" alt="logo" width="100"/>|Salma Annisa|Salmate|@Salmate_OFC (?)|
+||Reva Adriana|Historeva|[@Historeva](https://twitter.com/Historeva) (akun ditangguhkan)|
+|<img src="https://i.imgur.com/LYGGJta.png" alt="logo" width="100"/>|Salma Annisa|Salmate|@Salmate_OFC (converted into personal account?)|
 |<img src="https://i.imgur.com/DZBNXtN.png" alt="logo" width="100"/>|Umega Maulana|Umeboshi|[@Umeboshi_Ofc](https://twitter.com/Umeboshi_Ofc)|
 
 ### Gen 9
