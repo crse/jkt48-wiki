@@ -37,7 +37,7 @@ Bagian ini masih dalam proses pengerjaan.
 |<img src="https://i.imgur.com/mXcAzWh.png" alt="logo" width="100"/>|Dhea Angelia|Dheyzious|[@Dheyzious_INA](https://twitter.com/Dheyzious_INA)|
 |<img src="https://i.imgur.com/xzgolBG.png" alt="logo" width="100"/>|Eve Antoinette Ichwan|Evelice|[@evelice_ofc](https://twitter.com/evelice_ofc)|
 |<img src="https://i.imgur.com/imNx47r.png" alt="logo" width="100"/>|Febriola Sinambela|Oracle|[@Olla_TheMiracle](https://twitter.com/Olla_TheMiracle)|
-|<img src="" alt="logo" width="100"/>|Feni Fitriyanti|Fenidelity|[@Fenidelity_INA](https://twitter.com/Fenidelity_INA)|
+|<img src="https://i.imgur.com/0VHIOT9.png" alt="logo" width="100"/>|Feni Fitriyanti|Fenidelity|[@Fenidelity_INA](https://twitter.com/Fenidelity_INA)|
 |<img src="https://i.imgur.com/IwU26a0.jpeg" alt="logo" width="100"/>|Fiony Alveria|Symfiony|[@Symfiony](https://twitter.com/Symfiony)|
 |<img src="https://i.imgur.com/lDNfKmZ.png" alt="logo" width="100"/>|Flora Shafiq|FloraBloom|[@FloraBloomID](https://twitter.com/FloraBloomID)|
 |<img src="https://i.imgur.com/JRJBodF.png" alt="logo" width="100"/>|Fransisca Saraswati|Siscanation|[@Siscanation_INA](https://twitter.com/Siscanation_INA)|
@@ -100,7 +100,7 @@ selfnote: kemungkinanan tanpa fanbase
 |<img src="" alt="logo" width="100"/>|Jessica Veranda|Veloved|[@](https://twitter.com/)|
 |<img src="" alt="logo" width="100"/>|Melody Nurramdhani Laksani|Melodiest|[@](https://twitter.com/)|
 |<img src="" alt="logo" width="100"/>|Nabilah Ratna Ayu Azalia|Nabilaholic|[@](https://twitter.com/)|
-|<img src="" alt="logo" width="100"/>|Nozawa Rena||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Nozawa Rena|Renaissance|[@Renaissance_JKT](https://twitter.com/Renaissance_JKT)|
 |<img src="" alt="logo" width="100"/>|Rezky Wiranti Dhike|Dhikeringer|[@DhikeFC](https://twitter.com/DhikeFC)|
 |<img src="" alt="logo" width="100"/>|Rica Leyona|Ricaleyonator|[@](https://twitter.com/)|
 |<img src="" alt="logo" width="100"/>|Sendy Ariani|Sendylatte|[@](https://twitter.com/)|
@@ -314,7 +314,7 @@ Member tanpa fanbase:
 | :---- | :-------- | :------- | :------ |
 |<img src="" alt="logo" width="100"/>|Nakagawa Haruka|Harukanisme|[@](https://twitter.com/)|
 |<img src="" alt="logo" width="100"/>|Takajo Aki|Akichaholic|[@](https://twitter.com/)|
-|<img src="" alt="logo" width="100"/>|Chikano Rina||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Chikano Rina|Rinations|[@ChikarinaFANS_I](https://twitter.com/ChikarinaFANS_I)|
 
 ## Fanbase Regional
 
