@@ -12,7 +12,6 @@ Bagian ini masih dalam proses pengerjaan.
 
 :::
 
-
 ## Fanbase Utama
 
 |Logo|Team|Nama Fanbase|Sosmed|
@@ -22,9 +21,6 @@ Bagian ini masih dalam proses pengerjaan.
 |<img src="https://i.imgur.com/B0fx3MJ.png" alt="logo" width="100"/>|Team KIII|KIII Alliance|[@K3Alliance](https://twitter.com/K3Alliance)|
 |<img src="https://i.imgur.com/28gMMVP.jpeg" alt="logo" width="100"/>|Team T|Teenagers|[@TeenagersIDN](https://twitter.com/TeenagersIDN)|
 |<img src="https://i.imgur.com/BvrlVAh.png" alt="logo" width="100"/>|Academy|Alliance of JKT48 Academy|[@JKT48_Academy](https://twitter.com/JKT48_Academy)|
-
-
-
 
 ## Fanbase Member
 
@@ -64,14 +60,10 @@ Bagian ini masih dalam proses pengerjaan.
 |<img src="https://i.imgur.com/4QzNw8m.png" alt="logo" width="100"/>|Yessica Tamara|JOY for Chika|[@JOYforChika](https://twitter.com/JOYforChika)|
 |<img src="https://i.imgur.com/lb9eraQ.png" alt="logo" width="100"/>|Zahra Nur|Arashi|[@Arashi_ID](https://twitter.com/Arashi_ID)|
 
-
 ## Aliansi Generasi
 
 |Logo| Member | Nama Fanbase | Twitter |
 | :---- | :------ | :--- | :-- |
-|<img src="" alt="logo" width="100"/>|1st gen||[@](https://twitter.com/)|
-|<img src="" alt="logo" width="100"/>|2nd gen||[@](https://twitter.com/)|
-|<img src="" alt="logo" width="100"/>|3rd gen||[@](https://twitter.com/)|
 |<img src="" alt="logo" width="100"/>|4th gen||[@FANT4STICGen4](https://twitter.com/FANT4STICGen4) (akun ditangguhkan?)|
 |<img src="https://i.imgur.com/EqHHJis.png" alt="logo" width="100"/>|5th gen||[@gen5emangat](https://twitter.com/gen5emangat)|
 |<img src="" alt="logo" width="100"/>|6th gen||[@](https://twitter.com/)|
@@ -100,7 +92,7 @@ selfnote: kemungkinanan tanpa fanbase
 |<img src="" alt="logo" width="100"/>|Cleopatra|Cleovers|[@](https://twitter.com/)|
 |<img src="" alt="logo" width="100"/>|Delima Rizky|Delimars|[@](https://twitter.com/)|
 |<img src="" alt="logo" width="100"/>|Devi Kinal Putri|Kinalova|[@](https://twitter.com/)|
-|<img src="" alt="logo" width="100"/>|Diasta Priswarini||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Diasta Priswarini|Nyasshiteru|[@](https://twitter.com/)|
 |<img src="" alt="logo" width="100"/>|Frieska Anastasia Laksani|Frieskavers|[@FrieskaversINA](https://twitter.com/FrieskaversINA)|
 |<img src="" alt="logo" width="100"/>|Ghaida Farisya|Kamen Ghaida|[@](https://twitter.com/)|
 |<img src="" alt="logo" width="100"/>|Intania Pratama Ilham||[@](https://twitter.com/)|
@@ -126,8 +118,6 @@ selfnote: kemungkinanan tanpa fanbase
 - Nadhifa Karimah
 - Nurhalima Oktavianti
 - Olivia Robberecht
-
-
 
 |Logo| Member | Nama Fanbase | Twitter |
 | :---- | :-------- | :------- | :------ |
@@ -296,12 +286,12 @@ Member tanpa fanbase:
 |Logo| Member | Nama Fanbase | Twitter |
 | :---- | :-------- | :------- | :------ |
 |<img src="https://i.imgur.com/BhUkn0U.jpg" alt="logo" width="100"/>|Caithlyn Gwyneth|Caithter|[@caithter](https://twitter.com/caithter)|
-|<img src="" alt="logo" width="100"/>|Chalista Ellysia|ChalistaR|[@ChalistaR_ID](https://twitter.com/ChalistaR_ID)|
+|<img src="https://i.imgur.com/BSfXRNu.png" alt="logo" width="100"/>|Chalista Ellysia|ChalistaR|[@ChalistaR_ID](https://twitter.com/ChalistaR_ID)|
 |<img src="https://i.imgur.com/19Orz7W.png" alt="logo" width="100"/>|Christabel Jocelyn|Adorabel|[@AdorabelTeam](https://twitter.com/AdorabelTeam)|
 |<img src="https://i.imgur.com/n01ZVt2.png" alt="logo" width="100"/>|Nabila Gusmarlia|Hanabirra|[@Hanabirra_](https://twitter.com/Hanabirra_)|
 |<img src="https://i.imgur.com/5Y68ilj.png" alt="logo" width="100"/>|Olivia Payten|Paytension|[@Paytension_](https://twitter.com/Paytension_)|
-|<img src="" alt="logo" width="100"/>|Putri Elzahra|Zahrise|[@ZahriseOfc](https://twitter.com/ZahriseOfc)|
-|<img src="" alt="logo" width="100"/>|Shinta Devi|Sweet Of Shinta|[@SweetOfShinta](https://twitter.com/SweetOfShinta)|
+|<img src="https://i.imgur.com/ORTGH75.png" alt="logo" width="100"/>|Putri Elzahra|Zahrise|[@ZahriseOfc](https://twitter.com/ZahriseOfc)|
+|<img src="https://i.imgur.com/IqeHFKS.png" alt="logo" width="100"/>|Shinta Devi|Sweet Of Shinta|[@SweetOfShinta](https://twitter.com/SweetOfShinta)|
 
 ### Gen 10
 
@@ -323,7 +313,7 @@ Member tanpa fanbase:
 |Logo| Member | Nama Fanbase | Twitter |
 | :---- | :-------- | :------- | :------ |
 |<img src="" alt="logo" width="100"/>|Nakagawa Haruka|Harukanisme|[@](https://twitter.com/)|
-|<img src="" alt="logo" width="100"/>|Takajo Aki||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Takajo Aki|Akichaholic|[@](https://twitter.com/)|
 |<img src="" alt="logo" width="100"/>|Chikano Rina||[@](https://twitter.com/)|
 
 ## Fanbase Regional
