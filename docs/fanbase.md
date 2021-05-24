@@ -1,6 +1,6 @@
 ---
 id: fanbase
-title: Fanbase
+title: Katalog Fanbase
 sidebar_label: Fanbase
 ---
 
@@ -78,7 +78,7 @@ Bagian ini masih dalam proses pengerjaan.
 |<img src="" alt="logo" width="100"/>|2nd gen||[@](https://twitter.com/)|
 |<img src="" alt="logo" width="100"/>|3rd gen||[@](https://twitter.com/)|
 |<img src="" alt="logo" width="100"/>|4th gen||[@FANT4STICGen4](https://twitter.com/FANT4STICGen4) (akun ditangguhkan?)|
-|<img src="" alt="logo" width="100"/>|5th gen||[@](https://twitter.com/)|
+|<img src="https://i.imgur.com/EqHHJis.png" alt="logo" width="100"/>|5th gen||[@gen5emangat](https://twitter.com/gen5emangat)|
 |<img src="" alt="logo" width="100"/>|6th gen||[@](https://twitter.com/)|
 |<img src="https://i.imgur.com/HImCODM.png" alt="logo" width="100"/>|7th gen|JKT48 7th Generation Alliance|[@gen7jkt48](https://twitter.com/gen7jkt48)|
 |<img src="https://i.imgur.com/brfqFr2.png" alt="logo" width="100"/>|8th gen|INFINITY GENERATI∞N|[@generati8n](https://twitter.com/generati8n)|
@@ -87,30 +87,182 @@ Bagian ini masih dalam proses pengerjaan.
 
 ## Fanbase Eks-member
 
+### Gen 1
+
+selfnote: kemungkinanan tanpa fanbase
+- Allisa Astri
+- Fahira
+- Intania Pratama Ilham
+- Neneng Rosediana
+- Siti Gayatri
+
+|Logo| Member | Nama Fanbase | Twitter |
+| :---- | :-------- | :------- | :------ |
+|<img src="" alt="logo" width="100"/>|Alissa Galliamova||[@](https://twitter.com/)|
+|<img src="https://i.imgur.com/83mToUl.png" alt="logo" width="100"/>|Ayana Shahab|Achanation|[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Beby Chaesara Anadila|BebyOshi|[@BebyOshi](https://twitter.com/BebyOshi)|
+|<img src="" alt="logo" width="100"/>|Cindy Gulla||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Cleopatra|Cleovers|[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Delima Rizky||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Devi Kinal Putri||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Diasta Priswarini||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Frieska Anastasia Laksani|Frieskavers|[@FrieskaversINA](https://twitter.com/FrieskaversINA)|
+|<img src="" alt="logo" width="100"/>|Ghaida Farisya||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Intania Pratama Ilham||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Jessica Vania Widjaja||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Jessica Veranda||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Melody Nurramdhani Laksani|Melodiest|[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Nabilah Ratna Ayu Azalia|Nabilaholic|[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Nozawa Rena||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Rezky Wiranti Dhike|Dhikeringer|[@DhikeFC](https://twitter.com/DhikeFC)|
+|<img src="" alt="logo" width="100"/>|Rica Leyona||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Sendy Ariani|Sendylatte|[@](https://twitter.com/)|
+|<img src="https://i.imgur.com/k4q9znK.png" alt="logo" width="100"/>|Shania Junianatha|Shanjunisme|[@shanjunisme](https://twitter.com/shanjunisme)|
+|<img src="" alt="logo" width="100"/>|Sonia Natalia||[@TeamSolidSonia](https://twitter.com/TeamSolidSonia)?|
+|<img src="" alt="logo" width="100"/>|Sonya Pandarmawan||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Stella Cornelia||[@](https://twitter.com/)|
+
+### Gen 2
+
+selfnote: kemungkinanan tanpa fanbase
+- Althea Callista
+- Annisa Athia
+- Dellia Erdita
+- Nadhifa Karimah
+- Nurhalima Oktavianti
+- Olivia Robberecht
+
+
+
+|Logo| Member | Nama Fanbase | Twitter |
+| :---- | :-------- | :------- | :------ |
+|<img src="https://i.imgur.com/TSGQbYD.png" alt="logo" width="100"/>|Alicia Chanzia|Achanisti|[@Acha_JKT48FC](https://twitter.com/Acha_JKT48FC)|
+|<img src="" alt="logo" width="100"/>|Annisa Athia||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Cindy Yuvia||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Della Delila||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Dena Siti Rohyati|DenaRainbow|[@DenaRainbow](https://twitter.com/DenaRainbow) (possible wrong)|
+|<img src="" alt="logo" width="100"/>|Dwi Putri Bonita||[@](https://twitter.com/)|
+|<img src="https://i.imgur.com/LxNmlXK.png" alt="logo" width="100"/>|Fakhriyani Shafariyanti|Shafantastic|[@shafantastic](https://twitter.com/shafantastic)?|
+|<img src="" alt="logo" width="100"/>|Intar Putri Kariina||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Jennifer Hanna|Hannaichi|[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Jennifer Rachel Natasya||[@](https://twitter.com/)|
+|<img src="https://i.imgur.com/tZu5CGQ.png" alt="logo" width="100"/>|Lidya Maulida Djuhandar|Lidyanatic|[@LMDefender_](https://twitter.com/LMDefender_)|
+|<img src="" alt="logo" width="100"/>|Nadila Cindi Wantari|Nadilavatic|[@NDLVTC_ID](https://twitter.com/NDLVTC_ID)|
+|<img src="" alt="logo" width="100"/>|Natalia||[@NataliaJKT48FC](https://twitter.com/NataliaJKT48FC) (akun ditangguhkan)|
+|<img src="" alt="logo" width="100"/>|Noella Sisterina||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Novinta Dhini||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Nurhalima Oktavianti||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Octi Sevpin||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Priscillia Sari Dewi||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Ratu Vienny Fitrilya||[@1VinyOshi](https://twitter.com/1VinyOshi)|
+|<img src="" alt="logo" width="100"/>|Riskha Fairunissa||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Rona Anggreani|Ayenizers|[@AyenizersINA](https://twitter.com/AyenizersINA)|
+|<img src="" alt="logo" width="100"/>|Saktia Oktapyani||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Shinta Naomi|Naomissions|[@Naomissions](https://twitter.com/Naomissions)|
+|<img src="" alt="logo" width="100"/>|Sinka Juliani|Sinkadorable|[@Sinkadorable](https://twitter.com/Sinkadorable)|
+|<img src="" alt="logo" width="100"/>|Thalia||[@](https://twitter.com/)|
+|<img src="https://i.imgur.com/fWIBlKy.png" alt="logo" width="100"/>|Thalia Ivanka Elizabeth|Vankastic|[@VANKASTIC](https://twitter.com/VANKASTIC)|
+|<img src="" alt="logo" width="100"/>|Viviyona Apriani|YonaRanger|[@YonaRanger](https://twitter.com/YonaRanger)|
+
+### Gen 3
+
+selfnote: kemungkinanan tanpa fanbase
+- Alycia Ferryana
+- Anggie Putri Kurniasari
+- Farina Yogi Devani
+- Indah Permata Sari
+- Kezia Putri Andinta
+- Pipit Ananda
+- Shaffa Nabila
+- Zebi Magnolia Fawwaz
+
+
+|Logo| Member | Nama Fanbase | Twitter |
+| :---- | :-------- | :------- | :------ |
+|<img src="" alt="logo" width="100"/>|Amanda Dwi Arista||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Andela Yuwono||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Ayu Safira Oktaviani||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Chikita Ravenska Mamesah|Chikaster|[@](https://twitter.com/)|
+|<img src="https://i.imgur.com/1foHoXL.png" alt="logo" width="100"/>|Elaine Hartanto|Elainelastic|[@Elainelastic](https://twitter.com/Elainelastic)|
+|<img src="https://i.imgur.com/XHgT1Ku.png" alt="logo" width="100"/>|Maria Genoveva Natalia Desy Purnamasari Gunawan|Desynfection|[@Desynfection](https://twitter.com/Desynfection)|
+|<img src="https://i.imgur.com/FsTitcb.png" alt="logo" width="100"/>|Martha Graciela|Graceternity|[@Graceternity_FC](https://twitter.com/Graceternity_FC)|
+|<img src="" alt="logo" width="100"/>|Michelle Christo Kusnadi|Michellisto|[@MichellistoINA](https://twitter.com/MichellistoINA)|
+|<img src="" alt="logo" width="100"/>|Milenia Christien Glory Goenawan|Mileniaction|[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Nadhifa Salsabila||[@](https://twitter.com/)|
+|<img src="https://i.imgur.com/CPO91q9.png" alt="logo" width="100"/>|Ni Made Ayu Vania Aurellia|Aurelliable|[@Aurelliable](https://twitter.com/Aurelliable)|
+|<img src="" alt="logo" width="100"/>|Nina Hamidah||[@](https://twitter.com/)|
+|<img src="https://i.imgur.com/6E0sVUa.png" alt="logo" width="100"/>|Putri Farin Kartika|Farinsiders, Farinoid?|[@Farinsiders](https://twitter.com/Farinsiders)|
+|<img src="" alt="logo" width="100"/>|Rizka Khalila|Yukka Listic, YukkaOshi|[@](https://twitter.com/)|
+|<img src="https://i.imgur.com/dJaDNoQ.png" alt="logo" width="100"/>|Sofia Meifaliani|Filosofia|[@Filosofia_INA](https://twitter.com/Filosofia_INA)|
+|<img src="" alt="logo" width="100"/>|Stephanie Pricilla Indarto Putri||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Syahfira Angela Nurhaliza|Syahfiranger|[@Syahfiranger](https://twitter.com/Syahfiranger)|
+|<img src="https://i.imgur.com/PUklRL6.png" alt="logo" width="100"/>|Triarona Kusuma|Tyaffection|[@Tyaffection](https://twitter.com/Tyaffection)|
+|<img src="https://i.imgur.com/RsGNQfK.png" alt="logo" width="100"/>|Yansen Indiani|Cesenizer|[@Cesenizer](https://twitter.com/Cesenizer)|
+
+
+### Gen 4
+
+selfnote: kemungkinanan tanpa fanbase
+- Mega Suryani
+- Jessica Berliana Ekawardani
+
+|Logo| Member | Nama Fanbase | Twitter |
+| :---- | :-------- | :------- | :------ |
+|<img src="" alt="logo" width="100"/>|Adriani Elisabeth|Lisanshine|[@Lisanshine_INA](https://twitter.com/Lisanshine_INA)|
+|<img src="https://i.imgur.com/5XcM8Hz.png" alt="logo" width="100"/>|Christy Chriselle|Christynions|[@Christynions](https://twitter.com/Christynions)|
+|<img src="" alt="logo" width="100"/>|Fidly Immanda Azzahra|Atmosfia|[@Atmosfia_INA](https://twitter.com/Atmosfia_INA)|
+|<img src="" alt="logo" width="100"/>|Made Devi Ranita Ningtara|Devirytales|[@Devirytales](https://twitter.com/Devirytales)|
+|<img src="" alt="logo" width="100"/>|Melati Putri Rahel Sesilia|Melatinited|[@MelatiUnited](https://twitter.com/MelatiUnited)|
+|<img src="" alt="logo" width="100"/>|Sri Lintang||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Zahra Yuriva Dermawan||[@](https://twitter.com/)|
+
+### Gen 5
+
+selfnote: kemungkinanan tanpa fanbase
+- Chintya Hanindhitakirana Wirawan
+- Anggita Destiana Dewi
+- Helma Sonya
+- Rissanda Putri Tuarissa
+
+|Logo| Member | Nama Fanbase | Twitter |
+| :---- | :-------- | :------- | :------ |
+|<img src="" alt="logo" width="100"/>|Adhisty Zara|Adhistyrriors|[@adhistyrriors](https://twitter.com/adhistyrriors)|
+|<img src="https://i.imgur.com/4cDhw0e.png" alt="logo" width="100"/>|Citra Ayu Pranajaya Wibrado|Citraince|[@Citraince_](https://twitter.com/Citraince_)|
+|<img src="" alt="logo" width="100"/>|Diani Amalia|Dianistic|[@Dianistic_INA](https://twitter.com/Dianistic_INA)|
+|<img src="" alt="logo" width="100"/>|Elizabeth Gloria Setiawan||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Gabryela Marcelina|ActionForAby|[@ActionForAby](https://twitter.com/ActionForAby) (akun ditangguhkan)|
+|<img src="https://i.imgur.com/Bmd26zq.png" alt="logo" width="100"/>|Hasyakyla Utami|Skyla|[@Skyla_INA](https://twitter.com/Skyla_INA)|
+|<img src="https://i.imgur.com/PYERuql.png" alt="logo" width="100"/>|Nurhayati|Ayanesia|[@Ayanesia](https://twitter.com/Ayanesia)|
+|<img src="" alt="logo" width="100"/>|Puti Nadhira Azalia||[@](https://twitter.com/)|
+|<img src="https://i.imgur.com/JwhBgXj.png" alt="logo" width="100"/>|Regina Angelina|Ginalisme|[@Ginalisme_INA](https://twitter.com/Ginalisme_INA)|
+|<img src="" alt="logo" width="100"/>|Ruth Damayanti Sitanggang||[@](https://twitter.com/)|
+|<img src="https://i.imgur.com/HsQRDiM.png" alt="logo" width="100"/>|Sania Julia Montolalu|Sanianistic|[@Sanianistic](https://twitter.com/Sanianistic)|
+|<img src="https://i.imgur.com/yyZBGtw.png" alt="logo" width="100"/>|Violeta Burhan|Violense|[@Violense_ID](https://twitter.com/Violense_ID)|
+
+
 ### Gen 6
 
-Member tanpa fanbase:
+selfnote: kemungkinanan tanpa fanbase
 - Jihan Miftahul Jannah
 
 |Logo| Member | Nama Fanbase | Twitter |
 | :---- | :------------- | :---------- | :---|
-|<img src="" alt="logo" width="100"/>|Amanda Priscella||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Amanda Priscella|Priscellation|[@priscellation](https://twitter.com/priscellation) (akun ditangguhkan)|
 |<img src="https://i.imgur.com/9KHphNL.png" alt="logo" width="100"/>|Anastasya Narwastu Tety Handuran|Tasyamate|[@Tasyamate](https://twitter.com/Tasyamate)|
-|<img src="" alt="logo" width="100"/>|Denise Caroline||[@](https://twitter.com/)|
-|<img src="" alt="logo" width="100"/>|Erika Ebisawa Kuswan||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Denise Caroline|Deniseviour|[@Deniseviour](https://twitter.com/Deniseviour) (akun ditangguhkan)|
+|<img src="" alt="logo" width="100"/>|Erika Ebisawa Kuswan||[@officerikania](https://twitter.com/officerikania) (?)|
 |<img src="" alt="logo" width="100"/>|Erika Sintia||[@](https://twitter.com/)|
-|<img src="" alt="logo" width="100"/>|Graciella Ruth Wiranto||[@](https://twitter.com/)|
+|<img src="https://i.imgur.com/U37bg3A.png" alt="logo" width="100"/>|Graciella Ruth Wiranto|Ciellaster|[@Ciellaster_INA](https://twitter.com/Ciellaster_INA)|
 |<img src="" alt="logo" width="100"/>|Kandiya Rafa Maulidita|Kandiyaction|[@kandiyaction](https://twitter.com/kandiyaction)|
-|<img src="" alt="logo" width="100"/>|Putri Cahyaning Anggraini||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Putri Cahyaning Anggraini|Putrisme|[@Putrisme_INA](https://twitter.com/Putrisme_INA) (akun ditangguhkan)|
 |<img src="https://i.imgur.com/KSWyHPq.png" alt="logo" width="100"/>|Rinanda Syahputri|Rinandays|[@Rinandays](https://twitter.com/Rinandays)|
 |<img src="https://i.imgur.com/FHCuIyY.png" alt="logo" width="100"/>|Riska Amelia Putri|Riskaddict|[@Riskaddict_ID](https://twitter.com/Riskaddict_ID)|
-|<img src="" alt="logo" width="100"/>|Shalza Grasita||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Shalza Grasita|Shalzallies|[@Shalzallies](https://twitter.com/Shalzallies)|
 
 ### Gen 7
 
-Member tanpa fanbase:
+selfnote: kemungkinanan tanpa fanbase
 - Calista Lea
-- Kanya Caya
 
 |Logo| Member | Nama Fanbase | Twitter |
 | :---- | :------------- | :---------- | :---|
@@ -119,6 +271,7 @@ Member tanpa fanbase:
 |<img src="https://i.imgur.com/qLUB4qM.png" alt="logo" width="100"/>| Febi Komaril | Febinetsui | [@Febinetsui_ID](https://twitter.com/Febinetsui_ID)|
 |<img src="" alt="logo" width="100"/>|Febrina Diponegoro|Brinisty|[@Brinisty_INA](https://twitter.com/Brinisty_INA)|
 |<img src="" alt="logo" width="100"/>|Gabriel Angelina|Brielliance|[@BriellianceID](https://twitter.com/BriellianceID)|
+|<img src="https://i.imgur.com/2dqy5Ap.png" alt="logo" width="100"/>|Kanya Caya|Kanyaffection|[@Kanyaffection](https://twitter.com/Kanyaffection)|
 |<img src="" alt="logo" width="100"/>|Nabila Fitriana|Lastarlight|[@la_starlight](https://twitter.com/la_starlight)|
 |<img src="https://i.imgur.com/Iovuzpt.png" alt="logo" width="100"/>|Rifa Fatmasari|Rifanions|[@Rifanions](https://twitter.com/Rifanions)|
 |<img src="https://i.imgur.com/FXV4ClX.png" alt="logo" width="100"/>|Viona Fadrin|Vionaexible|[@vionaexible_](https://twitter.com/vionaexible_)|
@@ -170,6 +323,14 @@ Member tanpa fanbase:
 |<img src="https://i.imgur.com/jmS5Pku.png" alt="logo" width="100"/>|Naura Safinatunnajah|Nasa Official|[@NasaOfficialOfc](https://twitter.com/NasaOfficialOfc)|
 |<img src="https://i.imgur.com/kpFdRLR.png" alt="logo" width="100"/>|Raisha Syifa Wardhana|Raishanrise|[@OshiRaishanrise](https://twitter.com/OshiRaishanrise)|
 
+## Team Kaigai eks-JKT48
+
+|Logo| Member | Nama Fanbase | Twitter |
+| :---- | :-------- | :------- | :------ |
+|<img src="https://i.imgur.com/AEblacJ.png" alt="logo" width="100"/>|Nakagawa Haruka|Harugon|[@HarugonFC](https://twitter.com//HarugonFC)|
+|<img src="" alt="logo" width="100"/>|Takajo Aki||[@](https://twitter.com/)|
+|<img src="" alt="logo" width="100"/>|Chikano Rina||[@](https://twitter.com/)|
+
 ## Fanbase Regional
 
 |Logo| Region | Nama Fanbase | Twitter |
@@ -179,6 +340,5 @@ Member tanpa fanbase:
 
 
 *template*
-
 
 |<img src="" alt="logo" width="100"/>|||[@](https://twitter.com/)|
