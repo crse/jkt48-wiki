@@ -204,11 +204,11 @@ Note: kemungkinanan tanpa fanbase
 
 |Logo| Member | Nama Fanbase | Twitter |
 | :---- | :-------- | :------- | :------ |
-| |Adriani Elisabeth|Lisanshine, Lisaddict, Lisanthusiazm|[@Lisanshine_INA](https://twitter.com/Lisanshine_INA)|
+|<img src="https://i.imgur.com/AqZSut5.png" alt="logo" width="100"/>|Adriani Elisabeth|Lisanshine, Lisaddict, Lisanthusiazm|[@Lisanshine_INA](https://twitter.com/Lisanshine_INA)|
 |<img src="https://i.imgur.com/5XcM8Hz.png" alt="logo" width="100"/>|Christy Chriselle|Christynions|[@Christynions](https://twitter.com/Christynions)|
 |<img src="https://i.imgur.com/sQZjRAP.png" alt="logo" width="100"/>|Fidly Immanda Azzahra|Atmosfia|[@Atmosfia_INA](https://twitter.com/Atmosfia_INA)|
 |<img src="https://i.imgur.com/uSSZgJJ.png" alt="logo" width="100"/>|Jessica Berliana Ekawardani|Jessically|[@JessicallyJejes](https://twitter.com/JessicallyJejes)|
-| |Made Devi Ranita Ningtara|Devirytales|[@Devirytales](https://twitter.com/Devirytales)|
+|<img src="https://i.imgur.com/ChD1Kyj.png" alt="logo" width="100"/>|Made Devi Ranita Ningtara|Devirytales|[@Devirytales](https://twitter.com/Devirytales)|
 |<img src="https://i.imgur.com/F15Kklk.png" alt="logo" width="100"/>|Mega Suryani|MegaLight|[@MegaLight_INA](https://twitter.com/MegaLight_INA)|
 |<img src="https://i.imgur.com/6rIHMoN.png" alt="logo" width="100"/>|Melati Putri Rahel Sesilia|Melatinited|[@MelatiUnited](https://twitter.com/MelatiUnited)|
 | |Sri Lintang|StarLintang, Lintanguistic|[@StarLintang_](https://twitter.com/StarLintang_) (❌)|
@@ -228,12 +228,12 @@ Note: kemungkinanan tanpa fanbase
 |<img src="https://i.imgur.com/4cDhw0e.png" alt="logo" width="100"/>|Citra Ayu Pranajaya Wibrado|Citraince|[@Citraince_](https://twitter.com/Citraince_)|
 |<img src="https://i.imgur.com/mf91TmY.png" alt="logo" width="100"/>|Diani Amalia|Dianistic|[@Dianistic_INA](https://twitter.com/Dianistic_INA)|
 | |Elizabeth Gloria Setiawan|Glorious| |
-| |Gabryela Marcelina|ActionForAby, Abyvers|[@ActionForAby](https://twitter.com/ActionForAby) (❌)|
+|<img src="https://i.imgur.com/f8AL3su.png" alt="logo" width="100"/>|Gabryela Marcelina|ActionForAby, Abyvers|[@ActionForAby](https://twitter.com/ActionForAby) (❌), [@actionforaby](https://www.instagram.com/actionforaby/) (IG)|
 |<img src="https://i.imgur.com/Bmd26zq.png" alt="logo" width="100"/>|Hasyakyla Utami|Skyla|[@Skyla_INA](https://twitter.com/Skyla_INA)|
 |<img src="https://i.imgur.com/PYERuql.png" alt="logo" width="100"/>|Nurhayati|Ayanesia|[@Ayanesia](https://twitter.com/Ayanesia)|
 |<img src="https://i.imgur.com/ZgBAip4.png" alt="logo" width="100"/>|Puti Nadhira Azalia|Nadhiraction|[@nadhiraction__](https://twitter.com/nadhiraction__)|
-|<img src="https://i.imgur.com/JwhBgXj.png" alt="logo" width="100"/>|Regina Angelina|Ginalisme|[@Ginalisme_INA](https://twitter.com/Ginalisme_INA)|
-| |Ruth Damayanti Sitanggang|Yutheory|[@Yutheory_INA](https://twitter.com/Yutheory_INA) (❌)|
+|<img src="https://i.imgur.com/JwhBgXj.png" alt="logo" width="100"/>|Regina Angelina|Ginalisme|[@Ginalisme_INA](https://twitter.com/Ginalisme_INA), [@ginalisme_ina](https://www.instagram.com/ginalisme_ina/) (IG)|
+|<img src="https://i.imgur.com/EodO7xx.png" alt="logo" width="100"/>|Ruth Damayanti Sitanggang|Yutheory|[@Yutheory_INA](https://twitter.com/Yutheory_INA) (❌), [@yutheory](https://www.instagram.com/yutheory/) (IG)|
 |<img src="https://i.imgur.com/HsQRDiM.png" alt="logo" width="100"/>|Sania Julia Montolalu|Sanianistic|[@Sanianistic](https://twitter.com/Sanianistic)|
 |<img src="https://i.imgur.com/yyZBGtw.png" alt="logo" width="100"/>|Violeta Burhan|Violense|[@Violense_ID](https://twitter.com/Violense_ID)|
 
@@ -338,3 +338,5 @@ Member tanpa fanbase:
 *template*
 
 |<img src="" alt="logo" width="100"/>|||[@](https://twitter.com/)|
+
+<img src="" alt="logo" width="100"/>

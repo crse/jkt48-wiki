@@ -30,7 +30,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |Avatar|Informasi|
 | :---------- | :----------- |
 |![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036809.png)|Hanya bisa didapatkan dari event Showroom AKB48G Special Week 2 April 2021 ([info](https://twitter.com/SHOWROOM_jp/status/1377845042165862402))|
-|![1](https://i.imgur.com/saO3ohF.png)|Hanya bisa didapatkan dari event Showroom AKB48G Special Week 26 Mei 2021 ([info](https://campaign.showroom-live.com/akb48_sr/#/))|
+|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038519.png)|Hanya bisa didapatkan dari event Showroom AKB48G Special Week 26 Mei 2021 ([info](https://campaign.showroom-live.com/akb48_sr/#/))|
 
 ## Member aktif
 
@@ -47,7 +47,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Cornelia Vanisa](https://twitter.com/C_OnielJKT48)|in progress|[Onielity](https://www.showroom-live.com/bf4e25363908) by: [@onielity_ofc](https://twitter.com/onielity_ofc)|
 |[Dhea Angelia](https://twitter.com/A_DeyJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037821.png)|[Deyrrior](https://www.showroom-live.com/a49605304110) by: [@Deyrrior_](https://twitter.com/Deyrrior_)|
 |[Eve Antoinette](https://twitter.com/Eve_JKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035300.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
-|[Febriola Sinambela](https://twitter.com/F_OllaJKT48)|in progress|[GURITA48](https://www.showroom-live.com/a0a485208439) by: [@gurita48](https://twitter.com/gurita48)|
+|[Febriola Sinambela](https://twitter.com/F_OllaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038614.png)|[GURITA48](https://www.showroom-live.com/a0a485208439) by: [@gurita48](https://twitter.com/gurita48)|
 |[Feni Fitriyanti](https://twitter.com/F_FeniJKT48)|in progress|[Tara Haes](https://www.showroom-live.com/005395181726) by: [@PodcastLogika](https://twitter.com/PodcastLogika)|
 |[Fiony Alveria](https://twitter.com/A_FionyJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037973.png)|[Symfiony](https://www.showroom-live.com/d61555376451) by: [@Symfiony](https://twitter.com/Symfiony)|
 |[Flora Shafiqa](https://twitter.com/S_FloraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037967.png)|[Flora Seeds (Tartarus Boys)](https://www.showroom-live.com/b793b5351463) by: [@FloraBloomID](https://twitter.com/FloraBloomID)|
