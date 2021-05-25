@@ -21,6 +21,8 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 
 3. Avatar otomatis masuk ke dalam koleksi, dan langsung bisa digunakan.
 
+    Catatan: untuk avatar official yang tersedia hanya di event terbatas, harus diklaim dahulu di bagian Challenge.
+
 :::
 
 ## Official Avatar
@@ -28,7 +30,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |Avatar|Informasi|
 | :---------- | :----------- |
 |![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036809.png)|Hanya bisa didapatkan dari event Showroom AKB48G Special Week 2 April 2021 ([info](https://twitter.com/SHOWROOM_jp/status/1377845042165862402))|
-|![1]()|Hanya bisa didapatkan dari event Showroom AKB48G Special Week 24 Mei 2021|
+|![1](https://i.imgur.com/saO3ohF.png)|Hanya bisa didapatkan dari event Showroom AKB48G Special Week 26 Mei 2021 ([info](https://campaign.showroom-live.com/akb48_sr/#/))|
 
 ## Member aktif
 
