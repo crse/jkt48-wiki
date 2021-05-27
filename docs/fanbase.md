@@ -68,7 +68,6 @@ Beberapa fanbase telah mengalami pergantian nama, unifikasi, ataupun dualisme. S
 | :---- | :------ | :--- | :-- |
 | |4th gen||[@FANT4STICGen4](https://twitter.com/FANT4STICGen4) (❌?)|
 |<img src="https://i.imgur.com/EqHHJis.png" alt="logo" width="100"/>|5th gen||[@gen5emangat](https://twitter.com/gen5emangat) (inactive)|
-| |6th gen|| |
 |<img src="https://i.imgur.com/HImCODM.png" alt="logo" width="100"/>|7th gen|JKT48 7th Generation Alliance|[@gen7jkt48](https://twitter.com/gen7jkt48)|
 |<img src="https://i.imgur.com/brfqFr2.png" alt="logo" width="100"/>|8th gen|INFINITY GENERATI∞N|[@generati8n](https://twitter.com/generati8n)|
 |<img src="https://i.imgur.com/2tvcqe0.png" alt="logo" width="100"/>|9th gen|Elixir|[@9thElixir](https://twitter.com/9thElixir)|
@@ -106,8 +105,8 @@ Note: kemungkinanan tanpa fanbase
 | |Cindy Gulla|CindyVers| |
 | |Cleopatra|Cleovers| |
 | |Delima Rizky|Delimars| |
-| |Devi Kinal Putri|Kinalova, Keluarga Depi, Kinal-oshi| |
-| |Diasta Priswarini|Nyasshiteru| |
+| |Devi Kinal Putri|Kinalova, Keluarga Depi, Kinal-oshi|[@Kinalova_INA](https://twitter.com/Kinalova_INA) (❌)|
+| |Diasta Priswarini|Nyashiteru| |
 | |Fahira|OfficialFahira (?)| |
 | |Frieska Anastasia Laksani|Frieskavers|[@FrieskaversINA](https://twitter.com/FrieskaversINA)|
 | |Ghaida Farisya|Kamen Ghaida| |
@@ -138,32 +137,32 @@ Note: kemungkinanan tanpa fanbase
 | :---- | :-------- | :------- | :------ |
 | |Alicia Chanzia|Achaved, Achanisti| |
 | |Annisa Athia|Nisagumi| |
-| |Cindy Yuvia|Cindvia, Dealoved, Cindvializer| @CindviaDeaLoved|
+| |Cindy Yuvia|CindviaDealoved, Cindvializer| @CindviaDeaLoved|
 | |Della Delila|Dellation| |
 | |Dellia Erdita|Dellicious| |
-| |Dena Siti Rohyati|Denaction, DenaRainbow|[@DenaRainbow](https://twitter.com/DenaRainbow)|
-| |Dwi Putri Bonita|Utyers, UtyLity| |
+|<img src="https://i.imgur.com/cYUqNce.png" alt="logo" width="100"/>|Dena Siti Rohyati|DenaRainbow, Denaction|[@DenaRainbow](https://twitter.com/DenaRainbow)|
+| |Dwi Putri Bonita|Utyers, UtyLity|[@Utylity_ID](https://twitter.com/Utylity_ID)  (❌)|
 |<img src="https://i.imgur.com/LxNmlXK.png" alt="logo" width="100"/>|Fakhriyani Shafariyanti|Shafantastic|[@shafantastic](https://twitter.com/shafantastic)?|
 | |Intar Putri Kariina|Kariinizer|[@Kariinizer](https://twitter.com/@Kariinizer)|
 | |Jennifer Hanna|Hannavers, Hannaichi| |
-| |Jennifer Rachel Natasya|Rachelovers, Rachelicstar| |
-|<img src="https://i.imgur.com/tZu5CGQ.png" alt="logo" width="100"/>|Lidya Maulida Djuhandar|Lidyanatic|[@LMDefender_](https://twitter.com/LMDefender_)|
+| |Jennifer Rachel Natasya|Rachelicstar, Rachelovers| |
+||Lidya Maulida Djuhandar|Lidyanatic|[@Lidyanatic48](https://twitter.com/Lidyanatic48) (❓)|
 ||Nadhifa Karimah|Dhifation||
-| |Nadila Cindi Wantari|Nadilavatic|[@NDLVTC_ID](https://twitter.com/NDLVTC_ID)|
+|<img src="https://i.imgur.com/o2yudxj.png" alt="logo" width="100"/>|Nadila Cindi Wantari|Nadilavatic|[@NDLVTC_ID](https://twitter.com/NDLVTC_ID)|
 | |Natalia|NataliaOshi, Nataliable|[@NataliaJKT48FC](https://twitter.com/NataliaJKT48FC) (❌)|
 | |Noella Sisterina|Noevers| |
 | |Novinta Dhini|Novintavers| |
 | |Octi Sevpin|Octilovers| |
 | |Priscillia Sari Dewi|Sisilovers| |
-| |Ratu Vienny Fitrilya|Vinyvers, VinyOshi, Team Viny|[@1VinyOshi](https://twitter.com/1VinyOshi)|
+|<img src="https://i.imgur.com/rtbZyGY.png" alt="logo" width="100"/>|Ratu Vienny Fitrilya|Vinyvers, VinyOshi, Team Viny|[@1VinyOshi](https://twitter.com/1VinyOshi)|
 | |Riskha Fairunissa|Ikhavers, Riskhaogic| |
-| |Rona Anggreani|Ayenizers|[@AyenizersINA](https://twitter.com/AyenizersINA)|
-| |Saktia Oktapyani|ViaAllies, Saktiviaction| |
-| |Shinta Naomi|Naomissions|[@Naomissions](https://twitter.com/Naomissions)|
+|<img src="https://i.imgur.com/YiUwb00.png" alt="logo" width="100"/>|Rona Anggreani|Ayenizers|[@AyenizersINA](https://twitter.com/AyenizersINA)|
+|<img src="https://i.imgur.com/YPejvLx.png" alt="logo" width="100"/>|Saktia Oktapyani|ViaAllies, Saktiviaction|[@ViaAllies_JKT](https://twitter.com/ViaAllies_JKT)|
+|<img src="https://i.imgur.com/KLB72rD.png" alt="logo" width="100"/>|Shinta Naomi|Naomissions|[@Naomissions](https://twitter.com/Naomissions)|
 | |Sinka Juliani|Sinkadorable|[@Sinkadorable](https://twitter.com/Sinkadorable)|
 | |Thalia|TataOshi| |
 |<img src="https://i.imgur.com/fWIBlKy.png" alt="logo" width="100"/>|Thalia Ivanka Elizabeth|Vankastic|[@VANKASTIC](https://twitter.com/VANKASTIC)|
-| |Viviyona Apriani|YonaRanger, Viyonalizen (❗)|[@YonaRanger](https://twitter.com/YonaRanger)|
+|<img src="https://i.imgur.com/1HvGgAo.png" alt="logo" width="100"/>|Viviyona Apriani|YonaRanger, Viyonalizen (❗)|[@YonaRanger](https://twitter.com/YonaRanger)|
 
 ### Gen 3
 
@@ -175,27 +174,27 @@ Note: kemungkinanan tanpa fanbase
 
 |Logo| Member | Nama Fanbase | Twitter |
 | :---- | :-------- | :------- | :------ |
-| |Alycia Ferryana|CiStar| |
-| |Amanda Dwi Arista|Mandaisuki| |
-| |Andela Yuwono|Andelaice| |
+|<img src="https://i.imgur.com/VyKlw00.png" alt="logo" width="100"/>|Alycia Ferryana|CiStar| |
+| |Amanda Dwi Arista|Mandaisuki|[@Mandaisuki_INA](https://twitter.com/Mandaisuki_INA) (❓)|
+|<img src="https://i.imgur.com/JfkHPKM.png" alt="logo" width="100"/>|Andela Yuwono|Andelaice|[@Andelaice](https://twitter.com/Andelaice)|
 | |Anggie Putri Kurniasari|Angiels| |
 | |Ayu Safira Oktaviani|Ayunions| |
-| |Chikita Ravenska Mamesah|Chikaster| |
+|<img src="https://i.imgur.com/Z3RvDPI.png" alt="logo" width="100"/>|Chikita Ravenska Mamesah|Chikaster|[@Chikaster_INA](https://twitter.com/Chikaster_INA)|
 |<img src="https://i.imgur.com/1foHoXL.png" alt="logo" width="100"/>|Elaine Hartanto|Elainelastic|[@Elainelastic](https://twitter.com/Elainelastic)|
-| |Farina Yogi Devani|Farinablues| |
+|<img src="https://i.imgur.com/sxWWxMA.png" alt="logo" width="100"/>|Farina Yogi Devani|Farinablues|[@Farinablues](https://twitter.com/Farinablues)|
 | |Indah Permata Sari|Indaholy| |
 |<img src="https://i.imgur.com/XHgT1Ku.png" alt="logo" width="100"/>|Maria Genoveva Natalia Desy P. G.|Desynfection|[@Desynfection](https://twitter.com/Desynfection)|
 |<img src="https://i.imgur.com/FsTitcb.png" alt="logo" width="100"/>|Martha Graciela|Graceternity|[@Graceternity_FC](https://twitter.com/Graceternity_FC)|
-| |Michelle Christo Kusnadi|Michellisto|[@MichellistoINA](https://twitter.com/MichellistoINA)|
-| |Milenia Christien Glory Goenawan|Mileniaction| |
-| |Nadhifa Salsabila|NadhiFamily, NadhiFamous (❗), NadhiFaboulous (❗)| |
+|<img src="https://i.imgur.com/klsjSqY.png" alt="logo" width="100"/>|Michelle Christo Kusnadi|Michellisto|[@Michellisto](https://twitter.com/Michellisto) (❌)|
+|<img src="https://i.imgur.com/izI5qpl.png" alt="logo" width="100"/>|Milenia Christien Glory Goenawan|Mileniaction|[@Mileniaction](https://twitter.com/Mileniaction)|
+| |Nadhifa Salsabila|NadhiFamily, NadhiFamous (❗), NadhiFabulous (❗)|[@NadhiFamily](https://twitter.com/NadhiFamily) (❌)|
 |<img src="https://i.imgur.com/CPO91q9.png" alt="logo" width="100"/>|Ni Made Ayu Vania Aurellia|Aurelliable|[@Aurelliable](https://twitter.com/Aurelliable)|
-| |Nina Hamidah|Ninactions| |
+| |Nina Hamidah|Ninactions|[@Ninactions](https://twitter.com/Ninactions) (❌)|
 | |Putri Farin Kartika|Farinsiders, Farinoid?| |
-| |Rizka Khalila|Yukka Listic, YukkaOshi| |
+|<img src="https://i.imgur.com/h9igYzn.png" alt="logo" width="100"/>|Rizka Khalila|YukkaListic, YukkaOshi|[@YukkaListic](https://twitter.com/YukkaListic)|
 |<img src="https://i.imgur.com/dJaDNoQ.png" alt="logo" width="100"/>|Sofia Meifaliani|Filosofia|[@Filosofia_INA](https://twitter.com/Filosofia_INA)|
-| |Stephanie Pricilla Indarto Putri|Stefilistar|[@StefiJKT48_FC](https://twitter.com/StefiJKT48_FC) (❓)|
-| |Syahfira Angela Nurhaliza|Syahfiranger|[@Syahfiranger](https://twitter.com/Syahfiranger)|
+|<img src="https://i.imgur.com/bmuXauY.png" alt="logo" width="100"/>|Stephanie Pricilla Indarto Putri|Stefilistar|[@StefiJKT48_FC](https://twitter.com/StefiJKT48_FC) (❓)|
+|<img src="https://i.imgur.com/5V9eYrU.png" alt="logo" width="100"/>|Syahfira Angela Nurhaliza|Syahfiranger|[@Syahfiranger](https://twitter.com/Syahfiranger)|
 |<img src="https://i.imgur.com/PUklRL6.png" alt="logo" width="100"/>|Triarona Kusuma|Tyaffection|[@Tyaffection](https://twitter.com/Tyaffection)|
 |<img src="https://i.imgur.com/RsGNQfK.png" alt="logo" width="100"/>|Yansen Indiani|Cesenizer|[@Cesenizer](https://twitter.com/Cesenizer)|
 | |Zebi Magnolia Fawwaz|Zebifurai| |
