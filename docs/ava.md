@@ -38,7 +38,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 | :------------- | :----------: | :----------- |
 |[Adzana Shaliha](https://twitter.com/S_AshelJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036609.png)|[Charger Oshi](https://www.showroom-live.com/29d944836330) by: [@chargeroshii](https://twitter.com/chargeroshii)|
 |[Adzana Shaliha](https://twitter.com/S_AshelJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035502.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
-|[Amirah Fatin](https://twitter.com/F_MiraJKT48)|in progress|[Miracle](https://www.showroom-live.com/ac9de5412177) by: [@MiracleID_](https://twitter.com/MiracleID_)|
+|[Amirah Fatin](https://twitter.com/F_MiraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038673.png)|[Miracle](https://www.showroom-live.com/ac9de5412177) by: [@MiracleID_](https://twitter.com/MiracleID_)|
 |[Angelina Christy](https://twitter.com/A_ChristyJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038369.png)|[SKAPSKIP PROJECT X CHRISTYZER](https://www.showroom-live.com/991625324380) by: [@skapskipproject](https://twitter.com/skapskipproject) and [@Christyzer](https://twitter.com/Christyzer)|
 |[Aninditha Cahyadi](https://twitter.com/R_AninJKT48)|in progress|[Aninlicious Room](https://www.showroom-live.com/dfe404836158) by: [@Aninlicious](https://twitter.com/Aninlicious)|
 |[Ariella Calista](https://twitter.com/C_ArielJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036366.png)|[Ngobrol Santuy Metiuw](https://www.showroom-live.com/a57114006053) by: [@matth24ew](https://twitter.com/matth24ew)|
