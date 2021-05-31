@@ -157,7 +157,7 @@ Note: kemungkinanan tanpa fanbase
 |<img src="https://i.imgur.com/hhlcwzV.png" alt="logo" width="100"/>|Ratu Vienny Fitrilya|Vinyvers, VinyOshi, Team Viny|[@1VinyOshi](https://twitter.com/1VinyOshi)|
 |<img src="https://i.imgur.com/Z2gnGl8.jpeg" alt="logo" width="100"/>|Riskha Fairunissa|Riskhalogic, Ikhavers|[@Riskhalogic_INA](https://twitter.com/Riskhalogic_INA), [@riskhalogic](https://www.instagram.com/riskhalogic/) (IG)|
 |<img src="https://i.imgur.com/bawLPF0.png" alt="logo" width="100"/>|Rona Anggreani|Ayenizers|[@AyenizersINA](https://twitter.com/AyenizersINA)|
-|<img src="https://i.imgur.com/hhlcwzV.png" alt="logo" width="100"/>|Saktia Oktapyani|ViaAllies, Saktiviaction|[@ViaAllies_JKT](https://twitter.com/ViaAllies_JKT)|
+|<img src="https://i.imgur.com/UfLcAuY.png" alt="logo" width="100"/>|Saktia Oktapyani|ViaAllies, Saktiviaction|[@ViaAllies_JKT](https://twitter.com/ViaAllies_JKT)|
 |<img src="https://i.imgur.com/AgOIljD.png" alt="logo" width="100"/>|Shinta Naomi|Naomissions|[@Naomissions](https://twitter.com/Naomissions)|
 |<img src="https://i.imgur.com/hI0lw0C.jpeg" alt="logo" width="100"/>|Sinka Juliani|Sinkadorable|[@Sinkadorable](https://twitter.com/Sinkadorable)|
 | |Thalia|TataOshi| |
