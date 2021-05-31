@@ -102,13 +102,13 @@ Note: kemungkinanan tanpa fanbase
 | |Alissa Galliamova|Movaniac, Movattack (?)| |
 |<img src="https://i.imgur.com/8oFRQqg.png" alt="logo" width="100"/>|Ayana Shahab|Achanation| |
 |<img src="https://i.imgur.com/reCM2py.png" alt="logo" width="100"/>|Beby Chaesara Anadila|BebyOshi, Bebyers|[@BebyOshi](https://twitter.com/BebyOshi)|
-| |Cindy Gulla|CindyVers| |
+|<img src="https://i.imgur.com/wFCTxIf.jpg" alt="logo" width="100"/>|Cindy Gulla|CindyVers|[@CindyVers0](https://twitter.com/CindyVers0) ?|
 | |Cleopatra|Cleovers| |
 | |Delima Rizky|Delimars| |
 | |Devi Kinal Putri|Kinalova, Keluarga Depi, Kinal-oshi|[@Kinalova_INA](https://twitter.com/Kinalova_INA) (❌)|
 | |Diasta Priswarini|Nyashiteru| |
 | |Fahira|OfficialFahira (?)| |
-| |Frieska Anastasia Laksani|Frieskavers|[@FrieskaversINA](https://twitter.com/FrieskaversINA)|
+|<img src="https://i.imgur.com/CODhRyR.jpg" alt="logo" width="100"/>|Frieska Anastasia Laksani|Frieskavers|[@FrieskaversINA](https://twitter.com/FrieskaversINA)|
 | |Ghaida Farisya|Kamen Ghaida| |
 | |Jessica Vania|Jejelicious| |
 |<img src="https://i.imgur.com/rmQHAIH.png" alt="logo" width="100"/>|Jessica Veranda|Veloved|[@VeLovedOfficial](https://twitter.com/VeLovedOfficial)|
@@ -135,9 +135,9 @@ Note: kemungkinanan tanpa fanbase
 
 |Logo| Member | Nama Fanbase | Twitter |
 | :---- | :-------- | :------- | :------ |
-| |Alicia Chanzia|Achaved, Achanisti| |
+|<img src="https://i.imgur.com/QtkBlgY.jpg" alt="logo" width="100"/>|Alicia Chanzia|Achaved, Achanisti|[@Acha_JKT48FC](https://twitter.com/Acha_JKT48FC)|
 | |Annisa Athia|Nisagumi| |
-| |Cindy Yuvia|CindviaDealoved, Cindvializer| @CindviaDeaLoved|
+| |Cindy Yuvia|CindviaDealoved, Cindvializer| [@CindviaDeaLoved](https://twitter.com/CDL_Ent) (🚧)|
 | |Della Delila|Dellation| |
 | |Dellia Erdita|Dellicious| |
 |<img src="https://i.imgur.com/gLvwJck.png" alt="logo" width="100"/>|Dena Siti Rohyati|DenaRainbow, Denaction|[@DenaRainbow](https://twitter.com/DenaRainbow)|
@@ -155,11 +155,11 @@ Note: kemungkinanan tanpa fanbase
 | |Octi Sevpin|Octilovers| |
 | |Priscillia Sari Dewi|Sisilovers| |
 |<img src="https://i.imgur.com/hhlcwzV.png" alt="logo" width="100"/>|Ratu Vienny Fitrilya|Vinyvers, VinyOshi, Team Viny|[@1VinyOshi](https://twitter.com/1VinyOshi)|
-| |Riskha Fairunissa|Riskhalogic, Ikhavers| |
+|<img src="https://i.imgur.com/Z2gnGl8.jpeg" alt="logo" width="100"/>|Riskha Fairunissa|Riskhalogic, Ikhavers|[@Riskhalogic_INA](https://twitter.com/Riskhalogic_INA), [@riskhalogic](https://www.instagram.com/riskhalogic/) (IG)|
 |<img src="https://i.imgur.com/bawLPF0.png" alt="logo" width="100"/>|Rona Anggreani|Ayenizers|[@AyenizersINA](https://twitter.com/AyenizersINA)|
 |<img src="https://i.imgur.com/hhlcwzV.png" alt="logo" width="100"/>|Saktia Oktapyani|ViaAllies, Saktiviaction|[@ViaAllies_JKT](https://twitter.com/ViaAllies_JKT)|
 |<img src="https://i.imgur.com/AgOIljD.png" alt="logo" width="100"/>|Shinta Naomi|Naomissions|[@Naomissions](https://twitter.com/Naomissions)|
-| |Sinka Juliani|Sinkadorable|[@Sinkadorable](https://twitter.com/Sinkadorable)|
+|<img src="https://i.imgur.com/hI0lw0C.jpeg" alt="logo" width="100"/>|Sinka Juliani|Sinkadorable|[@Sinkadorable](https://twitter.com/Sinkadorable)|
 | |Thalia|TataOshi| |
 |<img src="https://i.imgur.com/EH6d7PZ.png" alt="logo" width="100"/>|Thalia Ivanka Elizabeth|Vankastic|[@VANKASTIC](https://twitter.com/VANKASTIC)|
 |<img src="https://i.imgur.com/hX48KVL.png" alt="logo" width="100"/>|Viviyona Apriani|YonaRanger, Viyonalizen (❗)|[@YonaRanger](https://twitter.com/YonaRanger)|
@@ -177,7 +177,7 @@ Note: kemungkinanan tanpa fanbase
 |<img src="https://i.imgur.com/Gryy3VG.png" alt="logo" width="100"/>|Alycia Ferryana|CiStar| |
 | |Amanda Dwi Arista|Mandaisuki|[@Mandaisuki_INA](https://twitter.com/Mandaisuki_INA) (❓)|
 |<img src="https://i.imgur.com/LXTb5KM.png" alt="logo" width="100"/>|Andela Yuwono|Andelaice|[@Andelaice](https://twitter.com/Andelaice)|
-| |Anggie Putri Kurniasari|Angiels| |
+| |Anggie Putri Kurniasari|Angiels|[@angiels_INA](https://twitter.com/angiels_INA)|
 | |Ayu Safira Oktaviani|Ayunions| |
 |<img src="https://i.imgur.com/cTaTW6M.png" alt="logo" width="100"/>|Chikita Ravenska Mamesah|Chikaster|[@Chikaster_INA](https://twitter.com/Chikaster_INA)|
 |<img src="https://i.imgur.com/sfANoGL.png" alt="logo" width="100"/>|Elaine Hartanto|Elainelastic|[@Elainelastic](https://twitter.com/Elainelastic)|
