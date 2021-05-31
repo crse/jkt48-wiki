@@ -137,7 +137,7 @@ Note: kemungkinanan tanpa fanbase
 | :---- | :-------- | :------- | :------ |
 |<img src="https://i.imgur.com/QtkBlgY.jpg" alt="logo" width="100"/>|Alicia Chanzia|Achaved, Achanisti|[@Acha_JKT48FC](https://twitter.com/Acha_JKT48FC)|
 | |Annisa Athia|Nisagumi| |
-| |Cindy Yuvia|CindviaDealoved, Cindvializer| [@CindviaDeaLoved](https://twitter.com/CDL_Ent) (🚧)|
+|<img src="https://i.imgur.com/2qeBBsG.jpeg" alt="logo" width="100"/>|Cindy Yuvia|CindviaDealoved, Cindvializer| [@CindviaDeaLoved](https://twitter.com/CDL_Ent) (🚧)|
 | |Della Delila|Dellation| |
 | |Dellia Erdita|Dellicious| |
 |<img src="https://i.imgur.com/gLvwJck.png" alt="logo" width="100"/>|Dena Siti Rohyati|DenaRainbow, Denaction|[@DenaRainbow](https://twitter.com/DenaRainbow)|
@@ -175,10 +175,10 @@ Note: kemungkinanan tanpa fanbase
 |Logo| Member | Nama Fanbase | Twitter |
 | :---- | :-------- | :------- | :------ |
 |<img src="https://i.imgur.com/Gryy3VG.png" alt="logo" width="100"/>|Alycia Ferryana|CiStar| |
-| |Amanda Dwi Arista|Mandaisuki|[@Mandaisuki_INA](https://twitter.com/Mandaisuki_INA) (❓)|
+|<img src="https://i.imgur.com/rf2OFZ7.jpeg" alt="logo" width="100"/>|Amanda Dwi Arista|Mandaisuki|[@Mandaisuki_INA](https://twitter.com/Mandaisuki_INA) (❓)|
 |<img src="https://i.imgur.com/LXTb5KM.png" alt="logo" width="100"/>|Andela Yuwono|Andelaice|[@Andelaice](https://twitter.com/Andelaice)|
 | |Anggie Putri Kurniasari|Angiels|[@angiels_INA](https://twitter.com/angiels_INA)|
-| |Ayu Safira Oktaviani|Ayunions| |
+|<img src="https://i.imgur.com/fKamW1c.jpg" alt="logo" width="100"/>|Ayu Safira Oktaviani|Ayunions| |
 |<img src="https://i.imgur.com/cTaTW6M.png" alt="logo" width="100"/>|Chikita Ravenska Mamesah|Chikaster|[@Chikaster_INA](https://twitter.com/Chikaster_INA)|
 |<img src="https://i.imgur.com/sfANoGL.png" alt="logo" width="100"/>|Elaine Hartanto|Elainelastic|[@Elainelastic](https://twitter.com/Elainelastic)|
 |<img src="https://i.imgur.com/Nk2UCSt.png" alt="logo" width="100"/>|Farina Yogi Devani|Farinablues|[@Farinablues](https://twitter.com/Farinablues)|
@@ -187,7 +187,7 @@ Note: kemungkinanan tanpa fanbase
 |<img src="https://i.imgur.com/plnjgcD.png" alt="logo" width="100"/>|Martha Graciela|Graceternity|[@Graceternity_FC](https://twitter.com/Graceternity_FC)|
 |<img src="https://i.imgur.com/RxXhfll.png" alt="logo" width="100"/>|Michelle Christo Kusnadi|Michellisto|[@Michellisto](https://twitter.com/Michellisto) (❌)|
 |<img src="https://i.imgur.com/6yLFAUd.png" alt="logo" width="100"/>|Milenia Christien Glory Goenawan|Mileniaction|[@Mileniaction](https://twitter.com/Mileniaction)|
-| |Nadhifa Salsabila|NadhiFamily, NadhiFamous (❗), NadhiFabulous (❗)|[@NadhiFamily](https://twitter.com/NadhiFamily) (❌)|
+|<img src="https://i.imgur.com/CPn0FXC.jpg" alt="logo" width="100"/>|Nadhifa Salsabila|NadhiFamily, NadhiFamous (❗), NadhiFabulous (❗)|[@NadhiFamily](https://twitter.com/NadhiFamily) (❌)|
 |<img src="https://i.imgur.com/gssIDq7.png" alt="logo" width="100"/>|Ni Made Ayu Vania Aurellia|Aurelliable|[@Aurelliable](https://twitter.com/Aurelliable)|
 | |Nina Hamidah|Ninactions|[@Ninactions](https://twitter.com/Ninactions) (❌)|
 | |Putri Farin Kartika|Farinsiders, Farinoid?| |
