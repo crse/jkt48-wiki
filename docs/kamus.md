@@ -141,12 +141,18 @@ Event berinteraksi langsung dengan member dengan berjabat tangan dan berbincang 
 ### Idol Sengoku Jidai
 `アイドル戦国時代 | アイドルせんごくじだい`
 
+### Ishou
+`衣装 | いしょう`
+
+Kostum; pakaian khusus yang digunakan pada saat tertentu.
+
 ### Iyashikei idol
 `癒し系アイドル | いやしけいあいどる`
 
 ### Janken / Jankenpon　
 `じゃんけんポン | じゃんけんぽん`
-Indonesia: Gunting Kertas Batu 
+
+Gunting Kertas Batu 
 
 #### Janken Taikai
 `じゃんけん大会 | じゃんけんたいかい`
@@ -165,6 +171,7 @@ JKT48 Operational Team
 `研究生 | けんきゅうせい`
 
 ### Kennin
+`兼任 | けんにん`
 
 ### Lightstick
 
@@ -246,7 +253,14 @@ Event di mana para fans bisa memilih lagu yang dibawakan oleh para member dari r
 ### Sakamichi Series
 `坂道シーリス | さかみちしーりす`
 
+Franchise idol grup dari Akimoto Yasushi, meliputi Nogizaka46, Sakurazaka46, dan Hinatazaka46. Yoshimotozaka46 juga masuk dalam franchise ini, namun memiliki konsep yang berbeda dari yang sister grup lain.
+
 ### SasshiP
+
+### Seifuku
+`制服 | せいふく`
+
+Seragam; (pakaian) yang sama potongan dan warnanya.
 
 ### Seitansai
 `生誕祭 | せいたんさい`
