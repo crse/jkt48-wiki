@@ -332,11 +332,3 @@ Member tanpa fanbase:
 |Logo| Region | Nama Fanbase | Twitter |
 | :---- | :-------- | :------- | :------ |
 |<img src="https://i.imgur.com/M3pywKg.png" alt="logo" width="100"/>|Indonesia|Alliance Regional48|[@AllRegion48](https://twitter.com/AllRegion48)|
-
-
-
-*template*
-
-|<img src="" alt="logo" width="100"/>|||[@](https://twitter.com/)|
-
-<img src="" alt="logo" width="100"/>
