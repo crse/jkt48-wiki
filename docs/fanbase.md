@@ -67,10 +67,10 @@ Beberapa fanbase telah mengalami pergantian nama, unifikasi, ataupun dualisme. S
 |Logo| Member | Nama Fanbase | Twitter |
 | :---- | :------ | :--- | :-- |
 | |4th gen||[@FANT4STICGen4](https://twitter.com/FANT4STICGen4) (❌?)|
-|<img src="https://i.imgur.com/tO13ZuX.png" alt="logo" width="100"/>|5th gen||[@gen5emangat](https://twitter.com/gen5emangat) (inactive)|
+|<img src="https://i.imgur.com/CPpS5nW.png" alt="logo" width="100"/>|5th gen|Gen 5emangat|[@Gen5semangat](https://twitter.com/Gen5semangat)|
 |<img src="https://i.imgur.com/Fm68p7B.png" alt="logo" width="100"/>|7th gen|JKT48 7th Generation Alliance|[@gen7jkt48](https://twitter.com/gen7jkt48)|
 |<img src="https://i.imgur.com/jiLsTdi.png" alt="logo" width="100"/>|8th gen|INFINITY GENERATI∞N|[@generati8n](https://twitter.com/generati8n)|
-|<img src="https://i.imgur.com/2tvcqe0.png" alt="logo" width="100"/>|9th gen|Elixir|[@9thElixir](https://twitter.com/9thElixir)|
+|<img src="https://i.imgur.com/RzSJJa4.png" alt="logo" width="100"/>|9th gen|Elixir|[@9thElixir](https://twitter.com/9thElixir)|
 |<img src="https://i.imgur.com/vyabqNw.png" alt="logo" width="100"/>|10th gen|Decagon|[@10thDecagon](https://twitter.com/10thDecagon)|
 
 ## Fanbase Eks-member
@@ -81,7 +81,7 @@ Akun Twitter tanpa tanda emoji apapun masih bisa diakses.
 
 ❌: Akun ditangguhkan
 
-🧹: Akun dihapus permanen
+🧹: Akun dihapus
 
 🚧: Username diganti untuk keperluan lain; username yang ditampilkan dalam daftar adalah username asli, namun link yang dicantumkan menuju ke akun username baru
 
@@ -100,7 +100,7 @@ Note: kemungkinanan tanpa fanbase
 |Logo| Member | Nama Fanbase | Twitter |
 | :---- | :-------- | :------- | :------ |
 | |Alissa Galliamova|Movaniac, Movattack (?)| |
-|<img src="https://i.imgur.com/8oFRQqg.png" alt="logo" width="100"/>|Ayana Shahab|Achanation| |
+|<img src="https://i.imgur.com/8oFRQqg.png" alt="logo" width="100"/>|Ayana Shahab|Achanation|[@Achanation_INA](https://twitter.com/Achanation_INA)|
 |<img src="https://i.imgur.com/reCM2py.png" alt="logo" width="100"/>|Beby Chaesara Anadila|BebyOshi, Bebyers|[@BebyOshi](https://twitter.com/BebyOshi)|
 |<img src="https://i.imgur.com/wFCTxIf.jpg" alt="logo" width="100"/>|Cindy Gulla|CindyVers|[@CindyVers0](https://twitter.com/CindyVers0) ?|
 | |Cleopatra|Cleovers| |
@@ -112,16 +112,16 @@ Note: kemungkinanan tanpa fanbase
 | |Ghaida Farisya|Kamen Ghaida| |
 | |Jessica Vania|Jejelicious| |
 |<img src="https://i.imgur.com/rmQHAIH.png" alt="logo" width="100"/>|Jessica Veranda|Veloved|[@VeLovedOfficial](https://twitter.com/VeLovedOfficial)|
-| |Melody Nurramdhani Laksani|Melodiest| |
+|<img src="https://i.imgur.com/K45iRfJ.png" alt="logo" width="100"/>|Melody Nurramdhani Laksani|Melodiest|[@Melodiest48](https://twitter.com/Melodiest48)|
 |<img src="https://i.imgur.com/x5Pb6Ae.png" alt="logo" width="100"/>|Nabilah Ratna Ayu Azalia|Nabilaholic|[@Nabilaholic_INA](https://twitter.com/Nabilaholic_INA)|
 | |Neneng Rosediana|Chivers| |
 | |Nozawa Rena|Renaissance|[@Renaissance_JKT](https://twitter.com/Renaissance_JKT)|
 | |Rezky Wiranti Dhike|Dhikeringer|[@DhikeFC](https://twitter.com/DhikeFC)|
 | |Rica Leyona|Ricaleyonator| |
 | |Sendy Ariani|Sendylatte| |
-|<img src="https://i.imgur.com/YMjtGWv.png" alt="logo" width="100"/>|Shania Junianatha|Shanjunisme|[@shanjunisme](https://twitter.com/shanjunisme)|
+|<img src="https://i.imgur.com/LmFLA2P.png" alt="logo" width="100"/>|Shania Junianatha|Shanjunisme|[@shanjunisme](https://twitter.com/shanjunisme)|
 | |Siti Gayatri|Gayalova (?)| |
-| |Sonia Natalia|SoniaOshi| |
+|<img src="https://i.imgur.com/NJ92xEu.png" alt="logo" width="100"/>|Sonia Natalia|SoniaOshi|[@TeamSolidSonia](https://twitter.com/TeamSolidSonia)|
 | |Sonya Pandarmawan|Sonya Lovers, Sovers|[@sonya_lovers](https://twitter.com/sonya_lovers)|
 | |Stella Cornelia|Stellahugs, Stellar(?)| |
 
@@ -174,15 +174,15 @@ Note: kemungkinanan tanpa fanbase
 
 |Logo| Member | Nama Fanbase | Twitter |
 | :---- | :-------- | :------- | :------ |
-|<img src="https://i.imgur.com/Gryy3VG.png" alt="logo" width="100"/>|Alycia Ferryana|CiStar| |
+|<img src="https://i.imgur.com/Gryy3VG.png" alt="logo" width="100"/>|Alycia Ferryana|CiStar|[@CiStar_INA](https://twitter.com/CiStar_INA)|
 |<img src="https://i.imgur.com/rf2OFZ7.jpeg" alt="logo" width="100"/>|Amanda Dwi Arista|Mandaisuki|[@Mandaisuki_INA](https://twitter.com/Mandaisuki_INA) (❓)|
 |<img src="https://i.imgur.com/LXTb5KM.png" alt="logo" width="100"/>|Andela Yuwono|Andelaice|[@Andelaice](https://twitter.com/Andelaice)|
-| |Anggie Putri Kurniasari|Angiels|[@angiels_INA](https://twitter.com/angiels_INA)|
-|<img src="https://i.imgur.com/fKamW1c.jpg" alt="logo" width="100"/>|Ayu Safira Oktaviani|Ayunions| |
+|<img src="https://i.imgur.com/vMu267q.png" alt="logo" width="100"/>|Anggie Putri Kurniasari|Angiels|[@angiels_INA](https://twitter.com/angiels_INA)|
+|<img src="https://i.imgur.com/fKamW1c.jpg" alt="logo" width="100"/>|Ayu Safira Oktaviani|Ayunions|[@Ayunions_ID](https://twitter.com/Ayunions_ID) (❌)|
 |<img src="https://i.imgur.com/cTaTW6M.png" alt="logo" width="100"/>|Chikita Ravenska Mamesah|Chikaster|[@Chikaster_INA](https://twitter.com/Chikaster_INA)|
 |<img src="https://i.imgur.com/sfANoGL.png" alt="logo" width="100"/>|Elaine Hartanto|Elainelastic|[@Elainelastic](https://twitter.com/Elainelastic)|
 |<img src="https://i.imgur.com/Nk2UCSt.png" alt="logo" width="100"/>|Farina Yogi Devani|Farinablues|[@Farinablues](https://twitter.com/Farinablues)|
-| |Indah Permata Sari|Indaholy| |
+|<img src="https://i.imgur.com/GpNIeRM.png" alt="logo" width="100"/>|Indah Permata Sari|Indaholy|[@Indaholy_ID](https://twitter.com/Indaholy_ID) (❓)|
 |<img src="https://i.imgur.com/whca6oc.png" alt="logo" width="100"/>|Maria Genoveva Natalia Desy P. G.|Desynfection|[@Desynfection](https://twitter.com/Desynfection)|
 |<img src="https://i.imgur.com/plnjgcD.png" alt="logo" width="100"/>|Martha Graciela|Graceternity|[@Graceternity_FC](https://twitter.com/Graceternity_FC)|
 |<img src="https://i.imgur.com/RxXhfll.png" alt="logo" width="100"/>|Michelle Christo Kusnadi|Michellisto|[@Michellisto](https://twitter.com/Michellisto) (❌)|
@@ -207,9 +207,9 @@ Note: kemungkinanan tanpa fanbase
 |<img src="https://i.imgur.com/ax5T556.png" alt="logo" width="100"/>|Adriani Elisabeth|Lisanshine, Lisaddict (❗), Lisanthusiazm (❗)|[@Lisanshine_INA](https://twitter.com/Lisanshine_INA)|
 |<img src="https://i.imgur.com/qiliK9W.png" alt="logo" width="100"/>|Christy Chriselle|Christynions|[@Christynions](https://twitter.com/Christynions)|
 |<img src="https://i.imgur.com/8IfertY.png" alt="logo" width="100"/>|Fidly Immanda Azzahra|Atmosfia|[@Atmosfia_INA](https://twitter.com/Atmosfia_INA)|
-|<img src="https://i.imgur.com/RAwvmOA.png" alt="logo" width="100"/>|Jessica Berliana Ekawardani|Jessically|[@JessicallyJejes](https://twitter.com/JessicallyJejes)|
+|<img src="https://i.imgur.com/PcM2k4u.png" alt="logo" width="100"/>|Jessica Berliana Ekawardani|Jessically|[@JessicallyJejes](https://twitter.com/JessicallyJejes)|
 |<img src="https://i.imgur.com/BM75mXO.png" alt="logo" width="100"/>|Made Devi Ranita Ningtara|Devirytales|[@Devirytales](https://twitter.com/Devirytales)|
-|<img src="https://i.imgur.com/lQGVQAk.png" alt="logo" width="100"/>|Mega Suryani|MegaLight|[@MegaLight_INA](https://twitter.com/MegaLight_INA)|
+|<img src="https://i.imgur.com/TrEYFsu.png" alt="logo" width="100"/>|Mega Suryani|MegaLight|[@MegaLight_INA](https://twitter.com/MegaLight_INA)|
 |<img src="https://i.imgur.com/IcVxhOg.png" alt="logo" width="100"/>|Melati Putri Rahel Sesilia|Melatinited|[@MelatiUnited](https://twitter.com/MelatiUnited)|
 |<img src="https://i.imgur.com/pnzheKP.png" alt="logo" width="100"/>|Sri Lintang|StarLintang, Lintanguistic (❗)|[@StarLintang_](https://twitter.com/StarLintang_) (❌), [@starlintang_](https://www.instagram.com/starlintang_/) (IG)|
 |<img src="https://i.imgur.com/D8oCTB7.png" alt="logo" width="100"/>|Zahra Yuriva Dermawan|Yurivadistic, Yurivanastic|[@yurivadistic](https://twitter.com/yurivadistic) (❌), [@yurivadisticofficial](https://www.instagram.com/yurivadisticofficial/) (IG)|
@@ -228,11 +228,11 @@ Note: kemungkinanan tanpa fanbase
 |<img src="https://i.imgur.com/ywShWlc.png" alt="logo" width="100"/>|Diani Amalia|Dianistic|[@Dianistic_INA](https://twitter.com/Dianistic_INA)|
 |<img src="https://i.imgur.com/s4RWId6.png" alt="logo" width="100"/>|Elizabeth Gloria Setiawan|Glorious|[@glorious_INA](https://twitter.com/glorious_INA) (❌), [@glorious_ina](https://www.instagram.com/glorious_ina) (IG)|
 |<img src="https://i.imgur.com/JfMGPTL.png" alt="logo" width="100"/>|Gabryela Marcelina|ActionForAby, Abyvers|[@ActionForAby](https://twitter.com/ActionForAby) (❌), [@actionforaby](https://www.instagram.com/actionforaby/) (IG)|
-|<img src="https://i.imgur.com/kTbQpqY.png" alt="logo" width="100"/>|Hasyakyla Utami|Skyla|[@Skyla_INA](https://twitter.com/Skyla_INA)|
+|<img src="https://i.imgur.com/eWeyJfa.png" alt="logo" width="100"/>|Hasyakyla Utami|Skyla|[@Skyla_INA](https://twitter.com/Skyla_INA)|
 |<img src="https://i.imgur.com/3liL59p.png" alt="logo" width="100"/>|Helma Sonya|Helmazeizter|[@Helmazeizter_ID](https://twitter.com/Helmazeizter_ID)|
 |<img src="https://i.imgur.com/e7eWwTS.png" alt="logo" width="100"/>|Nurhayati|Ayanesia|[@Ayanesia](https://twitter.com/Ayanesia)|
 |<img src="https://i.imgur.com/s8fnAVp.png" alt="logo" width="100"/>|Puti Nadhira Azalia|Nadhiraction|[@nadhiraction__](https://twitter.com/nadhiraction__)|
-|<img src="https://i.imgur.com/P1XzTmH.png" alt="logo" width="100"/>|Regina Angelina|Ginalisme|[@Ginalisme_INA](https://twitter.com/Ginalisme_INA), [@ginalisme_ina](https://www.instagram.com/ginalisme_ina/) (IG)|
+|<img src="https://i.imgur.com/JHypEcA.png" alt="logo" width="100"/>|Regina Angelina|Ginalisme|[@Ginalisme_INA](https://twitter.com/Ginalisme_INA), [@ginalisme_ina](https://www.instagram.com/ginalisme_ina/) (IG)|
 |<img src="https://i.imgur.com/cD9sCHy.png" alt="logo" width="100"/>|Ruth Damayanti Sitanggang|Yutheory|[@Yutheory_INA](https://twitter.com/Yutheory_INA) (❌), [@yutheory](https://www.instagram.com/yutheory/) (IG)|
 |<img src="https://i.imgur.com/iDmZeDs.png" alt="logo" width="100"/>|Sania Julia Montolalu|Sanianistic|[@Sanianistic](https://twitter.com/Sanianistic)|
 |<img src="https://i.imgur.com/pQk6qFp.png" alt="logo" width="100"/>|Violeta Burhan|Violense|[@Violense_ID](https://twitter.com/Violense_ID)|
