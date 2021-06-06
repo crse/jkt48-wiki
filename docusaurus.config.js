@@ -21,9 +21,15 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'docs/archive',
+          to: 'docs/fanbase',
           activeBasePath: 'docs',
-          label: 'Archive',
+          label: 'Fanbase List',
+          position: 'left',
+        },
+        {
+          to: 'docs/ava',
+          activeBasePath: 'docs',
+          label: 'SR Ava List',
           position: 'left',
         },
         {
@@ -35,7 +41,7 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-      copyright: `CC0 - Public Domain License. Built with ♥ by 🐧 Christian Elbrianno.`,
+      copyright: `Built with ♥ by 🐧 Christian Elbrianno.`,
     },
   },
   presets: [
