@@ -27,12 +27,23 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 
 ## Official Avatar
 
+### JKT48
+
 |Avatar|Informasi|
 | :---------- | :----------- |
 |![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036809.png)|Hanya bisa didapatkan dari event Showroom AKB48G Special Week 2 April 2021 ([info](https://twitter.com/SHOWROOM_jp/status/1377845042165862402))|
 |![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038519.png)|Hanya bisa didapatkan dari event Showroom AKB48G Special Week 26 Mei 2021 ([info](https://twitter.com/SHOWROOM_jp/status/1397364946455842818))|
 
-## Member aktif
+### Member Aktif
+
+|Member|Avatar|Link Showroom|
+| :------------- | :----------: | :----------- |
+|[Fransisca Saraswati](https://twitter.com/S_SiscaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038965.png)|[@JKT48_Sisca](https://www.showroom-live.com/JKT48_Sisca)|
+|[Shania Gracia](https://twitter.com/S_GraciaJKT48) |![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038966.png)|[@JKT48_Gracia](https://www.showroom-live.com/JKT48_Gracia)|
+
+## Fanmade
+
+### Member aktif
 
 |Member|Avatar|Link Showroom|
 | :------------- | :----------: | :----------- |
@@ -75,23 +86,23 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039366.png)|[Ngobrol Santuy Metiuw](https://www.showroom-live.com/a57114006053) by: [@matth24ew](https://twitter.com/matth24ew)|
 |[Zahra Nur](https://twitter.com/N_AraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038341.png)|[Charger Oshi](https://www.showroom-live.com/29d944836330) by: [@chargeroshii](https://twitter.com/chargeroshii)|
 
-## Eks-member
+### Eks-member
 
 |Member|Avatar|Link Showroom|
 | :------------- | :----------: | :----------- |
 |[Aurel Mayori](https://twitter.com/aurelmayorii)|in progress (?)|[Paguyuban Sayang Yori](https://www.showroom-live.com/579cc5431491) by: [@YorigamiID](https://twitter.com/YorigamiID)|
 |[Beby Chaesara](https://twitter.com/bchsr_)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035617.png)|[BebyOshi Story](https://www.showroom-live.com/b9cdb4775676) by: [@BebyOshi](https://twitter.com/BebyOshi)|
-|[Febi Komaril](https://twitter.com/giraffebiii)|in progress|[Febinetsui Media](https://www.showroom-live.com/186c65450978) by: [@FebinetsuiMedia](https://twitter.com/FebinetsuiMedia)|
+|[Febi Komaril](https://twitter.com/giraffebiii)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039609.png)|[Febinetsui Media](https://www.showroom-live.com/186c65450978) by: [@FebinetsuiMedia](https://twitter.com/FebinetsuiMedia)|
 |[Frieska Anastasia](https://twitter.com/thisfrieska)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037310.png)|[Frieskavers Room](https://www.showroom-live.com/2e2a15245592) by: [@FrieskaversINA](https://twitter.com/FrieskaversINA)|
 
-## Music Avatar
+### Music Avatar
 
 |Tema|Avatar|Link Showroom|
 | :------------- | :----------: | :----------- |
 |Darashinai Aishikata|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036745.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |Rapsodi|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035477.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 
-## JKT48 Team
+### JKT48 Team
 
 |Nama|Avatar|Link Showroom|
 | :------------- | :----------: | :----------- |
