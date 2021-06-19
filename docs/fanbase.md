@@ -41,7 +41,7 @@ Beberapa fanbase telah mengalami pergantian nama, unifikasi, ataupun dualisme. S
 |<img src="https://i.imgur.com/DEqGuCw.png" alt="logo" width="100"/>|Febriola Sinambela|Oracle, Ollafire (old)|[@Olla_TheMiracle](https://twitter.com/Olla_TheMiracle)|
 |<img src="https://i.imgur.com/kdkaFM9.png" alt="logo" width="100"/>|Feni Fitriyanti|Fenidelity|[@Fenidelity_INA](https://twitter.com/Fenidelity_INA)|
 |<img src="https://i.imgur.com/epIAyb1.png" alt="logo" width="100"/>|Fiony Alveria|Symfiony|[@Symfiony](https://twitter.com/Symfiony)|
-|<img src="https://i.imgur.com/qbHivst.png" alt="logo" width="100"/>|Flora Shafiq|FloraBloom|[@FloraBloomID](https://twitter.com/FloraBloomID)|
+|<img src="https://i.imgur.com/UX9b6Q1.png" alt="logo" width="100"/>|Flora Shafiq|FloRisen, FloraBloom (old)|[@FloRisenID](https://twitter.com/FloRisenID)|
 |<img src="https://i.imgur.com/vzF8VPz.png" alt="logo" width="100"/>|Fransisca Saraswati|Siscanation|[@Siscanation_INA](https://twitter.com/Siscanation_INA)|
 |<img src="https://i.imgur.com/ZiT7e28.png" alt="logo" width="100"/>|Freya Jayawardana|Freyanation|[@FreyanationID](https://twitter.com/FreyanationID)|
 |<img src="https://i.imgur.com/54LN8oC.png" alt="logo" width="100"/>|Gabriela Margareth Warouw|Gabycious, GabyOshi|[@Gabycious48](https://twitter.com/Gabycious48)|
