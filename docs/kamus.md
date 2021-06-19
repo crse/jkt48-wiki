@@ -84,7 +84,7 @@ Informasi lebih lanjut [](/docs/chant)
 ### Chika idol
 `地下アイドル | ちかアイドル`
 
-Underground idol; idol yang tidak mainstream dan/atau memiliki tema yang berbeda.
+Underground idol; idol yang tidak mainstream; hanya fokus pada pasar niche.
 
 ### Coupling song
 
@@ -93,7 +93,11 @@ Underground idol; idol yang tidak mainstream dan/atau memiliki tema yang berbeda
 
 Mendukung semua member; sinonim dari Hako-oshi.
 
-### Dentsu X Entertainment
+### Demachi
+
+### Dentsu
+
+#### DentsuXEntertainment
 
 ### Doujin
 `同人 | どうじん`
@@ -112,7 +116,7 @@ Self-published magazine; bisa berbentuk esai, artbook, maupun komik. Kata ini bi
 ### Encore / Ankoru
 
 ### Fansfar
-Istilah fans JKT48 lokal untuk menyebut fans yang berasal dari region yang jauh dari theater JKT48
+Fans yang berasal dari region yang jauh dari theater JKT48; hanya digunakan dalam konteks fandom JKT48.
 
 ### fX Sudirman
 Lokasi tempat theater JKT48.
@@ -239,7 +243,7 @@ Istilah general untuk idol yang lebih aktif di majalah gravure.
     member favorit ketiga
     - Tan-oshi `単押し | たんおし`:
     seseorang yang hanya suka satu member
-    - Oshihen `推し変 | おしへん`:
+    - Oshihen `推し変 | おしへん`: pergantian oshi yang didukung
 
 ### Overture
 
@@ -268,11 +272,7 @@ Seragam; (pakaian) yang sama potongan dan warnanya.
 1. *(translit Bhs. Indonesia)* Hari ulang tahun orang yang disucikan; Hari Raya Natal
 2. *(definisi peridolan)* Event hari ulang tahun member yang dirayakan di theater
 
-https://dictionary.goo.ne.jp/word/%E8%81%96%E8%AA%95%E7%A5%AD/#jn-122234
-
-https://www.weblio.jp/content/%E8%81%96%E8%AA%95%E7%A5%AD
-
-http://dictionary.j-cat.org/JtoE/index.php?typedword=%E8%81%96%E8%AA%95%E7%A5%AD
+[Goo Dictionary](https://dictionary.goo.ne.jp/word/%E8%81%96%E8%AA%95%E7%A5%AD/#jn-122234) | [Weblio](https://www.weblio.jp/content/%E8%81%96%E8%AA%95%E7%A5%AD) | [Japanese Learner Dictonary](http://dictionary.j-cat.org/JtoE/index.php?typedword=%E8%81%96%E8%AA%95%E7%A5%AD)
 
 ### Seiyuu
 `声優 | せいゆう`
