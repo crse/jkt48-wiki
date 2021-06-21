@@ -7,9 +7,9 @@ sidebar_label: SR Avatar
 Berikut daftar avatar original yang telah dibuat oleh beragam fanbase, kelompok, maupun individual.
 
 Ada yang kurang? Informasi salah?
-Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord (https://invite.gg/jkt48).
+Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord (https://discord.gg/JKT48).
 
-[![JKT48 Discord](https://discordapp.com/api/guilds/600387836201664523/widget.png?style=banner2)](https://discord.gg/BN635Eb)
+[![JKT48 Discord](https://discordapp.com/api/guilds/600387836201664523/widget.png?style=banner2)](https://discord.gg/JKT48)
 
 :::info Cara Klaim Avatar
 
