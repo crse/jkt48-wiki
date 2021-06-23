@@ -34,9 +34,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Fransisca Saraswati](https://twitter.com/S_SiscaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038965.png)|[@JKT48_Sisca](https://www.showroom-live.com/JKT48_Sisca)|
 |[Shania Gracia](https://twitter.com/S_GraciaJKT48) |![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038966.png)|[@JKT48_Gracia](https://www.showroom-live.com/JKT48_Gracia)|
 
-### Fanmade
-
-#### Member aktif
+### Fanmade - Member aktif
 
 |Member|Avatar|Link Showroom|
 | :------------- | :----------: | :----------- |
@@ -82,7 +80,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|in progress|[Tamara East Borneo](https://www.showroom-live.com/268b85476941) by: [@TamaraEBorneo](https://twitter.com/TamaraEBorneo)|
 |[Zahra Nur](https://twitter.com/N_AraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038341.png)|[Charger Oshi](https://www.showroom-live.com/29d944836330) by: [@chargeroshii](https://twitter.com/chargeroshii)|
 
-#### Eks-member
+### Eks-member
 
 |Member|Avatar|Link Showroom|
 | :------------- | :----------: | :----------- |
@@ -91,7 +89,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Febi Komaril](https://twitter.com/giraffebiii)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039609.png)|[Febinetsui Media](https://www.showroom-live.com/186c65450978) by: [@FebinetsuiMedia](https://twitter.com/FebinetsuiMedia)|
 |[Frieska Anastasia](https://twitter.com/thisfrieska)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037310.png)|[Frieskavers Room](https://www.showroom-live.com/2e2a15245592) by: [@FrieskaversINA](https://twitter.com/FrieskaversINA)|
 
-#### Music Avatar
+### Fanmade - Music Avatar
 
 |Tema|Avatar|Link Showroom|
 | :------------- | :----------: | :----------- |
@@ -100,13 +98,11 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |Kareha no Station|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040085.png)|[I❤️GRESHAN](https://www.showroom-live.com/d15785325184) by: [@Queen48one](https://twitter.com/Queen48one)|
 |Rapsodi|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035477.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 
-#### JKT48 Team
+### Fanmade - JKT48 Team
 
 |Nama|Avatar|Link Showroom|
 | :------------- | :----------: | :----------- |
 |Team T|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036486.png)|[GURITA48](https://www.showroom-live.com/a0a485208439) by: [@gurita48](https://twitter.com/gurita48)|
-
-
 
 ## Limited Avatar
 
@@ -118,59 +114,54 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 
 :::
 
-### AKB48G Special Week (2 April 2021)
+### AKB48G Special Week (April 2021)
 
 Hanya bisa didapatkan dari event Showroom AKB48G Special Week 2 April 2021 ([info](https://twitter.com/SHOWROOM_jp/status/1377845042165862402))
+
 ![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036809.png)
 
-### AKB48G Special Week (26 Mei 2021)
+### AKB48G Special Week (Mei 2021)
+
 Hanya bisa didapatkan dari event Showroom AKB48G Special Week 26 Mei 2021 ([info](https://twitter.com/SHOWROOM_jp/status/1397364946455842818))
 
 ![Top1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038976.png)![Top2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038977.png)![Top3](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038978.png)![Top48](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038979.png)![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038519.png)
 
-### AKB48G Special Day ~Natsu~ (23 Juni 2021 - 30 Juni 2021)
+### AKB48G Special Day ~Natsu~ (Juni 2021)
+
+Hanya bisa didapatkan dari event Showroom AKB48G Special Day ~Natsu~ (23 Juni 2021 - 30 Juni 2021). ([info](https://twitter.com/SHOWROOM_jp/status/1407493073211301888))
+
 Avatar didapatkan tiap kali mendapatkan 500 point; avatar diacak; belum tentu sesuai live member yang ditonton.
-([info](https://twitter.com/SHOWROOM_jp/status/1407493073211301888))
 
+![Adel](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040005.png)
 ![Anin](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039974.png)
+![Ara](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040006.png)
 ![Ariel](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039975.png)
-![Zee](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039976.png)
+![Ashel](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039991.png)
+![Celine](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039982.png)
+![Chika](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039990.png)
+![Christy](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039983.png)
 ![Cindy](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039977.png)
-
+![Dey](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039994.png)
+![Eli](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039985.png)
 ![Eve](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039978.png)
 ![Feni](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039979.png)
-![Sisca](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039980.png)
-![Gaby](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039981.png)
-
-![Celine](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039982.png)
-![Christy](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039983.png)
-![Gita](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039984.png)
-![Eli](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039985.png)
-
-![Jinan](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039986.png)
-![Muthe](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039987.png)
-![Shani](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039988.png)
-![Gracia](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039989.png)
-
-![Chika](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039990.png)
-![Ashel](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039991.png)
-![Mira](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039992.png)
-![Oniel](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039993.png)
-
-![Dey](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039994.png)
-![Olla](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039995.png)
 ![Fiony](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039996.png)
 ![Flora](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039997.png)
-
 ![Freya](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039998.png)
+![Gaby](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039981.png)
+![Gita](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039984.png)
+![Gracia](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039989.png)
 ![Indah](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039999.png)
 ![Jessi](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040000.png)
 ![Jesslyn](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040001.png)
-
+![Jinan](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039986.png)
 ![Kathrina](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040002.png)
 ![Lulu](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040003.png)
 ![Marsha](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040004.png)
-![Adel](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040005.png)
-
-![Ara](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040006.png)
-
+![Mira](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039992.png)
+![Muthe](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039987.png)
+![Olla](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039995.png)
+![Oniel](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039993.png)
+![Shani](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039988.png)
+![Sisca](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039980.png)
+![Zee](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039976.png)
