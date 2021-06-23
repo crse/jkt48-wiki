@@ -4,7 +4,7 @@ title: Katalog Avatar Showroom
 sidebar_label: SR Avatar
 ---
 
-Berikut daftar avatar original yang telah dibuat oleh beragam fanbase, kelompok, maupun individual.
+Berikut daftar avatar original yang berkaitan dengan JKT48, baik official maupun fanmade.
 
 Ada yang kurang? Informasi salah?
 Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord (https://discord.gg/JKT48).
@@ -20,8 +20,6 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
     Bila tidak memiliki stok gift gratis, bisa dapat kecambah 10x5 gratis tiap kali nonton live di kanal Free.
 
 3. Avatar otomatis masuk ke dalam koleksi, dan langsung bisa digunakan.
-
-    Catatan: untuk avatar official yang tersedia hanya di event terbatas, harus diklaim dahulu di bagian Challenge.
 
 :::
 
@@ -80,7 +78,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|in progress|[Tamara East Borneo](https://www.showroom-live.com/268b85476941) by: [@TamaraEBorneo](https://twitter.com/TamaraEBorneo)|
 |[Zahra Nur](https://twitter.com/N_AraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038341.png)|[Charger Oshi](https://www.showroom-live.com/29d944836330) by: [@chargeroshii](https://twitter.com/chargeroshii)|
 
-### Eks-member
+### Fanmade - Eks-member
 
 |Member|Avatar|Link Showroom|
 | :------------- | :----------: | :----------- |
@@ -130,7 +128,7 @@ Hanya bisa didapatkan dari event Showroom AKB48G Special Week 26 Mei 2021 ([info
 
 Hanya bisa didapatkan dari event Showroom AKB48G Special Day ~Natsu~ (23 Juni 2021 - 30 Juni 2021). ([info](https://twitter.com/SHOWROOM_jp/status/1407493073211301888))
 
-Avatar didapatkan tiap kali mendapatkan 500 point; avatar diacak; belum tentu sesuai live member yang ditonton.
+Avatar bisa didapat tiap kali mendapatkan 500 point; avatar diacak; belum tentu sesuai live member yang ditonton.
 
 ![Adel](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040005.png)
 ![Anin](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039974.png)
