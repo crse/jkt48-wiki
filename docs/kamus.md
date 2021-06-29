@@ -4,6 +4,8 @@ title: Kamus Peridolan
 sidebar_label: Kamus
 ---
 
+Dikelola oleh: Chris ([@penguinwota](https://twitter.com/penguinwota))
+
 :::caution
 
 Bagian ini masih dalam proses pengerjaan.
