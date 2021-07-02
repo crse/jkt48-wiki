@@ -74,10 +74,12 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Shani Indira](https://twitter.com/N_ShaniJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040085.png)|[I❤️GRESHAN](https://www.showroom-live.com/d15785325184) by: [@Queen48one](https://twitter.com/Queen48one)|
 |[Shani Indira](https://twitter.com/N_ShaniJKT48)|in progress|[INSHANITY](https://www.showroom-live.com/ecb9b4825330) by: [@InshanityID](https://twitter.com/InshanityID)|
 |[Shani Indira](https://twitter.com/N_ShaniJKT48) dan [Shania Gracia](https://twitter.com/S_GraciaJKT48) |![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038174.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038464.png)![3](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040377.png)|[I❤️GRESHAN](https://www.showroom-live.com/d15785325184) by: [@Queen48one](https://twitter.com/Queen48one)|
+[Shania Gracia](https://twitter.com/S_GraciaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040328.png)|[G R A C I A S](https://www.showroom-live.com/e141b5413547) by: [@GraciasFans_INA](https://twitter.com/GraciasFans_INA)|
 |[Tan Zhi Hui Celine](https://twitter.com/Celine_JKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038394.png)|[Celinesse Diary](https://www.showroom-live.com/38ba95200040) by: [@CelinesseWorld](https://twitter.com/CelinesseWorld)|
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040029.png)|[Dulur Tamara's Room](https://www.showroom-live.com/6fe9a4789281) by: [@DulurTamara](https://twitter.com/DulurTamara)|
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039366.png)|[Ngobrol Santuy Metiuw](https://www.showroom-live.com/a57114006053) by: [@matth24ew](https://twitter.com/matth24ew)|
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040123.png)|[Tamara East Borneo](https://www.showroom-live.com/268b85476941) by: [@TamaraEBorneo](https://twitter.com/TamaraEBorneo)|
+|[Yessica Tamara](https://twitter.com/Y_ChikaJKT48) dan [Zahra Nur](https://twitter.com/N_AraJKT48)|in progress|[ChikaraGreshan](https://www.showroom-live.com/c3e485454817) by: [@ChikaraGreshan](https://twitter.com/ChikaraGreshan)|
 |[Zahra Nur](https://twitter.com/N_AraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038341.png)|[Charger Oshi](https://www.showroom-live.com/29d944836330) by: [@chargeroshii](https://twitter.com/chargeroshii)|
 
 ### Fanmade - Eks-member
@@ -97,6 +99,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |Avocado Janeshi|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038464.png)|[I❤️GRESHAN](https://www.showroom-live.com/d15785325184) by: [@Queen48one](https://twitter.com/Queen48one)|
 |Darashinai Aishikata|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036745.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |Kareha no Station|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040085.png)|[I❤️GRESHAN](https://www.showroom-live.com/d15785325184) by: [@Queen48one](https://twitter.com/Queen48one)|
+Omoide Ijou|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040328.png)|[G R A C I A S](https://www.showroom-live.com/e141b5413547) by: [@GraciasFans_INA](https://twitter.com/GraciasFans_INA)|
 |Rapsodi|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035477.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 
 ### Fanmade - JKT48 Team
