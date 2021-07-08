@@ -80,7 +80,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040029.png)|[Dulur Tamara's Room](https://www.showroom-live.com/6fe9a4789281) by: [@DulurTamara](https://twitter.com/DulurTamara)|
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039366.png)|[Ngobrol Santuy Metiuw](https://www.showroom-live.com/a57114006053) by: [@matth24ew](https://twitter.com/matth24ew)|
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040123.png)|[Tamara East Borneo](https://www.showroom-live.com/268b85476941) by: [@TamaraEBorneo](https://twitter.com/TamaraEBorneo)|
-|[Yessica Tamara](https://twitter.com/Y_ChikaJKT48) dan [Zahra Nur](https://twitter.com/N_AraJKT48)|in progress|[ChikaraGreshan](https://www.showroom-live.com/c3e485454817) by: [@ChikaraGreshan](https://twitter.com/ChikaraGreshan)|
+|[Yessica Tamara](https://twitter.com/Y_ChikaJKT48) dan [Zahra Nur](https://twitter.com/N_AraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040668.png)|[ChikaraGreshan](https://www.showroom-live.com/c3e485454817) by: [@ChikaraGreshan](https://twitter.com/ChikaraGreshan)|
 |[Zahra Nur](https://twitter.com/N_AraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038341.png)|[Charger Oshi](https://www.showroom-live.com/29d944836330) by: [@chargeroshii](https://twitter.com/chargeroshii)|
 
 ### Fanmade - Eks-member
@@ -170,3 +170,11 @@ Avatar bisa didapat tiap kali mendapatkan 500 point; avatar diacak; belum tentu 
 ![Shani](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039988.png)
 ![Sisca](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039980.png)
 ![Zee](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039976.png)
+
+
+### Onegai yo Todoke! Tanabata Campaign for AKB48G (Juli 2021)
+
+Hanya bisa didapatkan di event. Berlangsung tanggal 1-7 Juli 2021.
+
+https://campaign.showroom-live.com/tanabata/akb48g/
+
