@@ -221,13 +221,11 @@ Istilah general untuk idol yang lebih aktif di majalah gravure.
 おニャン子クラブ　おにゃんこくらぶ
 
 ### Oshi
-`押し | おし`
+`推し | おし`
 
-1. *(translit Bhs. Indonesia)* mendorong; menekan
+1. (nomina) sesuatu yang didukung; difavoritkan (bisa idol, karakter anime, atlet, dsb)
 
-2. *(translit Bhs. Indonesia)* mendukung (penggunaan general)
-
-3. *(definisi peridolan)* sebuah aksi untuk mendukung grup atau member
+2. (verba) menjadi pendukung; aksi untuk mendukung grup, kelompok, atau individu
 
     Contoh:
     - Celine-oshi -> fans dari Celine
