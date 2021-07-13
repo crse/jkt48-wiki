@@ -43,7 +43,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Angelina Christy](https://twitter.com/A_ChristyJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038369.png)|[SKAPSKIP PROJECT](https://www.showroom-live.com/991625324380) by: [@skapskipproject](https://twitter.com/skapskipproject)|
 |[Aninditha Cahyadi](https://twitter.com/R_AninJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038669.png)|[Aninlicious Room](https://www.showroom-live.com/dfe404836158) by: [@Aninlicious](https://twitter.com/Aninlicious)|
 |[Ariella Calista](https://twitter.com/C_ArielJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036366.png)|[AGS Avatar Project](https://www.showroom-live.com/a57114006053) by: [@atletkun](https://twitter.com/atletkun)|
-|[Ariella Calista](https://twitter.com/C_ArielJKT48)|in progress|[Listia](https://www.showroom-live.com/77d3f5214340) by: [@listi\_ana_](https://twitter.com/listi_ana_)|
+|[Ariella Calista](https://twitter.com/C_ArielJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040764.png)|[Listia](https://www.showroom-live.com/77d3f5214340) by: [@listi\_ana_](https://twitter.com/listi_ana_)|
 |[Ariella Calista](https://twitter.com/C_ArielJKT48) and [Eve Antoinette](https://twitter.com/Eve_JKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040620.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |[Azizi Asadel](https://twitter.com/A_ZeeJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035785.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036659.png)![3](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036683.png)![4](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038309.png)![5](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038679.png)![5](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039403.png)|[Super ZeeOshi Room](https://www.showroom-live.com/6c3a35241316) by: [@SuperZeeOshi](https://twitter.com/SuperZeeOshi)|
 |[Cindy Hapsari](https://twitter.com/CindyH_JKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037792.png)|[CDR Project](https://www.showroom-live.com/fa4a34748745) by: [@Cindyrections](https://twitter.com/cindyrections)|
@@ -55,7 +55,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Feni Fitriyanti](https://twitter.com/F_FeniJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039054.png)|[Tara Haes](https://www.showroom-live.com/005395181726) by: [@PodcastLogika](https://twitter.com/PodcastLogika)|
 |[Fiony Alveria](https://twitter.com/A_FionyJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037973.png)|[Symfiony](https://www.showroom-live.com/d61555376451) by: [@Symfiony](https://twitter.com/Symfiony)|
 |[Fiony Alveria](https://twitter.com/A_FionyJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040069.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040279.png)|[Paguyuban Nyonya Fiony](https://www.showroom-live.com/d3ed15447850) by: [@Febiano_1109](https://twitter.com/Febiano_1109)|
-|[Flora Shafiqa](https://twitter.com/S_FloraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037967.png)|[Bloom](https://www.showroom-live.com/b793b5351463) by: [@FloraFloRisenID](https://twitter.com/FloraFloRisenID)|
+|[Flora Shafiqa](https://twitter.com/S_FloraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037967.png)|[Bloom](https://www.showroom-live.com/b793b5351463) by: [@FloRisenID](https://twitter.com/FloRisenID)|
 |[Fransisca Saraswati](https://twitter.com/S_SiscaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038316.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |[Fransisca Saraswati](https://twitter.com/S_SiscaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039073.png)|[Asosiasi Petani Showroom](https://www.showroom-live.com/8687a5348953) by: [@PetaniSR_ID](https://twitter.com/PetaniSR_ID)|
 |[Freya Jayawardana](https://twitter.com/Freya_JKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038007.png)|[GURITA48](https://www.showroom-live.com/a0a485208439) by: [@gurita48](https://twitter.com/gurita48)|
@@ -77,7 +77,9 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Shani Indira](https://twitter.com/N_ShaniJKT48)|in progress|[INSHANITY](https://www.showroom-live.com/ecb9b4825330) by: [@InshanityID](https://twitter.com/InshanityID)|
 |[Shani Indira](https://twitter.com/N_ShaniJKT48) dan [Shania Gracia](https://twitter.com/S_GraciaJKT48) |![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038174.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038464.png)![3](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040377.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@Queen48one](https://twitter.com/Queen48one)|
 [Shania Gracia](https://twitter.com/S_GraciaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040328.png)|[G R A C I A S](https://www.showroom-live.com/e141b5413547) by: [@GraciasFans_INA](https://twitter.com/GraciasFans_INA)|
+[Shania Gracia](https://twitter.com/S_GraciaJKT48)|in progress|[G R A C I A S](https://www.showroom-live.com/e141b5413547) by: [@GraciasFans_INA](https://twitter.com/GraciasFans_INA)|
 |[Tan Zhi Hui Celine](https://twitter.com/Celine_JKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038394.png)|[Celinesse Diary](https://www.showroom-live.com/38ba95200040) by: [@CelinesseWorld](https://twitter.com/CelinesseWorld)|
+|[Tan Zhi Hui Celine](https://twitter.com/Celine_JKT48)|in progress|[Celinesse Diary](https://www.showroom-live.com/38ba95200040) by: [@CelinesseWorld](https://twitter.com/CelinesseWorld)|
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040029.png)|[Dulur Tamara's Room](https://www.showroom-live.com/6fe9a4789281) by: [@DulurTamara](https://twitter.com/DulurTamara)|
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039366.png)|[AGS Avatar Project](https://www.showroom-live.com/a57114006053) by: [@atletkun](https://twitter.com/atletkun)|
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040123.png)|[Tamara East Borneo](https://www.showroom-live.com/268b85476941) by: [@TamaraEBorneo](https://twitter.com/TamaraEBorneo)|
@@ -125,6 +127,14 @@ Omoide Ijou|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/10403
 
 Hanya bisa didapatkan dari event Showroom AKB48G Special Week 2 April 2021 ([info](https://twitter.com/SHOWROOM_jp/status/1377845042165862402))
 
+![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037476.png)
+![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037477.png)
+![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037478.png)
+![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037479.png)
+![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037480.png)
+![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037481.png)
+![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037482.png)
+![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037483.png)
 ![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036809.png)
 
 ### AKB48G Special Week (Mei 2021)
@@ -132,6 +142,17 @@ Hanya bisa didapatkan dari event Showroom AKB48G Special Week 2 April 2021 ([inf
 Hanya bisa didapatkan dari event Showroom AKB48G Special Week 26 Mei 2021 ([info](https://twitter.com/SHOWROOM_jp/status/1397364946455842818))
 
 ![Top1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038976.png)![Top2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038977.png)![Top3](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038978.png)![Top48](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038979.png)![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038519.png)
+
+### Omedetai! Wagashi no Hi Campaign for AKB48G (Juni 2021)
+
+Hanya bisa didapatkan dari event Showroom AKB48G Special Day ~Natsu~ (16 Juni 2021 - 20 Juni 2021). (info: [tweet](https://twitter.com/SHOWROOM_jp/status/1404674275907301377), [SR](https://campaign.showroom-live.com/wagashi/akb48g/)) 
+
+![Top1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040272.png)
+![Top2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040273.png)
+![Top3](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040275.png)
+![Top10](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040276.png)
+![Top48](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040278.png)
+
 
 ### AKB48G Special Day ~Natsu~ (Juni 2021)
 
@@ -173,10 +194,8 @@ Avatar bisa didapat tiap kali mendapatkan 500 point; avatar diacak; belum tentu 
 ![Sisca](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039980.png)
 ![Zee](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039976.png)
 
-
 ### Onegai yo Todoke! Tanabata Campaign for AKB48G (Juli 2021)
 
 Hanya bisa didapatkan di event. Berlangsung tanggal 1-7 Juli 2021.
 
 https://campaign.showroom-live.com/tanabata/akb48g/
-
