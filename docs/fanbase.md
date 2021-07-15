@@ -1,7 +1,7 @@
 ---
 id: fanbase
 title: Katalog Fanbase
-sidebar_label: Fanbase
+sidebar_label: Katalog Fanbase
 ---
 
 Information gathered by: Diaz, Tody, Fikri, Maeru, Chris
