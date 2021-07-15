@@ -16,7 +16,7 @@ Beberapa fanbase telah mengalami pergantian nama, unifikasi, ataupun dualisme. S
 
 ## Fanbase Utama
 
-|Logo|Team|Nama Fanbase|Sosmed|
+|Logo|Team|Nama Fanbase|SNS|
 | :------------- | :---------- | :----------- |:---|
 |<img src="https://i.imgur.com/K6A4LrT.png" alt="logo" width="100"/>|JKT48|ONE Alliance 48|[@OneAlliance48](https://twitter.com/OneAlliance48)| 
 |<img src="https://i.imgur.com/QMBC7Jj.png" alt="logo" width="100"/>|Team J|J Affiliation |[@J_Affiliation](https://twitter.com/J_Affiliation)| 
@@ -26,7 +26,7 @@ Beberapa fanbase telah mengalami pergantian nama, unifikasi, ataupun dualisme. S
 
 ## Fanbase Member
 
-|Logo| Member | Nama Fanbase | Twitter |
+|Logo| Member | Nama Fanbase | SNS |
 | :---- | :------------- | :---------- | :----------- |
 |<img src="https://i.imgur.com/wrkXmjP.png" alt="logo" width="100"/>|Adzana Shaliha|Ashelytic|[@Ashelyticofc](https://twitter.com/Ashelyticofc)|
 |<img src="https://i.imgur.com/21SbjdN.png" alt="logo" width="100"/>|Amirah Fatin|Miracle|[@MiracleID_](https://twitter.com/MiracleID_)|
@@ -64,7 +64,7 @@ Beberapa fanbase telah mengalami pergantian nama, unifikasi, ataupun dualisme. S
 
 ## Aliansi Generasi
 
-|Logo| Member | Nama Fanbase | Twitter |
+|Logo| Member | Nama Fanbase | SNS |
 | :---- | :------ | :--- | :-- |
 | |4th gen||[@FANT4STICGen4](https://twitter.com/FANT4STICGen4) (❌?)|
 |<img src="https://i.imgur.com/CPpS5nW.png" alt="logo" width="100"/>|5th gen|Gen 5emangat|[@Gen5semangat](https://twitter.com/Gen5semangat)|
@@ -97,7 +97,7 @@ Note: kemungkinanan tanpa fanbase
 - Allisa Astri
 - Intania Pratama Ilham
 
-|Logo| Member | Nama Fanbase | Twitter |
+|Logo| Member | Nama Fanbase | SNS |
 | :---- | :-------- | :------- | :------ |
 | |Alissa Galliamova|Movaniac, Movattack (?)| |
 |<img src="https://i.imgur.com/8oFRQqg.png" alt="logo" width="100"/>|Ayana Shahab|Achanation|[@Achanation_INA](https://twitter.com/Achanation_INA)|
@@ -105,7 +105,7 @@ Note: kemungkinanan tanpa fanbase
 |<img src="https://i.imgur.com/wFCTxIf.jpg" alt="logo" width="100"/>|Cindy Gulla|CindyVers|[@CindyVers0](https://twitter.com/CindyVers0) ?|
 | |Cleopatra|Cleovers| |
 | |Delima Rizky|Delimars| |
-| |Devi Kinal Putri|Kinalova, Keluarga Depi, Kinal-oshi|[@Kinalova_INA](https://twitter.com/Kinalova_INA) (❌)|
+|<img src="https://i.imgur.com/RZu1nr3.png" alt="logo" width="100"/>|Devi Kinal Putri|Kinalova, Keluarga Depi, Kinal-oshi|[@Kinalova_INA](https://twitter.com/Kinalova_INA) (❌), [@kinalova_ig](https://www.instagram.com/kinalova_ig/) (IG)|
 | |Diasta Priswarini|Nyashiteru| |
 | |Fahira|OfficialFahira (?)| |
 |<img src="https://i.imgur.com/CODhRyR.jpg" alt="logo" width="100"/>|Frieska Anastasia Laksani|Frieskavers|[@FrieskaversINA](https://twitter.com/FrieskaversINA)|
@@ -133,12 +133,12 @@ Note: kemungkinanan tanpa fanbase
 - Nurhalima Oktavianti
 - Olivia Robberecht
 
-|Logo| Member | Nama Fanbase | Twitter |
+|Logo| Member | Nama Fanbase | SNS |
 | :---- | :-------- | :------- | :------ |
 |<img src="https://i.imgur.com/QtkBlgY.jpg" alt="logo" width="100"/>|Alicia Chanzia|Achaved, Achanisti|[@Acha_JKT48FC](https://twitter.com/Acha_JKT48FC)|
 | |Annisa Athia|Nisagumi| |
 |<img src="https://i.imgur.com/2qeBBsG.jpeg" alt="logo" width="100"/>|Cindy Yuvia|CindviaDealoved, Cindvializer| [@CindviaDeaLoved](https://twitter.com/CDL_Ent) (🚧)|
-| |Della Delila|Dellation| |
+|<img src="https://i.imgur.com/tAVYXD7.png" alt="logo" width="100"/>|Della Delila|Dellation|[@official_dellation](https://www.instagram.com/official_dellation/) (IG)|
 | |Dellia Erdita|Dellicious| |
 |<img src="https://i.imgur.com/gLvwJck.png" alt="logo" width="100"/>|Dena Siti Rohyati|DenaRainbow, Denaction|[@DenaRainbow](https://twitter.com/DenaRainbow)|
 | |Dwi Putri Bonita|Utyers, UtyLity|[@Utylity_ID](https://twitter.com/Utylity_ID)  (❌)|
@@ -172,7 +172,7 @@ Note: kemungkinanan tanpa fanbase
 - Shaffa Nabila
 
 
-|Logo| Member | Nama Fanbase | Twitter |
+|Logo| Member | Nama Fanbase | SNS |
 | :---- | :-------- | :------- | :------ |
 |<img src="https://i.imgur.com/Gryy3VG.png" alt="logo" width="100"/>|Alycia Ferryana|CiStar|[@CiStar_INA](https://twitter.com/CiStar_INA)|
 |<img src="https://i.imgur.com/rf2OFZ7.jpeg" alt="logo" width="100"/>|Amanda Dwi Arista|Mandaisuki|[@Mandaisuki_INA](https://twitter.com/Mandaisuki_INA) (❓)|
@@ -189,7 +189,7 @@ Note: kemungkinanan tanpa fanbase
 |<img src="https://i.imgur.com/6yLFAUd.png" alt="logo" width="100"/>|Milenia Christien Glory Goenawan|Mileniaction|[@Mileniaction](https://twitter.com/Mileniaction)|
 |<img src="https://i.imgur.com/CPn0FXC.jpg" alt="logo" width="100"/>|Nadhifa Salsabila|NadhiFamily, NadhiFamous (❗), NadhiFabulous (❗)|[@NadhiFamily](https://twitter.com/NadhiFamily) (❌)|
 |<img src="https://i.imgur.com/gssIDq7.png" alt="logo" width="100"/>|Ni Made Ayu Vania Aurellia|Aurelliable|[@Aurelliable](https://twitter.com/Aurelliable)|
-| |Nina Hamidah|Ninactions|[@Ninactions](https://twitter.com/Ninactions) (❌)|
+|<img src="https://i.imgur.com/EIRnJml.png" alt="logo" width="100"/>|Nina Hamidah|Ninactions|[@Ninactions](https://twitter.com/Ninactions) (❌)|
 | |Putri Farin Kartika|Farinsiders, Farinoid?| |
 |<img src="https://i.imgur.com/C5maqWN.png" alt="logo" width="100"/>|Rizka Khalila|YukkaListic, YukkaOshi|[@YukkaListic](https://twitter.com/YukkaListic)|
 |<img src="https://i.imgur.com/bDtT0Xn.png" alt="logo" width="100"/>|Sofia Meifaliani|Filosofia|[@Filosofia_INA](https://twitter.com/Filosofia_INA)|
@@ -202,7 +202,7 @@ Note: kemungkinanan tanpa fanbase
 
 ### Gen 4
 
-|Logo| Member | Nama Fanbase | Twitter |
+|Logo| Member | Nama Fanbase | SNS |
 | :---- | :-------- | :------- | :------ |
 |<img src="https://i.imgur.com/ax5T556.png" alt="logo" width="100"/>|Adriani Elisabeth|Lisanshine, Lisaddict (❗), Lisanthusiazm (❗)|[@Lisanshine_INA](https://twitter.com/Lisanshine_INA)|
 |<img src="https://i.imgur.com/qiliK9W.png" alt="logo" width="100"/>|Christy Chriselle|Christynions|[@Christynions](https://twitter.com/Christynions)|
@@ -221,7 +221,7 @@ Note: kemungkinanan tanpa fanbase
 - Anggita Destiana Dewi
 - Rissanda Putri Tuarissa
 
-|Logo| Member | Nama Fanbase | Twitter |
+|Logo| Member | Nama Fanbase | SNS |
 | :---- | :-------- | :------- | :------ |
 |<img src="https://i.imgur.com/jbASDw6.png" alt="logo" width="100"/>|Adhisty Zara|Adhistyrriors|[@adhistyrriors](https://twitter.com/adhistyrriors)|
 |<img src="https://i.imgur.com/b3CwTUs.png" alt="logo" width="100"/>|Citra Ayu Pranajaya Wibrado|Citraince|[@Citraince_](https://twitter.com/Citraince_)|
@@ -243,12 +243,12 @@ Note: kemungkinanan tanpa fanbase
 Note: kemungkinanan tanpa fanbase
 - Jihan Miftahul Jannah
 
-|Logo| Member | Nama Fanbase | Twitter |
+|Logo| Member | Nama Fanbase | SNS |
 | :---- | :------------- | :---------- | :---|
 | |Amanda Priscella|Priscellation|[@priscellation](https://twitter.com/priscellation) (❌)|
 |<img src="https://i.imgur.com/RRVcMi3.png" alt="logo" width="100"/>|Anastasya Narwastu Tety|Tasyamate|[@Tasyamate](https://twitter.com/Tasyamate)|
 |<img src="https://i.imgur.com/MzT3GmU.png" alt="logo" width="100"/>|Denise Caroline|Deniseviour|[@Deniseviour](https://twitter.com/Deniseviour) (❌), [@deniseviour](https://www.instagram.com/deniseviour/) (IG)|
-| |Erika Ebisawa|Erikania|[@erikaniaID](https://twitter.com/erikaniaID) (🧹)|
+|<img src="https://i.imgur.com/68oIgeH.png" alt="logo" width="100"/>|Erika Ebisawa|Erikania|[@erikaniaID](https://twitter.com/erikaniaID) (🧹), [@erikaniaid](https://www.instagram.com/erikaniaid/) (IG)|
 | |Erika Sintia|Sintiadistic|[@Sintiadistic_](https://twitter.com/AnindhitaIsMe) (🚧❌)|
 |<img src="https://i.imgur.com/FwIuvaS.png" alt="logo" width="100"/>|Graciella Ruth Wiranto|Ciellaster|[@Ciellaster_INA](https://twitter.com/Ciellaster_INA)|
 |<img src="https://i.imgur.com/XANj8VI.png" alt="logo" width="100"/>|Kandiya Rafa Maulidita|Kandiyaction|[@kandiyaction](https://twitter.com/kandiyaction)|
@@ -259,7 +259,7 @@ Note: kemungkinanan tanpa fanbase
 
 ### Gen 7
 
-|Logo| Member | Nama Fanbase | Twitter |
+|Logo| Member | Nama Fanbase | SNS |
 | :---- | :------------- | :---------- | :---|
 |<img src="https://i.imgur.com/rKHHjCk.png" alt="logo" width="100"/>| Aiko Harumi | Aikofoni, AikoOshi | [@Aikofoni](https://twitter.com/Aikofoni)|
 |<img src="https://i.imgur.com/TV4ov7B.png" alt="logo" width="100"/>| Aurel Mayori | Yorigami, Yorinistic (❗) | [@YorigamiID](https://twitter.com/YorigamiID)|
@@ -274,7 +274,7 @@ Note: kemungkinanan tanpa fanbase
 
 ### Gen 8
 
-|Logo| Member | Nama Fanbase | Twitter |
+|Logo| Member | Nama Fanbase | SNS |
 | :---- | :-------- | :------- | :------ |
 |<img src="https://i.imgur.com/Sm8uZkd.png" alt="logo" width="100"/>|Amanina Afiqah|Afiqaristic|[@Afiqaristic_OFC](https://twitter.com/Afiqaristic_OFC)|
 |<img src="https://i.imgur.com/GLDX4Bt.png" alt="logo" width="100"/>|Cindy Nugroho|NU Story|[@NUstory_id](https://twitter.com/NUstory_id)|
@@ -294,7 +294,7 @@ Member tanpa fanbase:
 - Iris Vevina Prasetio ([Stage48 Wiki](http://stage48.net/wiki/index.php/Iris_Vevina_Prasetio), [AKB48 Fandom](https://akb48.fandom.com/wiki/Iris_Vevina_Prasetio))
 - Tiara Sasi ([Stage48 Wiki](http://stage48.net/wiki/index.php/Tiara_Sasi), [AKB48 Fandom](https://akb48.fandom.com/wiki/Tiara_Sasi))
 
-|Logo| Member | Nama Fanbase | Twitter |
+|Logo| Member | Nama Fanbase | SNS |
 | :---- | :-------- | :------- | :------ |
 |<img src="https://i.imgur.com/qsShD6d.png" alt="logo" width="100"/>|Caithlyn Gwyneth|Caithter|[@caithter](https://twitter.com/caithter)|
 |<img src="https://i.imgur.com/GWx356T.png" alt="logo" width="100"/>|Chalista Ellysia|ChalistaR|[@ChalistaR_ID](https://twitter.com/ChalistaR_ID)|
@@ -306,7 +306,7 @@ Member tanpa fanbase:
 
 ### Gen 10
 
-|Logo| Member | Nama Fanbase | Twitter |
+|Logo| Member | Nama Fanbase | SNS |
 | :---- | :-------- | :------- | :------ |
 |<img src="https://i.imgur.com/jGPCIEy.png" alt="logo" width="100"/>|Alia Giselle Maharani|Aliadiest|[@Aliadiest](https://twitter.com/Aliadiest)|
 |<img src="https://i.imgur.com/jWC462F.png" alt="logo" width="100"/>|Amanda Puspita|Mandaffection|[@mandaffection](https://twitter.com/mandaffection)|
@@ -321,7 +321,7 @@ Member tanpa fanbase:
 
 ## Team Kaigai eks-JKT48
 
-|Logo| Member | Nama Fanbase | Twitter |
+|Logo| Member | Nama Fanbase | SNS |
 | :---- | :-------- | :------- | :------ |
 |<img src="https://i.imgur.com/98okZ53.png" alt="logo" width="100"/>|Nakagawa Haruka|Harugoners, Harukanisme, Haruka Family|[@HarugonFC](https://twitter.com/HarugonFC)|
 | |Takajo Aki|Akichaholic| |
@@ -329,6 +329,6 @@ Member tanpa fanbase:
 
 ## Fanbase Regional
 
-|Logo| Region | Nama Fanbase | Twitter |
+|Logo| Region | Nama Fanbase | SNS |
 | :---- | :-------- | :------- | :------ |
 |<img src="https://i.imgur.com/M3pywKg.png" alt="logo" width="100"/>|Indonesia|Alliance Regional48|[@AllRegion48](https://twitter.com/AllRegion48)|
