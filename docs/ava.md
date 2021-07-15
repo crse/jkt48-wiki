@@ -1,7 +1,7 @@
 ---
 id: ava
 title: Katalog Avatar Showroom
-sidebar_label: SR Avatar
+sidebar_label: Katalog Avatar SR
 ---
 
 Berikut daftar avatar original yang berkaitan dengan JKT48, baik official maupun fanmade.
@@ -54,6 +54,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Eve Antoinette](https://twitter.com/Eve_JKT48)|in progress|[Coconut Family](https://www.showroom-live.com/7d4734006411) by: [@Gabycious48](https://twitter.com/Gabycious48)|
 |[Febriola Sinambela](https://twitter.com/F_OllaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038614.png)|[GURITA48](https://www.showroom-live.com/a0a485208439) by: [@gurita48](https://twitter.com/gurita48)|
 |[Feni Fitriyanti](https://twitter.com/F_FeniJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039054.png)|[Tara Haes](https://www.showroom-live.com/005395181726) by: [@PodcastLogika](https://twitter.com/PodcastLogika)|
+|[Feni Fitriyanti](https://twitter.com/F_FeniJKT48), [Shani Indira](https://twitter.com/N_ShaniJKT48), dan [Shania Gracia](https://twitter.com/S_GraciaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040945.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
 |[Fiony Alveria](https://twitter.com/A_FionyJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037973.png)|[Symfiony](https://www.showroom-live.com/d61555376451) by: [@Symfiony](https://twitter.com/Symfiony)|
 |[Fiony Alveria](https://twitter.com/A_FionyJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040069.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040279.png)|[Paguyuban Nyonya Fiony](https://www.showroom-live.com/d3ed15447850) by: [@Febiano_1109](https://twitter.com/Febiano_1109)|
 |[Flora Shafiqa](https://twitter.com/S_FloraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037967.png)|[Bloom](https://www.showroom-live.com/b793b5351463) by: [@FloRisenID](https://twitter.com/FloRisenID)|
@@ -73,9 +74,9 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Mutiara Azzahra](https://twitter.com/A_MutheJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036569.png)|[MuTalk / ムトーク](https://www.showroom-live.com/8f0ac5255835) by: [@MuffinOfficial_](https://twitter.com/MuffinOfficial_)|
 |[Reva Fidela](https://twitter.com/R_AdelJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040678.png)|[Adellion Official SHOWROOM](https://www.showroom-live.com/a62385511995) by: [@Adellion_](https://twitter.com/Adellion_)|
 |[Shani Indira](https://twitter.com/N_ShaniJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035477.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036745.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
-|[Shani Indira](https://twitter.com/N_ShaniJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040085.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@Queen48one](https://twitter.com/Queen48one)|
+|[Shani Indira](https://twitter.com/N_ShaniJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040085.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
 |[Shani Indira](https://twitter.com/N_ShaniJKT48)|in progress|[INSHANITY](https://www.showroom-live.com/ecb9b4825330) by: [@InshanityID](https://twitter.com/InshanityID)|
-|[Shani Indira](https://twitter.com/N_ShaniJKT48) dan [Shania Gracia](https://twitter.com/S_GraciaJKT48) |![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038174.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038464.png)![3](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040377.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@Queen48one](https://twitter.com/Queen48one)|
+|[Shani Indira](https://twitter.com/N_ShaniJKT48) dan [Shania Gracia](https://twitter.com/S_GraciaJKT48) |![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038174.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038464.png)![3](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040377.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
 [Shania Gracia](https://twitter.com/S_GraciaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040328.png)|[G R A C I A S](https://www.showroom-live.com/e141b5413547) by: [@GraciasFans_INA](https://twitter.com/GraciasFans_INA)|
 [Shania Gracia](https://twitter.com/S_GraciaJKT48)|in progress|[G R A C I A S](https://www.showroom-live.com/e141b5413547) by: [@GraciasFans_INA](https://twitter.com/GraciasFans_INA)|
 |[Tan Zhi Hui Celine](https://twitter.com/Celine_JKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038394.png)|[Celinesse Diary](https://www.showroom-live.com/38ba95200040) by: [@CelinesseWorld](https://twitter.com/CelinesseWorld)|
@@ -83,7 +84,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040029.png)|[Dulur Tamara's Room](https://www.showroom-live.com/6fe9a4789281) by: [@DulurTamara](https://twitter.com/DulurTamara)|
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039366.png)|[AGS Avatar Project](https://www.showroom-live.com/a57114006053) by: [@atletkun](https://twitter.com/atletkun)|
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040123.png)|[Tamara East Borneo](https://www.showroom-live.com/268b85476941) by: [@TamaraEBorneo](https://twitter.com/TamaraEBorneo)|
-|[Yessica Tamara](https://twitter.com/Y_ChikaJKT48) dan [Zahra Nur](https://twitter.com/N_AraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040668.png)|[ChikaraGreshan](https://www.showroom-live.com/c3e485454817) by: [@ChikaraGreshan](https://twitter.com/ChikaraGreshan)|
+|[Yessica Tamara](https://twitter.com/Y_ChikaJKT48) dan [Zahra Nur](https://twitter.com/N_AraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040668.png)|[ADP48 (ChikaraGreshan)](https://www.showroom-live.com/c3e485454817) by: [@ChikaraGreshan](https://twitter.com/ChikaraGreshan)|
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48) dan [Zahra Nur](https://twitter.com/N_AraJKT48)|in progress|[AGS Avatar Project](https://www.showroom-live.com/a57114006053) by: [@atletkun](https://twitter.com/atletkun)|
 |[Zahra Nur](https://twitter.com/N_AraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038341.png)|[Charger Oshi](https://www.showroom-live.com/29d944836330) by: [@chargeroshii](https://twitter.com/chargeroshii)|
 
@@ -107,10 +108,11 @@ Avatar berikut tidak tersedia; telah dihapus oleh pihak Showroom
 
 |Tema|Avatar|Link Showroom|
 | :------------- | :----------: | :----------- |
-|Avocado Janeshi|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038464.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@Queen48one](https://twitter.com/Queen48one)|
+|Avocado Janeshi|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038464.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
 |Darashinai Aishikata|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036745.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
-|Kareha no Station|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040085.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@Queen48one](https://twitter.com/Queen48one)|
+|Kareha no Station|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040085.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
 Omoide Ijou|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040328.png)|[G R A C I A S](https://www.showroom-live.com/e141b5413547) by: [@GraciasFans_INA](https://twitter.com/GraciasFans_INA)|
+|Rakuen no Kaidan|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040377.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
 |Rapsodi|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035477.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 
 ### Fanmade - JKT48 Team
