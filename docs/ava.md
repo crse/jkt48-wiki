@@ -101,7 +101,7 @@ Avatar berikut tidak tersedia; telah dihapus oleh pihak Showroom
 |[Aurel Mayori](https://twitter.com/aurelmayorii)|in progress (?)|[Paguyuban Sayang Yori](https://www.showroom-live.com/579cc5431491) by: [@YorigamiID](https://twitter.com/YorigamiID)|
 |[Beby Chaesara](https://twitter.com/bchsr_)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035617.png)|[BebyOshi Story](https://www.showroom-live.com/b9cdb4775676) by: [@BebyOshi](https://twitter.com/BebyOshi)|
 |[Febi Komaril](https://twitter.com/giraffebiii)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039609.png)|[Febinetsui Media](https://www.showroom-live.com/186c65450978) by: [@FebinetsuiMedia](https://twitter.com/FebinetsuiMedia)|
-|[Febrina Diponegoro](https://twitter.com/Fbrn_bri)|in progress|[GURITA48](https://www.showroom-live.com/a0a485208439) by: [@gurita48](https://twitter.com/gurita48)|
+|[Febrina Diponegoro](https://twitter.com/Fbrn_bri)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041069.png)|[GURITA48](https://www.showroom-live.com/a0a485208439) by: [@gurita48](https://twitter.com/gurita48)|
 |[Frieska Anastasia](https://twitter.com/thisfrieska)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037310.png)|[Frieskavers Room](https://www.showroom-live.com/2e2a15245592) by: [@FrieskaversINA](https://twitter.com/FrieskaversINA)|
 
 ### Fanmade - Music Avatar
@@ -115,10 +115,11 @@ Omoide Ijou|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/10403
 |Rakuen no Kaidan|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040377.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
 |Rapsodi|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035477.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 
-### Fanmade - JKT48 Team
+### Fanmade - Other
 
 |Nama|Avatar|Link Showroom|
 | :------------- | :----------: | :----------- |
+|JMT48|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040994.png)|[GURITA48](https://www.showroom-live.com/a0a485208439) by: [@gurita48](https://twitter.com/gurita48)|
 |Team T|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036486.png)|[GURITA48](https://www.showroom-live.com/a0a485208439) by: [@gurita48](https://twitter.com/gurita48)|
 
 ## Limited Avatar
