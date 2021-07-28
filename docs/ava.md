@@ -44,6 +44,8 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Angelina Christy](https://twitter.com/A_ChristyJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038369.png)|[SKAPSKIP PROJECT](https://www.showroom-live.com/991625324380) by: [@skapskipproject](https://twitter.com/skapskipproject)|
 |[Angelina Christy](https://twitter.com/A_ChristyJKT48), [Azizi Asadel](https://twitter.com/A_ZeeJKT48), dan [Fiony Alveria](https://twitter.com/A_FionyJKT48)|in progress|[Asosiasi Petani Showroom](https://www.showroom-live.com/8687a5348953) by: [@PetaniSR_ID](https://twitter.com/PetaniSR_ID)|
 |[Aninditha Cahyadi](https://twitter.com/R_AninJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038669.png)|[Aninlicious Room](https://www.showroom-live.com/dfe404836158) by: [@Aninlicious](https://twitter.com/Aninlicious)|
+|[Aninditha Cahyadi](https://twitter.com/R_AninJKT48)|in progress|[ADP48 (ChikaraGreshan)](https://www.showroom-live.com/c3e485454817) by: [@ChikaraGreshan](https://twitter.com/ChikaraGreshan)|
+|[Aninditha Cahyadi](https://twitter.com/R_AninJKT48) dan [Shania Gracia](https://twitter.com/S_GraciaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041194.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
 |[Ariella Calista](https://twitter.com/C_ArielJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036366.png)|[AGS Avatar Project](https://www.showroom-live.com/a57114006053) by: [@atletkun](https://twitter.com/atletkun)|
 |[Ariella Calista](https://twitter.com/C_ArielJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040764.png)|[Listia](https://www.showroom-live.com/77d3f5214340) by: [@listi\_ana_](https://twitter.com/listi_ana_)|
 |[Ariella Calista](https://twitter.com/C_ArielJKT48) dan [Eve Antoinette](https://twitter.com/Eve_JKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040620.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
@@ -73,6 +75,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Kathrina Irene](https://twitter.com/I_KathrinaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037899.png)|[KATHRINETIZEN](https://www.showroom-live.com/632815379430) by: [@kathrinetizen](https://twitter.com/kathrinetizen)|
 |[Kathrina Irene](https://twitter.com/I_KathrinaJKT48)|in progress|[SKAPSKIP PROJECT](https://www.showroom-live.com/991625324380) by [@skapskipproject](https://twitter.com/skapskipproject)|
 |[Lulu Salsabila](https://twitter.com/A_LuluJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038192.png)|[GURITA48](https://www.showroom-live.com/a0a485208439) by: [@gurita48](https://twitter.com/gurita48)|
+|[Lulu Salsabila](https://twitter.com/A_LuluJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041152.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |[Lulu Salsabila](https://twitter.com/A_LuluJKT48)|in progress|[Ringo Project](https://www.showroom-live.com/4f67e801801) by: [@Mirukiringo](https://twitter.com/Mirukiringo)|
 |[Marsha Lenathea](https://twitter.com/L_MarshaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035702.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037380.png)|[Marsha Oshi](https://www.showroom-live.com/08c014749592) by: [@MarshaOshi_](https://twitter.com/marshaoshi_)|
 |[Mutiara Azzahra](https://twitter.com/A_MutheJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036569.png)|[MuTalk / ムトーク](https://www.showroom-live.com/8f0ac5255835) by: [@MuffinOfficial_](https://twitter.com/MuffinOfficial_)|
@@ -103,6 +106,7 @@ Avatar berikut tidak tersedia; telah dihapus oleh pihak Showroom
 |Member|Avatar|Link Showroom|
 | :------------- | :----------: | :----------- |
 |[Aurel Mayori](https://twitter.com/aurelmayorii)|in progress (?)|[Paguyuban Sayang Yori](https://www.showroom-live.com/579cc5431491) by: [@YorigamiID](https://twitter.com/YorigamiID)|
+|[Aurel Mayori](https://twitter.com/aurelmayorii)|in progress|[GURITA48](https://www.showroom-live.com/a0a485208439) by: [@gurita48](https://twitter.com/gurita48)|
 |[Beby Chaesara](https://twitter.com/bchsr_)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035617.png)|[BebyOshi Story](https://www.showroom-live.com/b9cdb4775676) by: [@BebyOshi](https://twitter.com/BebyOshi)|
 |[Febi Komaril](https://twitter.com/giraffebiii)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039609.png)|[Febinetsui Media](https://www.showroom-live.com/186c65450978) by: [@FebinetsuiMedia](https://twitter.com/FebinetsuiMedia)|
 |[Febrina Diponegoro](https://twitter.com/Fbrn_bri)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041069.png)|[GURITA48](https://www.showroom-live.com/a0a485208439) by: [@gurita48](https://twitter.com/gurita48)|
@@ -112,6 +116,7 @@ Avatar berikut tidak tersedia; telah dihapus oleh pihak Showroom
 
 |Tema|Avatar|Link Showroom|
 | :------------- | :----------: | :----------- |
+|16-iro no Yume Crayon|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041194.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
 |Avocado Janeshi|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038464.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
 |Darashinai Aishikata|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036745.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |Kareha no Station|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040085.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
