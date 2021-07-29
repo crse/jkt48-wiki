@@ -54,6 +54,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Cindy Hapsari](https://twitter.com/CindyH_JKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037792.png)|[CDR Project](https://www.showroom-live.com/fa4a34748745) by: [@Cindyrections](https://twitter.com/cindyrections)|
 |[Cornelia Vanisa](https://twitter.com/C_OnielJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039536.png)|[Asosiasi Petani Showroom](https://www.showroom-live.com/8687a5348953) by: [@PetaniSR_ID](https://twitter.com/PetaniSR_ID)|
 |[Cornelia Vanisa](https://twitter.com/C_OnielJKT48)|in progress|[Onielity](https://www.showroom-live.com/bf4e25363908) by: [@onielity_ofc](https://twitter.com/onielity_ofc)|
+|[Cornelia Vanisa](https://twitter.com/C_OnielJKT48)|in progress|[RailFans - FJKT48「JKT48のファン」](https://www.showroom-live.com/a7e864750214) by: [@Vernando_IT](https://twitter.com/Vernando_IT)|
 |[Dhea Angelia](https://twitter.com/A_DeyJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037821.png)|[Deyrrior](https://www.showroom-live.com/a49605304110) by: [@Deyrrior_](https://twitter.com/Deyrrior_)|
 |[Eve Antoinette](https://twitter.com/Eve_JKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035300.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038793.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |[Eve Antoinette](https://twitter.com/Eve_JKT48)|in progress|[Coconut Family](https://www.showroom-live.com/7d4734006411) by: [@Gabycious48](https://twitter.com/Gabycious48)|
@@ -116,12 +117,12 @@ Avatar berikut tidak tersedia; telah dihapus oleh pihak Showroom
 
 |Tema|Avatar|Link Showroom|
 | :------------- | :----------: | :----------- |
-|16-iro no Yume Crayon|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041194.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
 |Avocado Janeshi|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038464.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
 |Darashinai Aishikata|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036745.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |Kareha no Station|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040085.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
 Omoide Ijou|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040328.png)|[G R A C I A S](https://www.showroom-live.com/e141b5413547) by: [@GraciasFans_INA](https://twitter.com/GraciasFans_INA)|
 |Rakuen no Kaidan|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040377.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
+|Ramune no Nomikata|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041194.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
 |Rapsodi|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035477.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 
 ### Fanmade - Other
