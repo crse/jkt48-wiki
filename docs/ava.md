@@ -9,7 +9,7 @@ Catalog maintained by Chris ([@penguinwota](https://twitter.com/penguinwota))
 Berikut daftar avatar original yang berkaitan dengan JKT48, baik official maupun fanmade.
 
 Ada yang kurang? Informasi salah?
-Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord (https://discord.gg/JKT48).
+DM [twitter](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord (https://discord.gg/JKT48).
 
 [![JKT48 Discord](https://discordapp.com/api/guilds/600387836201664523/widget.png?style=banner2)](https://discord.gg/JKT48)
 
@@ -85,7 +85,7 @@ Tag [@penguinwota](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord 
 |[Reva Fidela](https://twitter.com/R_AdelJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040678.png)|[Adellion Official SHOWROOM](https://www.showroom-live.com/a62385511995) by: [@Adellion_](https://twitter.com/Adellion_)|
 |[Shani Indira](https://twitter.com/N_ShaniJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035477.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036745.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |[Shani Indira](https://twitter.com/N_ShaniJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040085.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
-|[Shani Indira](https://twitter.com/N_ShaniJKT48)|in progress|[INSHANITY](https://www.showroom-live.com/ecb9b4825330) by: [@InshanityID](https://twitter.com/InshanityID)|
+|[Shani Indira](https://twitter.com/N_ShaniJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041251.png)|[INSHANITY](https://www.showroom-live.com/ecb9b4825330) by: [@InshanityID](https://twitter.com/InshanityID)|
 |[Shani Indira](https://twitter.com/N_ShaniJKT48) dan [Shania Gracia](https://twitter.com/S_GraciaJKT48) |![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038174.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038464.png)![3](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040377.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
 [Shania Gracia](https://twitter.com/S_GraciaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040328.png)|[G R A C I A S](https://www.showroom-live.com/e141b5413547) by: [@GraciasFans_INA](https://twitter.com/GraciasFans_INA)|
 [Shania Gracia](https://twitter.com/S_GraciaJKT48)|in progress|[G R A C I A S](https://www.showroom-live.com/e141b5413547) by: [@GraciasFans_INA](https://twitter.com/GraciasFans_INA)|
@@ -124,6 +124,7 @@ Avatar berikut tidak tersedia; telah dihapus oleh pihak Showroom
 |Avocado Janeshi|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038464.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
 |Darashinai Aishikata|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036745.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |Kareha no Station|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040085.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
+|Menanti|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041251.png)|[INSHANITY](https://www.showroom-live.com/ecb9b4825330) by: [@InshanityID](https://twitter.com/InshanityID)|
 Omoide Ijou|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040328.png)|[G R A C I A S](https://www.showroom-live.com/e141b5413547) by: [@GraciasFans_INA](https://twitter.com/GraciasFans_INA)|
 |Rakuen no Kaidan|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040377.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
 |Ramune no Nomikata|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041194.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
