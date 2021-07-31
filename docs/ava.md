@@ -52,7 +52,6 @@ DM [twitter](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord (https
 |[Ariella Calista](https://twitter.com/C_ArielJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040764.png)|[Listia](https://www.showroom-live.com/77d3f5214340) by: [@listi\_ana_](https://twitter.com/listi_ana_)|
 |[Ariella Calista](https://twitter.com/C_ArielJKT48) dan [Eve Antoinette](https://twitter.com/Eve_JKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040620.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |[Azizi Asadel](https://twitter.com/A_ZeeJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035785.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036659.png)![3](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036683.png)![4](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038309.png)![5](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038679.png)![6](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039403.png)|[Super ZeeOshi Room](https://www.showroom-live.com/6c3a35241316) by: [@SuperZeeOshi](https://twitter.com/SuperZeeOshi)|
-|[Azizi Asadel](https://twitter.com/A_ZeeJKT48)|in progress|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |[Cindy Hapsari](https://twitter.com/CindyH_JKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037792.png)|[CDR Project](https://www.showroom-live.com/fa4a34748745) by: [@Cindyrections](https://twitter.com/cindyrections)|
 |[Cornelia Vanisa](https://twitter.com/C_OnielJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039536.png)|[Asosiasi Petani Showroom](https://www.showroom-live.com/8687a5348953) by: [@PetaniSR_ID](https://twitter.com/PetaniSR_ID)|
 |[Cornelia Vanisa](https://twitter.com/C_OnielJKT48)|in progress|[Onielity](https://www.showroom-live.com/bf4e25363908) by: [@onielity_ofc](https://twitter.com/onielity_ofc)|
@@ -67,9 +66,11 @@ DM [twitter](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord (https
 |[Fiony Alveria](https://twitter.com/A_FionyJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040069.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040279.png)|[Paguyuban Nyonya Fiony](https://www.showroom-live.com/d3ed15447850) by: [@Febiano_1109](https://twitter.com/Febiano_1109)|
 |[Flora Shafiqa](https://twitter.com/S_FloraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037967.png)|[Bloom](https://www.showroom-live.com/b793b5351463) by: [@FloRisenID](https://twitter.com/FloRisenID)|
 |[Fransisca Saraswati](https://twitter.com/S_SiscaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038316.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
+|[Fransisca Saraswati](https://twitter.com/S_SiscaJKT48)|in progress|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |[Fransisca Saraswati](https://twitter.com/S_SiscaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039073.png)|[Asosiasi Petani Showroom](https://www.showroom-live.com/8687a5348953) by: [@PetaniSR_ID](https://twitter.com/PetaniSR_ID)|
 |[Freya Jayawardana](https://twitter.com/Freya_JKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038007.png)|[GURITA48](https://www.showroom-live.com/a0a485208439) by: [@gurita48](https://twitter.com/gurita48)|
 |[Gabriela Warouw](https://twitter.com/gabyJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036589.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037367.png)|[Coconut Family](https://www.showroom-live.com/7d4734006411) by: [@Gabycious48](https://twitter.com/Gabycious48)|
+|[Gabriela Warouw](https://twitter.com/gabyJKT48)|in progress|[Listia](https://www.showroom-live.com/77d3f5214340) by: [@listi\_ana_](https://twitter.com/listi_ana_)|
 |[Gita Sekar](https://twitter.com/A_GitaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040056.png)|[SKAPSKIP PROJECT](https://www.showroom-live.com/991625324380) by [@skapskipproject](https://twitter.com/skapskipproject)|
 |[Helisma Mauludzunia](https://twitter.com/H_EliJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036612.png)|[Helismiley Project](https://www.showroom-live.com/387eb5250998) by: [@Helismiley_OFC](https://twitter.com/Helismiley_OFC)|
 |[Indah Cahya](https://twitter.com/C_IndahJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038077.png)|[Interindah FC](https://www.showroom-live.com/40e745298634) by: [@InterindahFC](https://twitter.com/InterindahFC)|
@@ -110,7 +111,6 @@ Avatar berikut tidak tersedia; telah dihapus oleh pihak Showroom
 
 |Member|Avatar|Link Showroom|
 | :------------- | :----------: | :----------- |
-|[Aurel Mayori](https://twitter.com/aurelmayorii)|in progress (?)|[Paguyuban Sayang Yori](https://www.showroom-live.com/579cc5431491) by: [@YorigamiID](https://twitter.com/YorigamiID)|
 |[Aurel Mayori](https://twitter.com/aurelmayorii)|in progress|[GURITA48](https://www.showroom-live.com/a0a485208439) by: [@gurita48](https://twitter.com/gurita48)|
 |[Beby Chaesara](https://twitter.com/bchsr_)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035617.png)|[BebyOshi Story](https://www.showroom-live.com/b9cdb4775676) by: [@BebyOshi](https://twitter.com/BebyOshi)|
 |[Febi Komaril](https://twitter.com/giraffebiii)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039609.png)|[Febinetsui Media](https://www.showroom-live.com/186c65450978) by: [@FebinetsuiMedia](https://twitter.com/FebinetsuiMedia)|
@@ -122,6 +122,7 @@ Avatar berikut tidak tersedia; telah dihapus oleh pihak Showroom
 |Tema|Avatar|Link Showroom|
 | :------------- | :----------: | :----------- |
 |Avocado Janeshi|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038464.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
+|Berdebar|in progress|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |Darashinai Aishikata|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036745.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |Kareha no Station|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040085.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
 |Menanti|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041251.png)|[INSHANITY](https://www.showroom-live.com/ecb9b4825330) by: [@InshanityID](https://twitter.com/InshanityID)|
