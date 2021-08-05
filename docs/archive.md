@@ -160,6 +160,7 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
   - 🟢Tiktok: [@lisajkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOdmf1vPKXz64blngQ?e=3U1csL) (25,9MB)
   - 📦Twitter: [@Elisabeth_JKT48](https://1drv.ms/u/s!At0yKdjMPQCyhOwHL8xYNQgjl0XITQ?e=4j8zlr)
 - Fidly Immanda Azzahra
+  - 🟢🔴Instagram: [@jkt48fia](https://1drv.ms/u/s!At0yKdjMPQCyiKAeJ1QAnixtvDhh3Q?e=ngyGDG) (656MB)
   - 🟢Tiktok: [@fiajkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOduuPbRqh4ztVaAMA?e=ytOtW8) (65,3MB)
 - Melati Putri
   - 🟢🔴Instagram: [@jkt48melati](https://1drv.ms/u/s!At0yKdjMPQCyxH_z1kHvWaGJQjsn?e=VLEhqt) (682MB)
@@ -168,6 +169,7 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
 ### 5th Gen
 
 - Diani Amalia Ramadhani
+  - 🟢🔴Instagram: [@jkt48.diani](https://1drv.ms/u/s!At0yKdjMPQCyiJYhNeU0kWMaf4rwJA?e=06QjP7) (249MB)
   - 🟢Tiktok: [@dianijkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOsA7xftQsYuirUeeg?e=6Euf3V) (91,5MB)
   - 🟢Twitter: [@DianiJKT48](https://1drv.ms/u/s!At0yKdjMPQCyg7pSl0u5BJpPzBMz6A?e=5m944Z) (1,45GB)
 - Gabryela Marcelina
@@ -183,8 +185,11 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
 ### 6th Gen
 
 - Anastasya Narwastu Tety Handuran
+  - 🟢🔴Instagram: [@jkt48tasya](https://1drv.ms/u/s!At0yKdjMPQCyiJp-VeCBWMSHQhuH6A?e=MPjauc) (192MB)
   - 🟢Tiktok: [@tasyajkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOg91S1lqTny0EoqRw?e=lfrgkf) (54,7MB)
   - 🟢Twitter: [@N_TasyaJKT48](https://1drv.ms/u/s!At0yKdjMPQCyh5ISoOAY-XwIxaPIPw?e=norXyT) (923MB)
+- Kandiya Rafa Maulidita
+  - 🟢🔴Instagram: [@jkt48indy](https://1drv.ms/f/s!At0yKdjMPQCyiKAr1ZUIbd_iBc6Vdg) (430MB)
 - Rinanda Syahputri
   - 🟢Tiktok: [@nandajkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOdXpLq--HVMQphmEQ?e=xxU0Ee) (27,4MB)
 - Riska Amelia Putri
@@ -241,6 +246,8 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
   - 🔵Instagram: [@nyabirra](https://1drv.ms/u/s!At0yKdjMPQCyhZ1nZgyK2cY-hhwJHA?e=ZqE2fI)
   - 🟢Tiktok: [@nabila.jkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOc3GO50kBElDZW7Cw?e=LznL1K) (28,2MB)
   - 🔵Twitter: [@nyabirra](https://1drv.ms/f/s!At0yKdjMPQCyhOAui2RPRFJ9oxNV4Q)
+- Putri Elzahra
+  - 🟢🔴Instagram: [@jkt48zahra_](https://1drv.ms/u/s!At0yKdjMPQCyiJpgaay5NMAesU0M0g?e=1oHhol) (66,4MB)
 - Shinta Devi
   - 📦Instagram: [@jk48.shinta](https://1drv.ms/u/s!At0yKdjMPQCyhZc7woWtEHVvnaXpLg?e=0URflL)
   - 🟢Tiktok: [@shintajkt48](https://1drv.ms/u/s!At0yKdjMPQCypjCEjdRrPdd-1oib?e=ybEOf9) (78,2MB)
