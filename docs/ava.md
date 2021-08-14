@@ -4,7 +4,7 @@ title: Katalog Avatar Showroom
 sidebar_label: Katalog Avatar SR
 ---
 
-Catalog maintained by Chris ([@penguinwota](https://twitter.com/penguinwota))
+Catalog maintained by Chris ([@penguinwota](https://twitter.com/penguinwota)) | Last updated: 14/08/2021
 
 Berikut daftar avatar original yang berkaitan dengan JKT48, baik official maupun fanmade.
 
@@ -47,7 +47,7 @@ DM [twitter](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord (https
 |[Angelina Christy](https://twitter.com/A_ChristyJKT48), [Azizi Asadel](https://twitter.com/A_ZeeJKT48), dan [Fiony Alveria](https://twitter.com/A_FionyJKT48)|in progress|[Asosiasi Petani Showroom](https://www.showroom-live.com/8687a5348953) by: [@PetaniSR_ID](https://twitter.com/PetaniSR_ID)|
 |[Angelina Christy](https://twitter.com/A_ChristyJKT48) dan [Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041443.png)|[ADP48 (ChikaraGreshan)](https://www.showroom-live.com/c3e485454817) by: [@adp48project_](https://twitter.com/adp48project_)|
 |[Aninditha Cahyadi](https://twitter.com/R_AninJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038669.png)|[Aninlicious Room](https://www.showroom-live.com/dfe404836158) by: [@Aninlicious](https://twitter.com/Aninlicious)|
-|[Aninditha Cahyadi](https://twitter.com/R_AninJKT48)|in progress|[ADP48 (ChikaraGreshan)](https://www.showroom-live.com/c3e485454817) by: [@adp48project_](https://twitter.com/adp48project_)|
+|[Aninditha Cahyadi](https://twitter.com/R_AninJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041735.png)|[ADP48 (ChikaraGreshan)](https://www.showroom-live.com/c3e485454817) by: [@adp48project_](https://twitter.com/adp48project_)|
 |[Aninditha Cahyadi](https://twitter.com/R_AninJKT48) dan [Shania Gracia](https://twitter.com/S_GraciaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041194.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
 |[Ariella Calista](https://twitter.com/C_ArielJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036366.png)|[AGS Avatar Project](https://www.showroom-live.com/a57114006053) by: [@atletkun](https://twitter.com/atletkun)|
 |[Ariella Calista](https://twitter.com/C_ArielJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040764.png)|[Listia](https://www.showroom-live.com/77d3f5214340) by: [@listi\_ana_](https://twitter.com/listi_ana_)|
@@ -70,6 +70,7 @@ DM [twitter](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord (https
 |[Fransisca Saraswati](https://twitter.com/S_SiscaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038316.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041757.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |[Fransisca Saraswati](https://twitter.com/S_SiscaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039073.png)|[Asosiasi Petani Showroom](https://www.showroom-live.com/8687a5348953) by: [@PetaniSR_ID](https://twitter.com/PetaniSR_ID)|
 |[Freya Jayawardana](https://twitter.com/Freya_JKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038007.png)|[GURITA48](https://www.showroom-live.com/a0a485208439) by: [@gurita48](https://twitter.com/gurita48)|
+|[Freya Jayawardana](https://twitter.com/Freya_JKT48)|in progress|[Ringo Project](https://www.showroom-live.com/4f67e801801) by: [@Mirukiringo](https://twitter.com/Mirukiringo)|
 |[Gabriela Warouw](https://twitter.com/gabyJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036589.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037367.png)|[Coconut Family](https://www.showroom-live.com/7d4734006411) by: [@Gabycious48](https://twitter.com/Gabycious48)|
 |[Gabriela Warouw](https://twitter.com/gabyJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041731.png)|[Listia](https://www.showroom-live.com/77d3f5214340) by: [@listi\_ana_](https://twitter.com/listi_ana_)|
 |[Gita Sekar](https://twitter.com/A_GitaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040056.png)|[SKAPSKIP PROJECT](https://www.showroom-live.com/991625324380) by [@skapskipproject](https://twitter.com/skapskipproject)|
