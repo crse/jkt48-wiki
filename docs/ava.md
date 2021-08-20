@@ -4,7 +4,7 @@ title: Katalog Avatar Showroom
 sidebar_label: Katalog Avatar SR
 ---
 
-Catalog maintained by Chris ([@penguinwota](https://twitter.com/penguinwota)) | Last updated: 14/08/2021
+Catalog maintained by Chris ([@penguinwota](https://twitter.com/penguinwota))
 
 Berikut daftar avatar original yang berkaitan dengan JKT48, baik official maupun fanmade.
 
@@ -124,6 +124,7 @@ Avatar berikut tidak tersedia; telah dihapus oleh pihak Showroom
 
 |Tema|Avatar|Link Showroom|
 | :------------- | :----------: | :----------- |
+|Ame no Pianist|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041818.png)|[Celinesse Diary](https://www.showroom-live.com/38ba95200040) by: [@CelinesseWorld](https://twitter.com/CelinesseWorld)|
 |Avocado Janeshi|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038464.png)|[Pejuang Showroom](https://www.showroom-live.com/d15785325184) by: [@PejuangShowroom](https://twitter.com/PejuangShowroom)|
 |Berdebar|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041757.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |Darashinai Aishikata|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036745.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
