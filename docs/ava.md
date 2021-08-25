@@ -100,8 +100,6 @@ DM [twitter](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord (https
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041285.png)|[ADP48 (ChikaraGreshan)](https://www.showroom-live.com/c3e485454817) by: [@projectava48](https://twitter.com/projectava48)|
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48) dan [Zahra Nur](https://twitter.com/N_AraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040668.png)|[ADP48 (ChikaraGreshan)](https://www.showroom-live.com/c3e485454817) by: [@projectava48](https://twitter.com/projectava48)|
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48) dan [Zahra Nur](https://twitter.com/N_AraJKT48)|in progress|[AGS Avatar Project](https://www.showroom-live.com/a57114006053) by: [@atletkun](https://twitter.com/atletkun)|
-|[Zahra Nur](https://twitter.com/N_AraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038341.png)|[Charger Oshi](https://www.showroom-live.com/29d944836330) by: [@chargeroshii](https://twitter.com/chargeroshii)|
-|[Zahra Nur](https://twitter.com/N_AraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041065.png)|[Arashi_id](https://www.showroom-live.com/e743c4776775) by: [@Arashi_ID](https://twitter.com/Arashi_ID)|
 
 Avatar berikut tidak tersedia; telah dihapus oleh pihak Showroom
 
@@ -118,6 +116,8 @@ Avatar berikut tidak tersedia; telah dihapus oleh pihak Showroom
 |[Febi Komaril](https://twitter.com/giraffebiii)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039609.png)|[Febinetsui Media](https://www.showroom-live.com/186c65450978) by: [@FebinetsuiMedia](https://twitter.com/FebinetsuiMedia)|
 |[Febrina Diponegoro](https://twitter.com/Fbrn_bri)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041069.png)|[GURITA48](https://www.showroom-live.com/a0a485208439) by: [@gurita48](https://twitter.com/gurita48)|
 |[Frieska Anastasia](https://twitter.com/thisfrieska)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037310.png)|[Frieskavers Room](https://www.showroom-live.com/2e2a15245592) by: [@FrieskaversINA](https://twitter.com/FrieskaversINA)|
+|[Zahra Nur](https://twitter.com/N_AraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038341.png)|[Charger Oshi](https://www.showroom-live.com/29d944836330) by: [@chargeroshii](https://twitter.com/chargeroshii)|
+|[Zahra Nur](https://twitter.com/N_AraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041065.png)|[Arashi_id](https://www.showroom-live.com/e743c4776775) by: [@Arashi_ID](https://twitter.com/Arashi_ID)|
 
 ### Fanmade - Music Avatar
 
