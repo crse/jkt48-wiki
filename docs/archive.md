@@ -8,7 +8,7 @@ Proyek oleh [JKT48Discord](https://twitter.com/JKT48Discord) - Discord invite: h
 
 [![JKT48 Discord](https://discordapp.com/api/guilds/600387836201664523/widget.png?style=banner2)](https://discord.gg/BN635Eb)
 
-Dikelola oleh: Boim, Maeru, and Chris
+Dikelola oleh: Boim, Maeru, and Chris.
 
 🔐Password archive: `JKT48Discord`
 
@@ -233,6 +233,10 @@ Untuk mencari, gunakan shortcut `Ctrl+F` (Windows / Linux) atau `⌘+F` (Mac).
 - Umega Maulana Sinambela
   - 🟢Tiktok: [@umejkt48](https://1drv.ms/u/s!At0yKdjMPQCyhOczErX_Y_Ri6N8icQ?e=NmJPv1) (28,6MB)
   - 🟢📦? Twitter: [@M_UmeJKT48](https://1drv.ms/u/s!At0yKdjMPQCygpxEYcoPuEQVHsKz-A?e=jaLqSw) (308MB) - need file recheck
+- Zahra Nur Khaulah:
+  - 🟢🔴Instagram: [@jkt48.ara](https://1drv.ms/u/s!At0yKdjMPQCyiLQcGEcRglFChPzMAQ?e=alJxIb) (502MB)
+  - 🟢Tiktok: [@ara.jkt48](https://1drv.ms/u/s!At0yKdjMPQCyiK17944jDEGiepskdA?e=3oNKdo) (192MB)
+  - 🟢Twitter: [@N_AraJKT48](https://1drv.ms/u/s!At0yKdjMPQCyiK48uZeuHicULRXClg?e=6QNxiS) (561MB)
 
 ### 9th Gen
 - Caithlyn Gwyneth
