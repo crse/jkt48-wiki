@@ -14,7 +14,7 @@ Beberapa fanbase telah mengalami pergantian nama, unifikasi, ataupun dualisme. S
 
 :::
 
-## Fanbase Utama
+## Fanbase General
 
 |Logo|Team|Nama Fanbase|SNS|
 | :------------- | :---------- | :----------- |:---|
@@ -59,8 +59,7 @@ Beberapa fanbase telah mengalami pergantian nama, unifikasi, ataupun dualisme. S
 |<img src="https://i.imgur.com/2YCzWK6.png" alt="logo" width="100"/>|Shani Indira Natio|Inshanity|[@InshanityID](https://twitter.com/InshanityID)|
 |<img src="https://i.imgur.com/stSzLTO.png" alt="logo" width="100"/>|Shania Gracia|Gracias, Graciactive (old)|[@GraciasFans_INA](https://twitter.com/GraciasFans_INA)|
 |<img src="https://i.imgur.com/0OKzUs5.png" alt="logo" width="100"/>| Tan Zhi Hui Celine | Celinesse| [@CelinesseWorld](https://twitter.com/celinesseworld)|
-|<img src="https://i.imgur.com/KSjQmCo.png" alt="logo" width="100"/>|Yessica Tamara|JOY for Chika, Chikanation|[@JOYforChika](https://twitter.com/JOYforChika)|
-|<img src="https://i.imgur.com/Uw4Nck6.png" alt="logo" width="100"/>|Zahra Nur|Arashi|[@Arashi_ID](https://twitter.com/Arashi_ID)|
+|<img src="https://i.imgur.com/KSjQmCo.png" alt="logo" width="100"/>|Yessica Tamara|NAVY, JOY for Chika (old), Chikanation (old)|[@NAVY_INA](https://twitter.com/NAVY_INA)|
 
 ## Aliansi Generasi
 
@@ -287,6 +286,7 @@ Note: kemungkinanan tanpa fanbase
 ||Reva Adriana|Historeva|[@Historeva](https://twitter.com/Historeva) (❌)|
 |<img src="https://i.imgur.com/btqujsZ.png" alt="possible wrong logo" width="100"/>|Salma Annisa|Salmate|[@Salmate_OFC](https://twitter.com/@SLMT666) (🚧)|
 |<img src="https://i.imgur.com/Q3IgPv4.png" alt="logo" width="100"/>|Umega Maulana|Umeboshi|[@Umeboshi_Ofc](https://twitter.com/Umeboshi_Ofc)|
+|<img src="https://i.imgur.com/Uw4Nck6.png" alt="logo" width="100"/>|Zahra Nur|Arashi|[@Arashi_ID](https://twitter.com/Arashi_ID)|
 
 ### Gen 9
 
