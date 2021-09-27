@@ -9,9 +9,9 @@ Catalog maintained by Chris ([@penguinwota](https://twitter.com/penguinwota)).
 Berikut daftar avatar original yang berkaitan dengan JKT48, baik official maupun fanmade.
 
 Ada yang kurang? Informasi salah?
-DM [twitter](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord (https://discord.gg/JKT48).
+DM [twitter](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord (https://discord.gg/BN635Eb).
 
-[![JKT48 Discord](https://discordapp.com/api/guilds/600387836201664523/widget.png?style=banner2)](https://discord.gg/JKT48)
+[![JKT48 Discord](https://discordapp.com/api/guilds/600387836201664523/widget.png?style=banner2)](https://discord.gg/BN635Eb)
 
 :::info Cara Klaim Free Avatar
 
@@ -62,9 +62,8 @@ DM [twitter](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord (https
 |[Cornelia Vanisa](https://twitter.com/C_OnielJKT48)|in progress|[RailFans - FJKT48「JKT48のファン」](https://www.showroom-live.com/a7e864750214) by: [@Vernando_IT](https://twitter.com/Vernando_IT)|
 |[Dhea Angelia](https://twitter.com/A_DeyJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037821.png)|[Deyrrior](https://www.showroom-live.com/a49605304110) by: [@Deyrrior_](https://twitter.com/Deyrrior_)|
 |[Eve Antoinette](https://twitter.com/Eve_JKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035300.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038793.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
-|[Eve Antoinette](https://twitter.com/Eve_JKT48)|in progress|[Coconut Family](https://www.showroom-live.com/7d4734006411) by: [@Gabycious48](https://twitter.com/Gabycious48)|
 |[Febriola Sinambela](https://twitter.com/F_OllaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038614.png)|[GURITA48](https://www.showroom-live.com/a0a485208439) by: [@gurita48](https://twitter.com/gurita48)|
-|[Feni Fitriyanti](https://twitter.com/F_FeniJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039054.png)|[Tara Haes](https://www.showroom-live.com/005395181726) by: [@PodcastLogika](https://twitter.com/PodcastLogika)|
+|[Feni Fitriyanti](https://twitter.com/F_FeniJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039054.png)|[Kelinci Musim Ujan Room](https://www.showroom-live.com/005395181726) by: [@PodcastLogika](https://twitter.com/PodcastLogika)|
 |[Feni Fitriyanti](https://twitter.com/F_FeniJKT48), [Shani Indira](https://twitter.com/N_ShaniJKT48), dan [Shania Gracia](https://twitter.com/S_GraciaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040945.png)|[Pejuang Ngidol](https://www.showroom-live.com/d15785325184) by: [@PejuangNgidol](https://twitter.com/PejuangNgidol)|
 |[Feni Fitriyanti](https://twitter.com/F_FeniJKT48), [Shani Indira](https://twitter.com/N_ShaniJKT48), dan [Shania Gracia](https://twitter.com/S_GraciaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1042556.png)|[Fenidelity](https://www.showroom-live.com/497e95527401) by: [@FenidelitySR](https://twitter.com/FenidelitySR)|
 |[Fiony Alveria](https://twitter.com/A_FionyJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037973.png)|[Symfiony](https://www.showroom-live.com/d61555376451) by: [@Symfiony](https://twitter.com/Symfiony)|
@@ -90,6 +89,7 @@ DM [twitter](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord (https
 |[Lulu Salsabila](https://twitter.com/A_LuluJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041732.png)|[Baru Ngidol](https://www.showroom-live.com/4f67e801801) by: [@BaruNgidol_](https://twitter.com/BaruNgidol_)|
 |[Marsha Lenathea](https://twitter.com/L_MarshaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035702.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037380.png)|[Marsha Oshi](https://www.showroom-live.com/08c014749592) by: [@MarshaOshi_](https://twitter.com/marshaoshi_)|
 |[Mutiara Azzahra](https://twitter.com/A_MutheJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036569.png)|[MuTalk / ムトーク](https://www.showroom-live.com/8f0ac5255835) by: [@MuffinOfficial_](https://twitter.com/MuffinOfficial_)|
+|[Mutiara Azzahra](https://twitter.com/A_MutheJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1043075.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |[Reva Fidela](https://twitter.com/R_AdelJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040678.png)|[Adellion Official SHOWROOM](https://www.showroom-live.com/a62385511995) by: [@Adellion_](https://twitter.com/Adellion_)|
 |[Shani Indira](https://twitter.com/N_ShaniJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035477.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036745.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |[Shani Indira](https://twitter.com/N_ShaniJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040085.png)|[Pejuang Ngidol](https://www.showroom-live.com/d15785325184) by: [@PejuangNgidol](https://twitter.com/PejuangNgidol)|
