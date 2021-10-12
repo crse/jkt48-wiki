@@ -80,6 +80,7 @@ DM [twitter](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord (https
 |[Gita Sekar](https://twitter.com/A_GitaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040056.png)|[XSKIP #MEDALLION](https://www.showroom-live.com/991625324380) by [@_Xskip](https://twitter.com/_Xskip)|
 |[Gita Sekar](https://twitter.com/A_GitaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1042620.png)|[Gitroops](https://www.showroom-live.com/551515218885) by [@gitroops](https://twitter.com/gitroops)|
 |[Helisma Mauludzunia](https://twitter.com/H_EliJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036612.png)|[Helismiley Project](https://www.showroom-live.com/387eb5250998) by: [@Helismiley_OFC](https://twitter.com/Helismiley_OFC)|
+|[Helisma Mauludzunia](https://twitter.com/H_EliJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1044003.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |[Indah Cahya](https://twitter.com/C_IndahJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038077.png)|[Interindah FC](https://www.showroom-live.com/40e745298634) by: [@InterindahFC](https://twitter.com/InterindahFC)|
 |[Indah Cahya](https://twitter.com/C_IndahJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041733.png)|[Pejuang Ngidol](https://www.showroom-live.com/d15785325184) by: [@PejuangNgidol](https://twitter.com/PejuangNgidol)|
 |[Jessica Chandra](https://twitter.com/C_JessiJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1037694.png)|[Asosiasi Petani Showroom](https://www.showroom-live.com/8687a5348953) by: [@PetaniSR_ID](https://twitter.com/PetaniSR_ID)|
@@ -94,7 +95,7 @@ DM [twitter](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord (https
 |[Mutiara Azzahra](https://twitter.com/A_MutheJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1043075.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 |[Reva Fidela](https://twitter.com/R_AdelJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040678.png)|[Adellion Official SHOWROOM](https://www.showroom-live.com/a62385511995) by: [@Adellion_](https://twitter.com/Adellion_)|
 |[Shani Indira](https://twitter.com/N_ShaniJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035477.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1036745.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
-|[Shani Indira](https://twitter.com/N_ShaniJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040085.png)|[Pejuang Ngidol](https://www.showroom-live.com/d15785325184) by: [@PejuangNgidol](https://twitter.com/PejuangNgidol)|
+|[Shani Indira](https://twitter.com/N_ShaniJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040085.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1044013.png)|[Pejuang Ngidol](https://www.showroom-live.com/d15785325184) by: [@PejuangNgidol](https://twitter.com/PejuangNgidol)|
 |[Shani Indira](https://twitter.com/N_ShaniJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041251.png)|[INSHANITY](https://www.showroom-live.com/ecb9b4825330) by: [@InshanityID](https://twitter.com/InshanityID)|
 |[Shani Indira](https://twitter.com/N_ShaniJKT48) dan [Shania Gracia](https://twitter.com/S_GraciaJKT48) |![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038174.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1038464.png)![3](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040377.png)|[Pejuang Ngidol](https://www.showroom-live.com/d15785325184) by: [@PejuangNgidol](https://twitter.com/PejuangNgidol)|
 [Shania Gracia](https://twitter.com/S_GraciaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040328.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041899.png)|[G R A C I A S](https://www.showroom-live.com/e141b5413547) by: [@GraciasFans_INA](https://twitter.com/GraciasFans_INA)|
@@ -240,9 +241,9 @@ Hanya bisa didapatkan di event. Berlangsung tanggal 1-7 Juli 2021. Link event: h
 ![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040869.png)
 ![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040870.png)
 
-### AKB48G Special Day (Oktober 2021)
+### AKB48G Special Day (Oktober-Desember 2021)
 
-Hanya bisa didapatkan di event. Berlangsung tanggal 11 Oktober 2021. Link event: https://twitter.com/SHOWROOM_jp/status/1447414374377787392
+Hanya bisa didapatkan di event. Berlangsung tanggal 11 Oktober 2021. Bulan November dan Desember akan diadakan kembali dengan avatar yang sama. Link event: https://twitter.com/SHOWROOM_jp/status/1447414374377787392
 
 Avatar bisa didapat tiap kali mendapatkan 500 point; avatar diacak; belum tentu sesuai live member yang ditonton.
 
