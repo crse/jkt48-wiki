@@ -148,6 +148,7 @@ Omoide Ijou|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/10403
 |Rakuen no Kaidan|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040377.png)|[Pejuang Ngidol](https://www.showroom-live.com/d15785325184) by: [@PejuangNgidol](https://twitter.com/PejuangNgidol)|
 |Ramune no Nomikata|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041194.png)|[Pejuang Ngidol](https://www.showroom-live.com/d15785325184) by: [@PejuangNgidol](https://twitter.com/PejuangNgidol)|
 |Rapsodi|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1035477.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
+|Tsugi no Season|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1045058.png)|[ifC's. MARINAとペンギン村](https://www.showroom-live.com/187ba3277867) by: [@MARINA_showroom](https://twitter.com/MARINA_showroom)|
 
 ### Fanmade - Other
 
@@ -249,7 +250,7 @@ Hanya bisa didapatkan di event. Berlangsung tanggal 1-7 Juli 2021. Link event: h
 
 ### AKB48G Special Day (Oktober-Desember 2021)
 
-Hanya bisa didapatkan di event. Berlangsung tanggal 11 Oktober 2021. Bulan November dan Desember akan diadakan kembali dengan avatar yang sama. Link event: https://twitter.com/SHOWROOM_jp/status/1447414374377787392
+Hanya bisa didapatkan di event. Berlangsung tanggal 11 Oktober dan 16 November 2021. Bulan Desember akan diadakan kembali dengan avatar yang sama. Link event: https://twitter.com/SHOWROOM_jp/status/1447414374377787392; https://twitter.com/SHOWROOM_jp/status/1460457598734385156
 
 Avatar bisa didapat tiap kali mendapatkan 500 point; avatar diacak; belum tentu sesuai live member yang ditonton.
 
