@@ -111,6 +111,7 @@ DM [twitter](https://twitter.com/penguinwota) atau lapor ke JKT48 Discord (https
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1039366.png)|[AGS Avatar Project](https://www.showroom-live.com/a57114006053) by: [@atletkun](https://twitter.com/atletkun)|
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040123.png)![2](https://image.showroom-cdn.com/showroom-prod/image/avatar/1042818.png)|[Tamara East Borneo](https://www.showroom-live.com/268b85476941) by: [@TamaraEBorneo](https://twitter.com/TamaraEBorneo)|
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1041285.png)|[ADP48 (ChikaraGreshan)](https://www.showroom-live.com/c3e485454817) by: [@projectava48](https://twitter.com/projectava48)|
+|[Yessica Tamara](https://twitter.com/Y_ChikaJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1044381.png)|[Yessica North Borneo](https://www.showroom-live.com/df8c55588200) by: [@YessicaNBorneo](https://twitter.com/YessicaNBorneo)|
 |[Yessica Tamara](https://twitter.com/Y_ChikaJKT48) dan [Zahra Nur](https://twitter.com/N_AraJKT48)|![1](https://image.showroom-cdn.com/showroom-prod/image/avatar/1040668.png)|[ADP48 (ChikaraGreshan)](https://www.showroom-live.com/c3e485454817) by: [@projectava48](https://twitter.com/projectava48)|
 
 Avatar berikut tidak tersedia; telah dihapus oleh pihak Showroom
