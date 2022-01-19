@@ -4,6 +4,15 @@ title: Katalog Avatar Showroom
 sidebar_label: Katalog Avatar SR
 ---
 
+:::caution Peringatan
+
+Katalog avatar ini sudah tidak diperbarui.
+Versi terbaru tersedia di https://jkt48wiki.miraheze.org/wiki/Daftar_avatar_Showroom
+
+Sekarang siapa saja bisa ikut berkontribusi :)
+
+:::
+
 Catalog maintained by Chris ([@penguinwota](https://twitter.com/penguinwota)).
 
 Berikut daftar avatar original yang berkaitan dengan JKT48, baik official maupun fanmade.
